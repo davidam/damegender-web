@@ -1,0 +1,120 @@
+[{
+"name": "ANÍTA",
+"frequency": 650,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 1131
+} 
+], 
+"au": [
+{ 
+"males": 8,
+"females": 887
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 118462
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 469
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 108558
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 7697
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 2039
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 43430
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 29630
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1023
+} 
+], 
+"is": [
+{ 
+"males": 0,
+"females": 640
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 14553
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 1526
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 271
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 101
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 53314
+} 
+], 
+"us": [
+{ 
+"males": 684,
+"females": 214456
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 268
+} 
+] 
+}]

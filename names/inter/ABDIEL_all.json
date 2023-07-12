@@ -2,5 +2,29 @@
 "name": "ABDIEL",
 "frequency": 2747,
 "males": "99.96359665089189 %",
-"females": "0.03640334910811795 %"
+"females": "0.03640334910811795 %",
+"ch": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 57,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 6145,
+"females": 0
+} 
+] 
 }]

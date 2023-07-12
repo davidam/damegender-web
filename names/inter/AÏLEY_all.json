@@ -1,0 +1,24 @@
+[{
+"name": "AÏLEY",
+"frequency": 42,
+"males": "47.61904761904761 %",
+"females": "52.38095238095239 %",
+"ca": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 879
+} 
+] 
+}]

@@ -2,5 +2,11 @@
 "name": "ACHIENG",
 "frequency": 15,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fi": [
+{ 
+"males": 0,
+"females": 29
+} 
+] 
 }]

@@ -1,6 +1,24 @@
 [{
 "name": "AALTJE",
-"frequency": 105,
+"frequency": 126,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 63
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 131
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 13
+} 
+] 
 }]

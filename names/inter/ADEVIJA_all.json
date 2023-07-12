@@ -1,6 +1,18 @@
 [{
 "name": "ADEVIJA",
-"frequency": 166,
+"frequency": 169,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 163
+} 
+] 
 }]

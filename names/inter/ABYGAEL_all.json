@@ -2,5 +2,23 @@
 "name": "ABYGAEL",
 "frequency": 400,
 "males": "0.25 %",
-"females": "99.75 %"
+"females": "99.75 %",
+"ch": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 365
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 54
+} 
+] 
 }]

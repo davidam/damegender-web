@@ -1,0 +1,42 @@
+[{
+"name": "AÏSSA",
+"frequency": 2042,
+"males": "85.65132223310479 %",
+"females": "14.348677766895202 %",
+"be": [
+{ 
+"males": 1365,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 144,
+"females": 26
+} 
+], 
+"es": [
+{ 
+"males": 898,
+"females": 127
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"fr": [
+{ 
+"males": 2760,
+"females": 334
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 632
+} 
+] 
+}]

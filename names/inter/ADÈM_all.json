@@ -1,0 +1,96 @@
+[{
+"name": "ADÈM",
+"frequency": 73,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 76,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 7880,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 6545,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 424,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 172,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 120,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 11420,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 419,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 215,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 165,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 3898,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1085,
+"females": 0
+} 
+] 
+}]

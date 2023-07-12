@@ -2,5 +2,17 @@
 "name": "ABDELA",
 "frequency": 85,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 56,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 36,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,24 @@
+[{
+"name": "AMÉ",
+"frequency": 39,
+"males": "100.0 %",
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"us": [
+{ 
+"males": 6,
+"females": 373
+} 
+] 
+}]

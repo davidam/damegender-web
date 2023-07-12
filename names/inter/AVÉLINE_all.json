@@ -1,0 +1,42 @@
+[{
+"name": "AVÉLINE",
+"frequency": 5,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 202
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 268
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1051
+} 
+] 
+}]

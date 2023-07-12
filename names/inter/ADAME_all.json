@@ -2,5 +2,29 @@
 "name": "ADAME",
 "frequency": 2016,
 "males": "95.68452380952381 %",
-"females": "4.315476190476191 %"
+"females": "4.315476190476191 %",
+"be": [
+{ 
+"males": 209,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 54,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1690,
+"females": 60
+} 
+] 
 }]

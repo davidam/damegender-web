@@ -2,5 +2,23 @@
 "name": "AARA",
 "frequency": 56,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 166
+} 
+] 
 }]

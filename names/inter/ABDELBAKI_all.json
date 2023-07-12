@@ -2,5 +2,23 @@
 "name": "ABDELBAKI",
 "frequency": 145,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 24,
+"females": 0
+} 
+] 
 }]

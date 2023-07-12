@@ -2,5 +2,17 @@
 "name": "ABHIMANYU",
 "frequency": 147,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 78,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 241,
+"females": 0
+} 
+] 
 }]

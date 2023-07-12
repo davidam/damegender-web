@@ -2,5 +2,17 @@
 "name": "ADIELA",
 "frequency": 166,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 184
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 37
+} 
+] 
 }]

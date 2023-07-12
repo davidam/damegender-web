@@ -2,5 +2,11 @@
 "name": "AARIK",
 "frequency": 110,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 200,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "AADHYA",
 "frequency": 283,
 "males": "0.7067137809187279 %",
-"females": "99.29328621908127 %"
+"females": "99.29328621908127 %",
+"ca": [
+{ 
+"males": 2,
+"females": 30
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2408
+} 
+] 
 }]

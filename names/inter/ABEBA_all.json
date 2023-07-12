@@ -1,6 +1,18 @@
 [{
 "name": "ABEBA",
-"frequency": 27,
+"frequency": 114,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 479
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 19
+} 
+] 
 }]

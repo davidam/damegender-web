@@ -2,5 +2,11 @@
 "name": "ADRIJANO",
 "frequency": 554,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"si": [
+{ 
+"males": 553,
+"females": 0
+} 
+] 
 }]

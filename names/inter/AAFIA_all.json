@@ -1,6 +1,18 @@
 [{
 "name": "AAFIA",
-"frequency": 3,
+"frequency": 26,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"gb": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 16
+} 
+] 
 }]

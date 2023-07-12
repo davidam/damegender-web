@@ -2,5 +2,17 @@
 "name": "ADMIRE",
 "frequency": 60,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 131
+} 
+], 
+"us": [
+{ 
+"males": 34,
+"females": 111
+} 
+] 
 }]

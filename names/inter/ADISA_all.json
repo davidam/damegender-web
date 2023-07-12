@@ -2,5 +2,35 @@
 "name": "ADISA",
 "frequency": 2936,
 "males": "2.282016348773842 %",
-"females": "97.71798365122616 %"
+"females": "97.71798365122616 %",
+"be": [
+{ 
+"males": 0,
+"females": 58
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1372
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 2072
+} 
+], 
+"us": [
+{ 
+"males": 79,
+"females": 109
+} 
+] 
 }]

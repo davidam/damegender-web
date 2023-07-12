@@ -1,6 +1,18 @@
 [{
 "name": "ADINDA",
-"frequency": 505,
+"frequency": 510,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 458
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 32
+} 
+] 
 }]

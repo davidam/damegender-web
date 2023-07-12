@@ -2,5 +2,65 @@
 "name": "ADNA",
 "frequency": 2133,
 "males": "0.5625879043600562 %",
-"females": "99.43741209563994 %"
+"females": "99.43741209563994 %",
+"at": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 587
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 62
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 118
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 67
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 79
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 89
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 1362
+} 
+], 
+"us": [
+{ 
+"males": 12,
+"females": 529
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ADISH",
 "frequency": 5,
 "males": "80.0 %",
-"females": "20.0 %"
+"females": "20.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,66 @@
+[{
+"name": "ALTHÉA",
+"frequency": 110,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 83
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 209
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 82
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 46
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 269
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 102
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 55
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 17277
+} 
+] 
+}]

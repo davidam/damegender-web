@@ -2,5 +2,11 @@
 "name": "AAVIN",
 "frequency": 6,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 35,
+"females": 0
+} 
+] 
 }]

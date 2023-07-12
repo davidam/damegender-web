@@ -2,5 +2,35 @@
 "name": "ABDIQANI",
 "frequency": 90,
 "males": "92.22222222222223 %",
-"females": "7.777777777777778 %"
+"females": "7.777777777777778 %",
+"ch": [
+{ 
+"males": 51,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 72,
+"females": 16
+} 
+], 
+"gb": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 27,
+"females": 0
+} 
+] 
 }]

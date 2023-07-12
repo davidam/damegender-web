@@ -2,5 +2,11 @@
 "name": "AARIF",
 "frequency": 22,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 18,
+"females": 0
+} 
+] 
 }]

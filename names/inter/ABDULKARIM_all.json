@@ -2,5 +2,41 @@
 "name": "ABDULKARIM",
 "frequency": 299,
 "males": "95.9866220735786 %",
-"females": "4.013377926421405 %"
+"females": "4.013377926421405 %",
+"ch": [
+{ 
+"males": 201,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 56,
+"females": 28
+} 
+], 
+"gb": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 180,
+"females": 0
+} 
+] 
 }]

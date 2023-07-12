@@ -1,0 +1,60 @@
+[{
+"name": "AGNESË",
+"frequency": 4,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 357
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 3102
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 93
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 128
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 51
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 16
+} 
+] 
+}]

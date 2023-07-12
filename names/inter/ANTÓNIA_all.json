@@ -1,0 +1,108 @@
+[{
+"name": "ANTÓNIA",
+"frequency": 61,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 7365
+} 
+], 
+"au": [
+{ 
+"males": 4,
+"females": 247
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 21222
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 23892
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 150
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 237
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 193396
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1316
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 10198
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 2924
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 203
+} 
+], 
+"mx": [
+{ 
+"males": 5,
+"females": 1236
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 509
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 488
+} 
+], 
+"us": [
+{ 
+"males": 2617,
+"females": 33323
+} 
+], 
+"uy": [
+{ 
+"males": 6,
+"females": 332
+} 
+] 
+}]

@@ -2,5 +2,29 @@
 "name": "ABIGAYLE",
 "frequency": 5774,
 "males": "0.08659508139937652 %",
-"females": "99.91340491860062 %"
+"females": "99.91340491860062 %",
+"ca": [
+{ 
+"males": 0,
+"females": 93
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 307
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 6066
+} 
+] 
 }]

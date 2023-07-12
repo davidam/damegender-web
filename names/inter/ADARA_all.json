@@ -2,5 +2,35 @@
 "name": "ADARA",
 "frequency": 2506,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1842
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2044
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "ABEEHA",
 "frequency": 165,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 55
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 176
+} 
+] 
 }]

@@ -1,0 +1,48 @@
+[{
+"name": "ARBËR",
+"frequency": 288,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 86,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1788,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 91,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 363,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 337,
+"females": 0
+} 
+] 
+}]

@@ -2,5 +2,11 @@
 "name": "ADRIC",
 "frequency": 285,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 444,
+"females": 0
+} 
+] 
 }]

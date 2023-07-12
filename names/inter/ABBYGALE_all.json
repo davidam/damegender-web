@@ -2,5 +2,23 @@
 "name": "ABBYGALE",
 "frequency": 718,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 812
+} 
+] 
 }]

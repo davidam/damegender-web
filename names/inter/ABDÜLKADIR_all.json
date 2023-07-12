@@ -1,0 +1,60 @@
+[{
+"name": "ABDÜLKADIR",
+"frequency": 1324,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 1019,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 767,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 112,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 496,
+"females": 276
+} 
+], 
+"fr": [
+{ 
+"males": 118,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 99,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 217,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 145,
+"females": 0
+} 
+] 
+}]

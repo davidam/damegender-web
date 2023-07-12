@@ -2,5 +2,53 @@
 "name": "ABDOU",
 "frequency": 3083,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 697,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 426,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1131,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1155,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 263,
+"females": 0
+} 
+] 
 }]

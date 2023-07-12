@@ -2,5 +2,41 @@
 "name": "AAMER",
 "frequency": 97,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 41,
+"females": 0
+} 
+] 
 }]

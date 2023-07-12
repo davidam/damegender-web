@@ -2,5 +2,23 @@
 "name": "ADIT",
 "frequency": 271,
 "males": "97.41697416974169 %",
-"females": "2.5830258302583027 %"
+"females": "2.5830258302583027 %",
+"ch": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 281,
+"females": 0
+} 
+] 
 }]

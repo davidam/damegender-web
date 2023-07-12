@@ -2,5 +2,59 @@
 "name": "AAYAN",
 "frequency": 1420,
 "males": "99.85915492957747 %",
-"females": "0.14084507042253522 %"
+"females": "0.14084507042253522 %",
+"au": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 68,
+"females": 2
+} 
+], 
+"ch": [
+{ 
+"males": 78,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 38,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 91,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 563,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2113,
+"females": 0
+} 
+] 
 }]

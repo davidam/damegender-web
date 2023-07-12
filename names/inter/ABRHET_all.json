@@ -1,6 +1,12 @@
 [{
 "name": "ABRHET",
-"frequency": 4,
+"frequency": 16,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 69
+} 
+] 
 }]

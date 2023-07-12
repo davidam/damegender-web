@@ -1,0 +1,36 @@
+[{
+"name": "AYMÉRIC",
+"frequency": 31,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 4600,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1419,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 22267,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
+}]

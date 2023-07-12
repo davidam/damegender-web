@@ -2,5 +2,35 @@
 "name": "AARIZ",
 "frequency": 489,
 "males": "99.79550102249489 %",
-"females": "0.2044989775051125 %"
+"females": "0.2044989775051125 %",
+"ca": [
+{ 
+"males": 52,
+"females": 1
+} 
+], 
+"ch": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 133,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 848,
+"females": 0
+} 
+] 
 }]

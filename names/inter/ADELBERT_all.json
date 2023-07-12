@@ -2,5 +2,29 @@
 "name": "ADELBERT",
 "frequency": 2649,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 868,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 44,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2317,
+"females": 0
+} 
+] 
 }]

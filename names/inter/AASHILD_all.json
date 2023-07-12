@@ -1,6 +1,12 @@
 [{
 "name": "AASHILD",
-"frequency": 2,
+"frequency": 284,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"no": [
+{ 
+"males": 0,
+"females": 282
+} 
+] 
 }]

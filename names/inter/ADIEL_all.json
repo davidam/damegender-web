@@ -2,5 +2,47 @@
 "name": "ADIEL",
 "frequency": 1563,
 "males": "95.07357645553422 %",
-"females": "4.926423544465771 %"
+"females": "4.926423544465771 %",
+"be": [
+{ 
+"males": 66,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 49,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 94,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 616,
+"females": 20
+} 
+], 
+"gb": [
+{ 
+"males": 11,
+"females": 6
+} 
+], 
+"mx": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2286,
+"females": 113
+} 
+] 
 }]

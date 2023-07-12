@@ -2,5 +2,17 @@
 "name": "ABDIRISAAQ",
 "frequency": 11,
 "males": "54.54545454545454 %",
-"females": "45.45454545454545 %"
+"females": "45.45454545454545 %",
+"ch": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 28,
+"females": 10
+} 
+] 
 }]

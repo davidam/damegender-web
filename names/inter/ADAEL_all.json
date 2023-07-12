@@ -2,5 +2,17 @@
 "name": "ADAEL",
 "frequency": 174,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 326,
+"females": 0
+} 
+] 
 }]

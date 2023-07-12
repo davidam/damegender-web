@@ -2,5 +2,17 @@
 "name": "ADRIENE",
 "frequency": 2402,
 "males": "2.622814321398834 %",
-"females": "97.37718567860117 %"
+"females": "97.37718567860117 %",
+"ch": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"us": [
+{ 
+"males": 61,
+"females": 2371
+} 
+] 
 }]

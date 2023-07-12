@@ -2,5 +2,11 @@
 "name": "ABDIJA",
 "frequency": 235,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"si": [
+{ 
+"males": 234,
+"females": 0
+} 
+] 
 }]

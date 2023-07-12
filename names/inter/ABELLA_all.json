@@ -2,5 +2,23 @@
 "name": "ABELLA",
 "frequency": 517,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fr": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"is": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 981
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ADEMOLA",
 "frequency": 191,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 77,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 145,
+"females": 0
+} 
+] 
 }]

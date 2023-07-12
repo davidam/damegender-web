@@ -1,6 +1,24 @@
 [{
 "name": "AARICIA",
-"frequency": 66,
+"frequency": 83,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 99
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 15
+} 
+] 
 }]

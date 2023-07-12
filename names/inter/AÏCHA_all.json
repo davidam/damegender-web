@@ -1,0 +1,66 @@
+[{
+"name": "AÏCHA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 18822
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1729
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 201
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 8996
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 198
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 11560
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 211
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 67
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 999
+} 
+] 
+}]

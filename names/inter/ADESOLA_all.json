@@ -2,5 +2,17 @@
 "name": "ADESOLA",
 "frequency": 41,
 "males": "2.4390243902439024 %",
-"females": "97.5609756097561 %"
+"females": "97.5609756097561 %",
+"gb": [
+{ 
+"males": 1,
+"females": 23
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 33
+} 
+] 
 }]

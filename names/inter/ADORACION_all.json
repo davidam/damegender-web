@@ -2,5 +2,41 @@
 "name": "ADORACION",
 "frequency": 18116,
 "males": "0.22079929344226099 %",
-"females": "99.77920070655773 %"
+"females": "99.77920070655773 %",
+"be": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 116
+} 
+], 
+"es": [
+{ 
+"males": 33,
+"females": 16603
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 54
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 11
+} 
+] 
 }]

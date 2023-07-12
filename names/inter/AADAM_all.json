@@ -2,5 +2,41 @@
 "name": "AADAM",
 "frequency": 1234,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 190,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 971,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 320,
+"females": 0
+} 
+] 
 }]

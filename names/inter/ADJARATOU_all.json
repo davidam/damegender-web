@@ -1,6 +1,18 @@
 [{
 "name": "ADJARATOU",
-"frequency": 38,
+"frequency": 43,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 36
+} 
+] 
 }]

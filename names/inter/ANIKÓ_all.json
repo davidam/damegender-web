@@ -1,0 +1,30 @@
+[{
+"name": "ANIKÓ",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 687
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 74
+} 
+], 
+"us": [
+{ 
+"males": 31,
+"females": 160
+} 
+] 
+}]

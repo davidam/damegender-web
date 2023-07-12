@@ -1,6 +1,24 @@
 [{
 "name": "ADALIND",
-"frequency": 11,
+"frequency": 15,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 675
+} 
+] 
 }]

@@ -1,0 +1,36 @@
+[{
+"name": "AZAËL",
+"frequency": 44,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 444,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 73,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2425,
+"females": 0
+} 
+] 
+}]

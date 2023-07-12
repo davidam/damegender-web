@@ -2,5 +2,53 @@
 "name": "ADMIR",
 "frequency": 10196,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 326,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 2856,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 129,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 6954,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 205,
+"females": 0
+} 
+] 
 }]

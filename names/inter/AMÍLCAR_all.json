@@ -1,0 +1,42 @@
+[{
+"name": "AMÍLCAR",
+"frequency": 44,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 662,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 236,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 146,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 64,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 886,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 190,
+"females": 5
+} 
+] 
+}]

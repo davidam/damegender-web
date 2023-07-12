@@ -2,5 +2,23 @@
 "name": "ABIE",
 "frequency": 776,
 "males": "82.86082474226805 %",
-"females": "17.13917525773196 %"
+"females": "17.13917525773196 %",
+"fr": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 14,
+"females": 29
+} 
+], 
+"us": [
+{ 
+"males": 688,
+"females": 67
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "ABHAY",
 "frequency": 628,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 54,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 106,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 782,
+"females": 0
+} 
+] 
 }]

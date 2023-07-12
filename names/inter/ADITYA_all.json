@@ -2,5 +2,65 @@
 "name": "ADITYA",
 "frequency": 4717,
 "males": "99.8940004239983 %",
-"females": "0.10599957600169599 %"
+"females": "0.10599957600169599 %",
+"au": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 145,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 446,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 52,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 434,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 5091,
+"females": 5
+} 
+] 
 }]

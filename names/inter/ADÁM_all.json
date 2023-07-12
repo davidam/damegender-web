@@ -1,0 +1,126 @@
+[{
+"name": "ADÁM",
+"frequency": 14,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 3188,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 5971,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 52476,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 6831,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 16133,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 87,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 6246,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 19961,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 3808,
+"females": 78
+} 
+], 
+"fr": [
+{ 
+"males": 73139,
+"females": 77
+} 
+], 
+"gb": [
+{ 
+"males": 64366,
+"females": 6
+} 
+], 
+"ie": [
+{ 
+"males": 12954,
+"females": 0
+} 
+], 
+"is": [
+{ 
+"males": 513,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 4351,
+"females": 0
+} 
+], 
+"nz": [
+{ 
+"males": 7756,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 13295,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 7133,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 565865,
+"females": 2052
+} 
+], 
+"uy": [
+{ 
+"males": 29,
+"females": 0
+} 
+] 
+}]

@@ -2,5 +2,29 @@
 "name": "ABIRA",
 "frequency": 132,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 138
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 33
+} 
+] 
 }]

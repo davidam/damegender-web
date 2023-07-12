@@ -1,0 +1,42 @@
+[{
+"name": "ANAÏA",
+"frequency": 254,
+"males": "0.0 %",
+"females": "100.0 %",
+"dk": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 124
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 506
+} 
+] 
+}]

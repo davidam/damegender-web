@@ -2,5 +2,35 @@
 "name": "ABOUBAKAR",
 "frequency": 1379,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 99,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 64,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 104,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1233,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 59,
+"females": 0
+} 
+] 
 }]

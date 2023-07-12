@@ -2,5 +2,41 @@
 "name": "ABDOLLAH",
 "frequency": 184,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 116,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 36,
+"females": 0
+} 
+] 
 }]

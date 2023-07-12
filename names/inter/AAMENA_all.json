@@ -2,5 +2,11 @@
 "name": "AAMENA",
 "frequency": 105,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"gb": [
+{ 
+"males": 0,
+"females": 88
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABINASH",
 "frequency": 94,
 "males": "98.93617021276596 %",
-"females": "1.0638297872340425 %"
+"females": "1.0638297872340425 %",
+"ch": [
+{ 
+"males": 121,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 13,
+"females": 0
+} 
+] 
 }]

@@ -1,6 +1,18 @@
 [{
 "name": "ADRIELLY",
-"frequency": 1,
+"frequency": 6,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 17
+} 
+] 
 }]

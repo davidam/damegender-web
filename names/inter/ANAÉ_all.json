@@ -1,0 +1,30 @@
+[{
+"name": "ANAÉ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 3140
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 97
+} 
+] 
+}]

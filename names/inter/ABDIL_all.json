@@ -2,5 +2,29 @@
 "name": "ABDIL",
 "frequency": 2172,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 1909,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 114,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 17,
+"females": 0
+} 
+] 
 }]

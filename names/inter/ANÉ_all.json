@@ -1,0 +1,54 @@
+[{
+"name": "ANÉ",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 6,
+"females": 180
+} 
+], 
+"dk": [
+{ 
+"males": 2,
+"females": 3323
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 12190
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 4373
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 210
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 289
+} 
+] 
+}]

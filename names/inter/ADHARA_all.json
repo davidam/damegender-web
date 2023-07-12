@@ -2,5 +2,17 @@
 "name": "ADHARA",
 "frequency": 324,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 490
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 168
+} 
+] 
 }]

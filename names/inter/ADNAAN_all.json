@@ -2,5 +2,23 @@
 "name": "ADNAAN",
 "frequency": 260,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 221,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 59,
+"females": 0
+} 
+] 
 }]

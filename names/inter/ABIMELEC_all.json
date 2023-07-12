@@ -2,5 +2,11 @@
 "name": "ABIMELEC",
 "frequency": 43,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 75,
+"females": 0
+} 
+] 
 }]

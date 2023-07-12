@@ -2,5 +2,47 @@
 "name": "ADRIANNE",
 "frequency": 13199,
 "males": "0.2575952723691189 %",
-"females": "99.74240472763088 %"
+"females": "99.74240472763088 %",
+"au": [
+{ 
+"males": 1,
+"females": 27
+} 
+], 
+"ca": [
+{ 
+"males": 1,
+"females": 73
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 113
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 175
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 105
+} 
+], 
+"us": [
+{ 
+"males": 31,
+"females": 13249
+} 
+] 
 }]

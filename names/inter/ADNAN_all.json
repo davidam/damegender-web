@@ -2,5 +2,83 @@
 "name": "ADNAN",
 "frequency": 26833,
 "males": "99.90683114075951 %",
-"females": "0.09316885924048746 %"
+"females": "0.09316885924048746 %",
+"at": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 5395,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 7401,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 686,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1425,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 324,
+"females": 58
+} 
+], 
+"fr": [
+{ 
+"males": 980,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 985,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 627,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 362,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 7496,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2534,
+"females": 0
+} 
+] 
 }]

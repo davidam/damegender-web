@@ -2,5 +2,17 @@
 "name": "ADLAN",
 "frequency": 161,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 64,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 121,
+"females": 0
+} 
+] 
 }]

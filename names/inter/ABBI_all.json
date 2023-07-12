@@ -2,5 +2,29 @@
 "name": "ABBI",
 "frequency": 3534,
 "males": "0.056593095642331635 %",
-"females": "99.94340690435767 %"
+"females": "99.94340690435767 %",
+"au": [
+{ 
+"males": 1,
+"females": 36
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1605
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2052
+} 
+] 
 }]

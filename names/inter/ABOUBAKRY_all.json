@@ -1,6 +1,12 @@
 [{
 "name": "ABOUBAKRY",
-"frequency": 86,
+"frequency": 87,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 68,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "AAHAN",
 "frequency": 132,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 447,
+"females": 0
+} 
+] 
 }]

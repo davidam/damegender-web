@@ -1,0 +1,90 @@
+[{
+"name": "AÏDEN",
+"frequency": 973,
+"males": "97.4306269270298 %",
+"females": "2.5693730729701953 %",
+"at": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 710,
+"females": 3
+} 
+], 
+"be": [
+{ 
+"males": 494,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 2410,
+"females": 42
+} 
+], 
+"ch": [
+{ 
+"males": 1266,
+"females": 25
+} 
+], 
+"dk": [
+{ 
+"males": 91,
+"females": 4
+} 
+], 
+"es": [
+{ 
+"males": 394,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 140,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1185,
+"females": 29
+} 
+], 
+"gb": [
+{ 
+"males": 11938,
+"females": 13
+} 
+], 
+"no": [
+{ 
+"males": 210,
+"females": 0
+} 
+], 
+"nz": [
+{ 
+"males": 908,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 216,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 231592,
+"females": 2019
+} 
+] 
+}]

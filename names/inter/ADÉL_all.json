@@ -1,0 +1,90 @@
+[{
+"name": "ADÉL",
+"frequency": 32,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 13,
+"females": 10
+} 
+], 
+"au": [
+{ 
+"males": 7,
+"females": 16
+} 
+], 
+"be": [
+{ 
+"males": 3523,
+"females": 12
+} 
+], 
+"ca": [
+{ 
+"males": 27,
+"females": 7
+} 
+], 
+"ch": [
+{ 
+"males": 2863,
+"females": 121
+} 
+], 
+"dk": [
+{ 
+"males": 282,
+"females": 8
+} 
+], 
+"es": [
+{ 
+"males": 864,
+"females": 40
+} 
+], 
+"fi": [
+{ 
+"males": 186,
+"females": 74
+} 
+], 
+"fr": [
+{ 
+"males": 8897,
+"females": 4
+} 
+], 
+"gb": [
+{ 
+"males": 161,
+"females": 48
+} 
+], 
+"no": [
+{ 
+"males": 207,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 88,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1394,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1378,
+"females": 1395
+} 
+] 
+}]

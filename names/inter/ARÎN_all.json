@@ -1,0 +1,72 @@
+[{
+"name": "ARÎN",
+"frequency": 9,
+"males": "11.11111111111111 %",
+"females": "88.88888888888889 %",
+"at": [
+{ 
+"males": 4,
+"females": 19
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"ca": [
+{ 
+"males": 23,
+"females": 17
+} 
+], 
+"ch": [
+{ 
+"males": 271,
+"females": 526
+} 
+], 
+"dk": [
+{ 
+"males": 7,
+"females": 44
+} 
+], 
+"fi": [
+{ 
+"males": 66,
+"females": 27
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 108
+} 
+], 
+"gb": [
+{ 
+"males": 174,
+"females": 22
+} 
+], 
+"se": [
+{ 
+"males": 11,
+"females": 28
+} 
+], 
+"si": [
+{ 
+"males": 48,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1967,
+"females": 2485
+} 
+] 
+}]

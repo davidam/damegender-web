@@ -2,5 +2,41 @@
 "name": "ABDIFATAH",
 "frequency": 401,
 "males": "90.52369077306733 %",
-"females": "9.476309226932669 %"
+"females": "9.476309226932669 %",
+"be": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 151,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 230,
+"females": 84
+} 
+], 
+"gb": [
+{ 
+"males": 57,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 264,
+"females": 0
+} 
+] 
 }]

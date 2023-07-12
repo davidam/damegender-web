@@ -2,5 +2,35 @@
 "name": "ADILSON",
 "frequency": 360,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 62,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 311,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 68,
+"females": 0
+} 
+] 
 }]

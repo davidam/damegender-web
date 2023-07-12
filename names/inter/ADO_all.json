@@ -2,5 +2,23 @@
 "name": "ADO",
 "frequency": 381,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 150,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 321,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 26,
+"females": 0
+} 
+] 
 }]

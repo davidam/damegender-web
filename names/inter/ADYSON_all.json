@@ -2,5 +2,23 @@
 "name": "ADYSON",
 "frequency": 3296,
 "males": "0.8798543689320388 %",
-"females": "99.12014563106796 %"
+"females": "99.12014563106796 %",
+"ca": [
+{ 
+"males": 1,
+"females": 43
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"us": [
+{ 
+"males": 34,
+"females": 4045
+} 
+] 
 }]

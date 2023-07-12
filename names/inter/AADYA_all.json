@@ -2,5 +2,29 @@
 "name": "AADYA",
 "frequency": 352,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 50
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1577
+} 
+] 
 }]

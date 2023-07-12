@@ -2,5 +2,41 @@
 "name": "ADALIA",
 "frequency": 1401,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 85
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 338
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2015
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADEBOLA",
 "frequency": 76,
 "males": "23.684210526315788 %",
-"females": "76.31578947368422 %"
+"females": "76.31578947368422 %",
+"gb": [
+{ 
+"males": 4,
+"females": 27
+} 
+], 
+"us": [
+{ 
+"males": 10,
+"females": 45
+} 
+] 
 }]

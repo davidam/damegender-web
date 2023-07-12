@@ -2,5 +2,59 @@
 "name": "ABDULLAHI",
 "frequency": 3641,
 "males": "92.0626201592969 %",
-"females": "7.937379840703103 %"
+"females": "7.937379840703103 %",
+"be": [
+{ 
+"males": 102,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 57,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 644,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 263,
+"females": 1
+} 
+], 
+"fi": [
+{ 
+"males": 1170,
+"females": 618
+} 
+], 
+"gb": [
+{ 
+"males": 578,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 606,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 426,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1629,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ABDERRAHAMAN",
 "frequency": 95,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 89,
+"females": 0
+} 
+] 
 }]

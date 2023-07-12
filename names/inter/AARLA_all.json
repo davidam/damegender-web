@@ -1,6 +1,12 @@
 [{
 "name": "AARLA",
-"frequency": 9,
+"frequency": 11,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fi": [
+{ 
+"males": 0,
+"females": 19
+} 
+] 
 }]

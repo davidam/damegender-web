@@ -1,0 +1,66 @@
+[{
+"name": "AMADÉO",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 167,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 789,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 4076,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 225,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 142,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1670,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 64,
+"females": 0
+} 
+] 
+}]

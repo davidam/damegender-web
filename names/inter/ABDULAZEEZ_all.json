@@ -2,5 +2,29 @@
 "name": "ABDULAZEEZ",
 "frequency": 55,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 30,
+"females": 0
+} 
+] 
 }]

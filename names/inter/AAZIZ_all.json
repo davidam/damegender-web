@@ -1,6 +1,18 @@
 [{
 "name": "AAZIZ",
-"frequency": 30,
-"males": "100.0 %",
-"females": "0.0 %"
+"frequency": 31,
+"males": "96.7741935483871 %",
+"females": "3.225806451612903 %",
+"es": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 16,
+"females": 0
+} 
+] 
 }]

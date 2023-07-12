@@ -2,5 +2,11 @@
 "name": "ABDULKADAR",
 "frequency": 10,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 54,
+"females": 0
+} 
+] 
 }]

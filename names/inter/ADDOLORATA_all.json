@@ -1,6 +1,24 @@
 [{
 "name": "ADDOLORATA",
-"frequency": 424,
+"frequency": 643,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 351
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1347
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 13
+} 
+] 
 }]

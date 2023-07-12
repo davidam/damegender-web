@@ -2,5 +2,41 @@
 "name": "ABDELGHANI",
 "frequency": 4310,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 1650,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 292,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2111,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 527,
+"females": 0
+} 
+] 
 }]

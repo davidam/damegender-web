@@ -1,0 +1,48 @@
+[{
+"name": "ANAHÍ",
+"frequency": 39,
+"males": "0.0 %",
+"females": "100.0 %",
+"ar": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 366
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 999
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 142
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 284
+} 
+], 
+"us": [
+{ 
+"males": 31,
+"females": 16855
+} 
+], 
+"uy": [
+{ 
+"males": 4,
+"females": 393
+} 
+] 
+}]

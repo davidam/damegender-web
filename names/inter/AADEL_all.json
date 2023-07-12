@@ -2,5 +2,29 @@
 "name": "AADEL",
 "frequency": 89,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 28,
+"females": 0
+} 
+] 
 }]

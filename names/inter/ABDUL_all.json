@@ -2,5 +2,77 @@
 "name": "ABDUL",
 "frequency": 26945,
 "males": "99.86639450732974 %",
-"females": "0.1336054926702542 %"
+"females": "0.1336054926702542 %",
+"at": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 6590,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 204,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 3709,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 1202,
+"females": 2
+} 
+], 
+"es": [
+{ 
+"males": 1342,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 448,
+"females": 74
+} 
+], 
+"fr": [
+{ 
+"males": 447,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 4405,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 1063,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 6155,
+"females": 0
+} 
+] 
 }]

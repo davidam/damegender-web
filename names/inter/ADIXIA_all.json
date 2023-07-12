@@ -1,6 +1,18 @@
 [{
 "name": "ADIXIA",
-"frequency": 208,
+"frequency": 211,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 231
+} 
+] 
 }]

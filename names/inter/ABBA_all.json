@@ -2,5 +2,23 @@
 "name": "ABBA",
 "frequency": 93,
 "males": "89.24731182795699 %",
-"females": "10.75268817204301 %"
+"females": "10.75268817204301 %",
+"ch": [
+{ 
+"males": 20,
+"females": 6
+} 
+], 
+"es": [
+{ 
+"males": 80,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 59,
+"females": 6
+} 
+] 
 }]

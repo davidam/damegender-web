@@ -2,5 +2,23 @@
 "name": "ADDAM",
 "frequency": 773,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 737,
+"females": 0
+} 
+] 
 }]

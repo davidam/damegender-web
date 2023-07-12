@@ -2,5 +2,23 @@
 "name": "ADIRA",
 "frequency": 311,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1239
+} 
+] 
 }]

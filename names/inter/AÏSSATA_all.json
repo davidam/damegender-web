@@ -1,0 +1,36 @@
+[{
+"name": "AÏSSATA",
+"frequency": 1546,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 628
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 100
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 241
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1928
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 470
+} 
+] 
+}]

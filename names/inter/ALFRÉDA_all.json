@@ -1,0 +1,42 @@
+[{
+"name": "ALFRÉDA",
+"frequency": 188,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 1967
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 260
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 61
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 5356
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"us": [
+{ 
+"males": 35,
+"females": 11375
+} 
+] 
+}]

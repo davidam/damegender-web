@@ -2,5 +2,65 @@
 "name": "ABUBAKAR",
 "frequency": 1114,
 "males": "99.01256732495511 %",
-"females": "0.9874326750448833 %"
+"females": "0.9874326750448833 %",
+"at": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 69,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 172,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 173,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 80,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 394,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 779,
+"females": 0
+} 
+] 
 }]

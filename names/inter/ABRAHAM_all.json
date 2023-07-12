@@ -2,5 +2,95 @@
 "name": "ABRAHAM",
 "frequency": 99331,
 "males": "99.81778095458618 %",
-"females": "0.18221904541381845 %"
+"females": "0.18221904541381845 %",
+"at": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 3059,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 250,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 3239,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 124,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 14208,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 720,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 2607,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 893,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 356,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 649,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 96672,
+"females": 208
+} 
+], 
+"uy": [
+{ 
+"males": 133,
+"females": 1
+} 
+] 
 }]

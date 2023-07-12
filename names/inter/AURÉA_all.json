@@ -1,0 +1,54 @@
+[{
+"name": "AURÉA",
+"frequency": 106,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 790
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 5396
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 62
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 325
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 113
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1168
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 21
+} 
+] 
+}]

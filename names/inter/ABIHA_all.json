@@ -2,5 +2,41 @@
 "name": "ABIHA",
 "frequency": 222,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 85
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 174
+} 
+] 
 }]

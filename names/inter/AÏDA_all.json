@@ -1,0 +1,102 @@
+[{
+"name": "AÏDA",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 2140
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 63
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 7452
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 560
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 15478
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 2554
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 2574
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 222
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 669
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 565
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 312
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 5518
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 13039
+} 
+], 
+"uy": [
+{ 
+"males": 7,
+"females": 736
+} 
+] 
+}]

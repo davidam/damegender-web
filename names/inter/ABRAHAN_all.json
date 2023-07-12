@@ -2,5 +2,29 @@
 "name": "ABRAHAN",
 "frequency": 2999,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2006,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1001,
+"females": 0
+} 
+] 
 }]

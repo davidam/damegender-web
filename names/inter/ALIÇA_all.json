@@ -1,0 +1,42 @@
+[{
+"name": "ALIÇA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 332
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 120
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 342
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1271
+} 
+] 
+}]

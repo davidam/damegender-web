@@ -1,0 +1,102 @@
+[{
+"name": "ANTÓN",
+"frequency": 6,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 18767,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 319,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 13764,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 200,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 76521,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 282,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 8475,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 5753,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 27434,
+"females": 18
+} 
+], 
+"fr": [
+{ 
+"males": 4840,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 1555,
+"females": 0
+} 
+], 
+"is": [
+{ 
+"males": 584,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 2395,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 15430,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 250917,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 23196,
+"females": 21
+} 
+] 
+}]

@@ -2,5 +2,23 @@
 "name": "ADLER",
 "frequency": 1258,
 "males": "92.36883942766295 %",
-"females": "7.631160572337042 %"
+"females": "7.631160572337042 %",
+"ca": [
+{ 
+"males": 28,
+"females": 3
+} 
+], 
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2777,
+"females": 312
+} 
+] 
 }]

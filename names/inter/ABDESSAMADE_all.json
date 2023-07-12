@@ -2,5 +2,17 @@
 "name": "ABDESSAMADE",
 "frequency": 58,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 34,
+"females": 0
+} 
+] 
 }]

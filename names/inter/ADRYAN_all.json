@@ -2,5 +2,29 @@
 "name": "ADRYAN",
 "frequency": 1215,
 "males": "87.90123456790123 %",
-"females": "12.098765432098766 %"
+"females": "12.098765432098766 %",
+"ch": [
+{ 
+"males": 80,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 246,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1268,
+"females": 183
+} 
+] 
 }]

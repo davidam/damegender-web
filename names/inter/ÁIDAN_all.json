@@ -1,0 +1,84 @@
+[{
+"name": "ÁIDAN",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"au": [
+{ 
+"males": 767,
+"females": 3
+} 
+], 
+"be": [
+{ 
+"males": 408,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 1772,
+"females": 79
+} 
+], 
+"ch": [
+{ 
+"males": 2068,
+"females": 31
+} 
+], 
+"dk": [
+{ 
+"males": 68,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 674,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 172,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1545,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 17680,
+"females": 30
+} 
+], 
+"ie": [
+{ 
+"males": 4303,
+"females": 0
+} 
+], 
+"nz": [
+{ 
+"males": 1521,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 118,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 113946,
+"females": 2699
+} 
+] 
+}]

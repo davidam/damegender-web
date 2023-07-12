@@ -1,0 +1,84 @@
+[{
+"name": "ALÉNA",
+"frequency": 262,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"au": [
+{ 
+"males": 1,
+"females": 23
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 804
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 138
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 10312
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 105
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 852
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 324
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 520
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 295
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 1135
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 14498
+} 
+] 
+}]

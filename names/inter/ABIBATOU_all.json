@@ -1,6 +1,24 @@
 [{
 "name": "ABIBATOU",
-"frequency": 112,
+"frequency": 116,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 67
+} 
+] 
 }]

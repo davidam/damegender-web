@@ -1,0 +1,108 @@
+[{
+"name": "ALÉXIS",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ar": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"at": [
+{ 
+"males": 19,
+"females": 10
+} 
+], 
+"au": [
+{ 
+"males": 40,
+"females": 433
+} 
+], 
+"be": [
+{ 
+"males": 48997,
+"females": 168
+} 
+], 
+"ca": [
+{ 
+"males": 69,
+"females": 2234
+} 
+], 
+"ch": [
+{ 
+"males": 14881,
+"females": 500
+} 
+], 
+"dk": [
+{ 
+"males": 62,
+"females": 34
+} 
+], 
+"es": [
+{ 
+"males": 9345,
+"females": 126
+} 
+], 
+"fi": [
+{ 
+"males": 726,
+"females": 106
+} 
+], 
+"fr": [
+{ 
+"males": 149401,
+"females": 345
+} 
+], 
+"gb": [
+{ 
+"males": 297,
+"females": 3468
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 840
+} 
+], 
+"mx": [
+{ 
+"males": 62,
+"females": 11
+} 
+], 
+"se": [
+{ 
+"males": 233,
+"females": 60
+} 
+], 
+"si": [
+{ 
+"males": 24,
+"females": 16
+} 
+], 
+"us": [
+{ 
+"males": 65525,
+"females": 341712
+} 
+], 
+"uy": [
+{ 
+"males": 2797,
+"females": 44
+} 
+] 
+}]

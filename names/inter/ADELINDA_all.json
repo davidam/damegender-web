@@ -1,6 +1,24 @@
 [{
 "name": "ADELINDA",
-"frequency": 93,
+"frequency": 101,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 24
+} 
+] 
 }]

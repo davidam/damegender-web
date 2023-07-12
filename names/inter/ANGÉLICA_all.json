@@ -1,0 +1,96 @@
+[{
+"name": "ANGÉLICA",
+"frequency": 268,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 96
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 2004
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 248
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 6184
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 174
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 6715
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1642
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1343
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 802
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 1192
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 2392
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 873
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 105
+} 
+], 
+"us": [
+{ 
+"males": 321,
+"females": 91387
+} 
+], 
+"uy": [
+{ 
+"males": 6,
+"females": 695
+} 
+] 
+}]

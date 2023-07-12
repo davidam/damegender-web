@@ -1,6 +1,12 @@
 [{
 "name": "ADISSA",
-"frequency": 26,
+"frequency": 34,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 35
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ABBYGAEL",
 "frequency": 192,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fr": [
+{ 
+"males": 0,
+"females": 119
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 70
+} 
+] 
 }]

@@ -1,0 +1,72 @@
+[{
+"name": "ANNAMÁRIA",
+"frequency": 69,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 460
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 5048
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 72
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 200
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 588
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 46
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 168
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3670
+} 
+] 
+}]

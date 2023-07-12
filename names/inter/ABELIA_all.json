@@ -2,5 +2,23 @@
 "name": "ABELIA",
 "frequency": 131,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 72
+} 
+] 
 }]

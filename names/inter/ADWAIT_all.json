@@ -2,5 +2,11 @@
 "name": "ADWAIT",
 "frequency": 7,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
 }]

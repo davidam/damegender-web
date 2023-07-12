@@ -2,5 +2,29 @@
 "name": "ABDELBASSET",
 "frequency": 297,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 88,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 91,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 115,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 54,
+"females": 0
+} 
+] 
 }]

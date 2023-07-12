@@ -1,0 +1,42 @@
+[{
+"name": "ADRIÀ",
+"frequency": 11,
+"males": "100.0 %",
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"ch": [
+{ 
+"males": 43,
+"females": 184
+} 
+], 
+"es": [
+{ 
+"males": 16880,
+"females": 97
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 213
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"us": [
+{ 
+"males": 7,
+"females": 6259
+} 
+] 
+}]

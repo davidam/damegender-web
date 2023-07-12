@@ -1,6 +1,18 @@
 [{
 "name": "AAVYA",
-"frequency": 12,
+"frequency": 18,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 509
+} 
+] 
 }]

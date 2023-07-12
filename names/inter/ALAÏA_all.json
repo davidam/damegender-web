@@ -1,0 +1,54 @@
+[{
+"name": "ALAÏA",
+"frequency": 137,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 142
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1971
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 286
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 44
+} 
+], 
+"us": [
+{ 
+"males": 6,
+"females": 8517
+} 
+] 
+}]

@@ -2,5 +2,23 @@
 "name": "ABDELMJID",
 "frequency": 292,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 132,
+"females": 0
+} 
+] 
 }]

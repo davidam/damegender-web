@@ -2,5 +2,23 @@
 "name": "AAYLA",
 "frequency": 262,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 609
+} 
+] 
 }]

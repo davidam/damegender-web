@@ -1,6 +1,18 @@
 [{
 "name": "ABISAN",
-"frequency": 30,
+"frequency": 56,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 107,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 14,
+"females": 0
+} 
+] 
 }]

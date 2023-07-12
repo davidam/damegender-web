@@ -2,5 +2,65 @@
 "name": "ADONIS",
 "frequency": 8856,
 "males": "99.1869918699187 %",
-"females": "0.8130081300813009 %"
+"females": "0.8130081300813009 %",
+"be": [
+{ 
+"males": 103,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 63,
+"females": 1
+} 
+], 
+"ch": [
+{ 
+"males": 1162,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 332,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1818,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 57,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 114,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 14669,
+"females": 95
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ADARIAN",
 "frequency": 173,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 236,
+"females": 0
+} 
+] 
 }]

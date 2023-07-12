@@ -1,0 +1,48 @@
+[{
+"name": "AIŞA",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 367
+} 
+], 
+"dk": [
+{ 
+"males": 1,
+"females": 34
+} 
+], 
+"es": [
+{ 
+"males": 63,
+"females": 211
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 523
+} 
+] 
+}]

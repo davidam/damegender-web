@@ -2,5 +2,29 @@
 "name": "AADEN",
 "frequency": 3562,
 "males": "99.77540707467715 %",
-"females": "0.22459292532285235 %"
+"females": "0.22459292532285235 %",
+"ca": [
+{ 
+"males": 49,
+"females": 1
+} 
+], 
+"ch": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 23,
+"females": 2
+} 
+], 
+"us": [
+{ 
+"males": 5013,
+"females": 5
+} 
+] 
 }]

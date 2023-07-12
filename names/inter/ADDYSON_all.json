@@ -2,5 +2,29 @@
 "name": "ADDYSON",
 "frequency": 11046,
 "males": "0.3078037298569618 %",
-"females": "99.69219627014304 %"
+"females": "99.69219627014304 %",
+"ca": [
+{ 
+"males": 0,
+"females": 147
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"us": [
+{ 
+"males": 33,
+"females": 16136
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADIAM",
 "frequency": 112,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 441
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 18
+} 
+] 
 }]

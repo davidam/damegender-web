@@ -2,5 +2,35 @@
 "name": "ABELINA",
 "frequency": 697,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 38
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 82
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 549
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ACHILE",
 "frequency": 223,
 "males": "99.55156950672645 %",
-"females": "0.4484304932735426 %"
+"females": "0.4484304932735426 %",
+"ch": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 175,
+"females": 0
+} 
+] 
 }]

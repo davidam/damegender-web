@@ -1,0 +1,72 @@
+[{
+"name": "ADELINË",
+"frequency": 9,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 23228
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 296
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 4885
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 70
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 302
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 54412
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 168
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 134
+} 
+], 
+"us": [
+{ 
+"males": 26,
+"females": 67053
+} 
+] 
+}]

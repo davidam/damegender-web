@@ -2,5 +2,11 @@
 "name": "ACHYUT",
 "frequency": 47,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 58,
+"females": 0
+} 
+] 
 }]

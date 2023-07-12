@@ -2,5 +2,23 @@
 "name": "ABDELKHALAK",
 "frequency": 497,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 220,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 263,
+"females": 0
+} 
+] 
 }]

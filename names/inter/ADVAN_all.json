@@ -2,5 +2,17 @@
 "name": "ADVAN",
 "frequency": 161,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 144,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 130,
+"females": 0
+} 
+] 
 }]

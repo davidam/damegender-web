@@ -1,0 +1,84 @@
+[{
+"name": "AZÎZ",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 8829,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 3270,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 159,
+"females": 18
+} 
+], 
+"es": [
+{ 
+"males": 4316,
+"females": 22
+} 
+], 
+"fi": [
+{ 
+"males": 220,
+"females": 55
+} 
+], 
+"fr": [
+{ 
+"males": 3862,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 158,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1332,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1523,
+"females": 0
+} 
+] 
+}]

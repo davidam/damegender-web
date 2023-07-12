@@ -2,5 +2,47 @@
 "name": "ACACIA",
 "frequency": 3996,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 79
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 69
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 170
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 100
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 272
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 4036
+} 
+] 
 }]

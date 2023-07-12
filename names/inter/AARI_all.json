@@ -2,5 +2,23 @@
 "name": "AARI",
 "frequency": 41,
 "males": "92.6829268292683 %",
-"females": "7.317073170731707 %"
+"females": "7.317073170731707 %",
+"ch": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 122,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 33,
+"females": 25
+} 
+] 
 }]

@@ -2,5 +2,101 @@
 "name": "ADRIANO",
 "frequency": 18615,
 "males": "99.99462798818158 %",
-"females": "0.005372011818426001 %"
+"females": "0.005372011818426001 %",
+"at": [
+{ 
+"males": 48,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 121,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 7037,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 15136,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 38,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2444,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 2591,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 63,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 713,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2292,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 83,
+"females": 1
+} 
+] 
 }]

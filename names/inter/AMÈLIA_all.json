@@ -1,0 +1,120 @@
+[{
+"name": "AMÈLIA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 210
+} 
+], 
+"au": [
+{ 
+"males": 2,
+"females": 2032
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 10371
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 1996
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 9812
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 547
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 23877
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 4320
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1639
+} 
+], 
+"gb": [
+{ 
+"males": 2,
+"females": 40515
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 6216
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 1593
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 4520
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 529
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 2379
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 355
+} 
+], 
+"us": [
+{ 
+"males": 249,
+"females": 229874
+} 
+], 
+"uy": [
+{ 
+"males": 6,
+"females": 487
+} 
+] 
+}]

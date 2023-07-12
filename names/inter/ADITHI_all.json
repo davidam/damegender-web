@@ -2,5 +2,23 @@
 "name": "ADITHI",
 "frequency": 277,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 418
+} 
+] 
 }]

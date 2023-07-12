@@ -2,5 +2,29 @@
 "name": "ABUL",
 "frequency": 245,
 "males": "97.55102040816327 %",
-"females": "2.4489795918367347 %"
+"females": "2.4489795918367347 %",
+"ch": [
+{ 
+"males": 120,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 120,
+"females": 0
+} 
+] 
 }]

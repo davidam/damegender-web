@@ -2,5 +2,17 @@
 "name": "AARIV",
 "frequency": 81,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 569,
+"females": 0
+} 
+] 
 }]

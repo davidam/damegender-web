@@ -1,0 +1,90 @@
+[{
+"name": "ANAÍS",
+"frequency": 20,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 29
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 367
+} 
+], 
+"ca": [
+{ 
+"males": 2,
+"females": 31
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1261
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 5990
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 3807
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1397
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 29
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 201
+} 
+], 
+"us": [
+{ 
+"males": 87,
+"females": 7941
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 22
+} 
+] 
+}]

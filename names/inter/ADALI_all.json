@@ -2,5 +2,17 @@
 "name": "ADALI",
 "frequency": 346,
 "males": "7.514450867052023 %",
-"females": "92.48554913294798 %"
+"females": "92.48554913294798 %",
+"mx": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"us": [
+{ 
+"males": 24,
+"females": 565
+} 
+] 
 }]

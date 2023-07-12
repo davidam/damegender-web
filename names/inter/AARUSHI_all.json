@@ -2,5 +2,29 @@
 "name": "AARUSHI",
 "frequency": 596,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 65
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 777
+} 
+] 
 }]

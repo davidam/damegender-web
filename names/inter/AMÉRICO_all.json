@@ -1,0 +1,48 @@
+[{
+"name": "AMÉRICO",
+"frequency": 240,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1229,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 354,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 217,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2881,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 488,
+"females": 1
+} 
+] 
+}]

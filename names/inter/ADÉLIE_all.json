@@ -1,0 +1,30 @@
+[{
+"name": "ADÉLIE",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1714
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 586
+} 
+] 
+}]

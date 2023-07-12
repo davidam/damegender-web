@@ -1,0 +1,42 @@
+[{
+"name": "AVÎN",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 14,
+"females": 2
+} 
+], 
+"ch": [
+{ 
+"males": 28,
+"females": 376
+} 
+], 
+"dk": [
+{ 
+"males": 1,
+"females": 123
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 4
+} 
+], 
+"us": [
+{ 
+"males": 923,
+"females": 70
+} 
+] 
+}]

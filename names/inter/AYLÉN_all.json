@@ -1,0 +1,36 @@
+[{
+"name": "AYLÉN",
+"frequency": 10,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 126
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 876
+} 
+], 
+"fr": [
+{ 
+"males": 24,
+"females": 22
+} 
+], 
+"us": [
+{ 
+"males": 88,
+"females": 930
+} 
+], 
+"uy": [
+{ 
+"males": 4,
+"females": 165
+} 
+] 
+}]

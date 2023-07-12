@@ -2,5 +2,71 @@
 "name": "ADRIANNA",
 "frequency": 40433,
 "males": "0.044518091657804265 %",
-"females": "99.9554819083422 %"
+"females": "99.9554819083422 %",
+"au": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 124
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 401
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 331
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 73
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 183
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 353
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 352
+} 
+], 
+"us": [
+{ 
+"males": 18,
+"females": 46741
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 24
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ADLEY",
 "frequency": 1179,
 "males": "27.989821882951656 %",
-"females": "72.01017811704835 %"
+"females": "72.01017811704835 %",
+"ca": [
+{ 
+"males": 13,
+"females": 76
+} 
+], 
+"gb": [
+{ 
+"males": 30,
+"females": 14
+} 
+], 
+"us": [
+{ 
+"males": 444,
+"females": 4555
+} 
+] 
 }]

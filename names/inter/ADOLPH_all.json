@@ -2,5 +2,23 @@
 "name": "ADOLPH",
 "frequency": 18779,
 "males": "99.89349805633952 %",
-"females": "0.1065019436604718 %"
+"females": "0.1065019436604718 %",
+"ch": [
+{ 
+"males": 48,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 18454,
+"females": 20
+} 
+] 
 }]

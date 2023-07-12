@@ -1,0 +1,48 @@
+[{
+"name": "AÏRA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 1,
+"females": 23
+} 
+], 
+"ch": [
+{ 
+"males": 6,
+"females": 237
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 158
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 8040
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 24
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 659
+} 
+] 
+}]

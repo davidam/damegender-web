@@ -2,5 +2,23 @@
 "name": "ABDELMOULA",
 "frequency": 418,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 48,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 44,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 364,
+"females": 0
+} 
+] 
 }]

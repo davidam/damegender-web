@@ -2,5 +2,29 @@
 "name": "ABISHA",
 "frequency": 253,
 "males": "0.3952569169960474 %",
-"females": "99.60474308300395 %"
+"females": "99.60474308300395 %",
+"ch": [
+{ 
+"males": 0,
+"females": 254
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 64
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 64
+} 
+] 
 }]

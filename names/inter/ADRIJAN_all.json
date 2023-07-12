@@ -2,5 +2,29 @@
 "name": "ADRIJAN",
 "frequency": 3209,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"at": [
+{ 
+"males": 56,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 547,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 3104,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
 }]

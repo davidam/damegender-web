@@ -2,5 +2,23 @@
 "name": "ABIA",
 "frequency": 127,
 "males": "3.937007874015748 %",
-"females": "96.06299212598425 %"
+"females": "96.06299212598425 %",
+"ch": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 52
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 103
+} 
+] 
 }]

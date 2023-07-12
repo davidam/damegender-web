@@ -2,5 +2,17 @@
 "name": "ADWIN",
 "frequency": 52,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 61,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "ABDELWAHAB",
 "frequency": 811,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 310,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 116,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 155,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 282,
+"females": 0
+} 
+] 
 }]

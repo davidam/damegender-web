@@ -2,5 +2,17 @@
 "name": "ADESH",
 "frequency": 45,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 23,
+"females": 0
+} 
+] 
 }]

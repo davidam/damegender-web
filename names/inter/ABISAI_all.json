@@ -2,5 +2,23 @@
 "name": "ABISAI",
 "frequency": 754,
 "males": "99.73474801061008 %",
-"females": "0.2652519893899204 %"
+"females": "0.2652519893899204 %",
+"es": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 969,
+"females": 90
+} 
+] 
 }]

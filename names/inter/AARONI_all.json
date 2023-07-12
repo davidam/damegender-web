@@ -2,5 +2,11 @@
 "name": "AARONI",
 "frequency": 28,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 70,
+"females": 0
+} 
+] 
 }]

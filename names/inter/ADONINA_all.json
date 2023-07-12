@@ -2,5 +2,11 @@
 "name": "ADONINA",
 "frequency": 192,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 176
+} 
+] 
 }]

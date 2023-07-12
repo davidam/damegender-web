@@ -1,6 +1,18 @@
 [{
 "name": "ADIZA",
-"frequency": 35,
+"frequency": 39,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+] 
 }]

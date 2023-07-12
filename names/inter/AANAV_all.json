@@ -2,5 +2,11 @@
 "name": "AANAV",
 "frequency": 11,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 104,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "ADALBERTO",
 "frequency": 5199,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 288,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 545,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 334,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 4556,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 75,
+"females": 1
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ADIA",
 "frequency": 2622,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 65
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2850
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "AADVIK",
 "frequency": 32,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 380,
+"females": 0
+} 
+] 
 }]

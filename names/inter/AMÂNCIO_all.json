@@ -1,0 +1,30 @@
+[{
+"name": "AMÂNCIO",
+"frequency": 8,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1647,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 77,
+"females": 0
+} 
+] 
+}]

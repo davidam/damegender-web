@@ -2,5 +2,17 @@
 "name": "AABAN",
 "frequency": 76,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 120,
+"females": 0
+} 
+] 
 }]

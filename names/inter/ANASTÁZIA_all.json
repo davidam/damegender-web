@@ -1,0 +1,60 @@
+[{
+"name": "ANASTÁZIA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 95
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 97
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 29
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 146
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 827
+} 
+] 
+}]

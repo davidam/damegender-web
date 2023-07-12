@@ -2,5 +2,23 @@
 "name": "ADRYEN",
 "frequency": 229,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 143,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 107,
+"females": 0
+} 
+] 
 }]

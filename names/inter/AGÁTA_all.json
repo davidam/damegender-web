@@ -1,0 +1,78 @@
+[{
+"name": "AGÁTA",
+"frequency": 5,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 3213
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 3907
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 266
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1464
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 192
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 204
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 170
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 534
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 6243
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 405
+} 
+] 
+}]

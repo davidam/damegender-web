@@ -2,5 +2,17 @@
 "name": "ABRHAM",
 "frequency": 153,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 101,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 131,
+"females": 0
+} 
+] 
 }]

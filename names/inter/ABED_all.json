@@ -2,5 +2,53 @@
 "name": "ABED",
 "frequency": 1308,
 "males": "98.31804281345565 %",
-"females": "1.6819571865443423 %"
+"females": "1.6819571865443423 %",
+"be": [
+{ 
+"males": 151,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 258,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 103,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 98,
+"females": 48
+} 
+], 
+"fr": [
+{ 
+"males": 592,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 199,
+"females": 0
+} 
+] 
 }]

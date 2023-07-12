@@ -2,5 +2,29 @@
 "name": "ADAL",
 "frequency": 488,
 "males": "99.59016393442623 %",
-"females": "0.4098360655737705 %"
+"females": "0.4098360655737705 %",
+"ch": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 109,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 360,
+"females": 0
+} 
+] 
 }]

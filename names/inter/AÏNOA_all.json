@@ -1,0 +1,42 @@
+[{
+"name": "AÏNOA",
+"frequency": 108,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 521
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 7216
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 228
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 58
+} 
+] 
+}]

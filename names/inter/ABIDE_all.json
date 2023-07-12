@@ -1,6 +1,18 @@
 [{
 "name": "ABIDE",
-"frequency": 48,
+"frequency": 72,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 129
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 40
+} 
+] 
 }]

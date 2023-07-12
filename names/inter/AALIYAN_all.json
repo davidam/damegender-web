@@ -2,5 +2,11 @@
 "name": "AALIYAN",
 "frequency": 100,
 "males": "10.0 %",
-"females": "90.0 %"
+"females": "90.0 %",
+"us": [
+{ 
+"males": 27,
+"females": 123
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ABBIGAELLE",
 "frequency": 34,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fr": [
+{ 
+"males": 0,
+"females": 18
+} 
+] 
 }]

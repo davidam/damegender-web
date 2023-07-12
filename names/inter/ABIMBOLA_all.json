@@ -2,5 +2,23 @@
 "name": "ABIMBOLA",
 "frequency": 124,
 "males": "12.096774193548388 %",
-"females": "87.90322580645162 %"
+"females": "87.90322580645162 %",
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 6,
+"females": 26
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 80
+} 
+] 
 }]

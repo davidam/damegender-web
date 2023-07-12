@@ -2,5 +2,35 @@
 "name": "ABOUBACAR",
 "frequency": 3107,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 786,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 196,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 379,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1914,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 392,
+"females": 0
+} 
+] 
 }]

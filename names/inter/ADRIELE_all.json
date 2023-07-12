@@ -1,6 +1,12 @@
 [{
 "name": "ADRIELE",
-"frequency": 4,
-"males": "0.0 %",
-"females": "100.0 %"
+"frequency": 17,
+"males": "29.411764705882355 %",
+"females": "70.58823529411765 %",
+"ch": [
+{ 
+"males": 25,
+"females": 32
+} 
+] 
 }]

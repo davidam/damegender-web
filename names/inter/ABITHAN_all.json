@@ -2,5 +2,11 @@
 "name": "ABITHAN",
 "frequency": 9,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 36,
+"females": 0
+} 
+] 
 }]

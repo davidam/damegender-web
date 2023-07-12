@@ -2,5 +2,41 @@
 "name": "ADELINO",
 "frequency": 1555,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 56,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 2067,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 689,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 298,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
 }]

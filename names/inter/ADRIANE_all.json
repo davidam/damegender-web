@@ -2,5 +2,47 @@
 "name": "ADRIANE",
 "frequency": 7005,
 "males": "3.9828693790149896 %",
-"females": "96.01713062098501 %"
+"females": "96.01713062098501 %",
+"be": [
+{ 
+"males": 0,
+"females": 49
+} 
+], 
+"ca": [
+{ 
+"males": 3,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 367
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 64
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 461
+} 
+], 
+"us": [
+{ 
+"males": 274,
+"females": 6125
+} 
+] 
 }]

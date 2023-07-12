@@ -2,5 +2,17 @@
 "name": "ACELYN",
 "frequency": 262,
 "males": "0.38167938931297707 %",
-"females": "99.61832061068702 %"
+"females": "99.61832061068702 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"us": [
+{ 
+"males": 46,
+"females": 544
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "ABIDIN",
 "frequency": 387,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 153,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 452,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 93,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "ABY",
 "frequency": 1064,
 "males": "5.921052631578947 %",
-"females": "94.07894736842105 %"
+"females": "94.07894736842105 %",
+"ch": [
+{ 
+"males": 25,
+"females": 108
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 80
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 809
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"us": [
+{ 
+"males": 56,
+"females": 242
+} 
+] 
 }]

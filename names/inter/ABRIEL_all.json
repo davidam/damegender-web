@@ -2,5 +2,23 @@
 "name": "ABRIEL",
 "frequency": 973,
 "males": "43.57656731757451 %",
-"females": "56.42343268242549 %"
+"females": "56.42343268242549 %",
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 249,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 499,
+"females": 648
+} 
+] 
 }]

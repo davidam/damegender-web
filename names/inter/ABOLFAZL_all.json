@@ -2,5 +2,29 @@
 "name": "ABOLFAZL",
 "frequency": 60,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 168,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
 }]

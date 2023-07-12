@@ -2,5 +2,23 @@
 "name": "ABDELAH",
 "frequency": 375,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 186,
+"females": 0
+} 
+] 
 }]

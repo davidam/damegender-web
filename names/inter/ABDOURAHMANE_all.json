@@ -2,5 +2,35 @@
 "name": "ABDOURAHMANE",
 "frequency": 630,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 54,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 104,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 225,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 345,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 30,
+"females": 0
+} 
+] 
 }]

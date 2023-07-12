@@ -2,5 +2,17 @@
 "name": "AABID",
 "frequency": 32,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 16,
+"females": 0
+} 
+] 
 }]

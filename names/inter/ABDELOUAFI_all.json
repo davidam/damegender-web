@@ -2,5 +2,17 @@
 "name": "ABDELOUAFI",
 "frequency": 203,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 102,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 106,
+"females": 0
+} 
+] 
 }]

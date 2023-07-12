@@ -2,5 +2,17 @@
 "name": "ABENEZER",
 "frequency": 107,
 "males": "99.06542056074767 %",
-"females": "0.9345794392523363 %"
+"females": "0.9345794392523363 %",
+"ch": [
+{ 
+"males": 79,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 209,
+"females": 0
+} 
+] 
 }]

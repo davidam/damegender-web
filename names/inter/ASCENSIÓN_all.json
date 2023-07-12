@@ -1,0 +1,30 @@
+[{
+"name": "ASCENSIÓN",
+"frequency": 4,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 186
+} 
+], 
+"es": [
+{ 
+"males": 111,
+"females": 26903
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 421
+} 
+], 
+"us": [
+{ 
+"males": 92,
+"females": 52
+} 
+] 
+}]

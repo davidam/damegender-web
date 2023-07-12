@@ -2,5 +2,23 @@
 "name": "ADLINE",
 "frequency": 1308,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 47
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 81
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1169
+} 
+] 
 }]

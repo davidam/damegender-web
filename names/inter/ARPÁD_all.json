@@ -1,0 +1,54 @@
+[{
+"name": "ARPÁD",
+"frequency": 8,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 78,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 601,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 74,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 749,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 44,
+"females": 0
+} 
+] 
+}]

@@ -2,5 +2,11 @@
 "name": "ADDAN",
 "frequency": 23,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 21,
+"females": 0
+} 
+] 
 }]

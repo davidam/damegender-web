@@ -1,0 +1,30 @@
+[{
+"name": "AMIÉÉ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 502
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1696
+} 
+] 
+}]

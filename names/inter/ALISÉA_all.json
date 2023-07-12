@@ -1,0 +1,30 @@
+[{
+"name": "ALISÉA",
+"frequency": 54,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 217
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 189
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 87
+} 
+] 
+}]

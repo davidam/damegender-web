@@ -2,5 +2,17 @@
 "name": "ABDOL",
 "frequency": 68,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 186,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 33,
+"females": 0
+} 
+] 
 }]

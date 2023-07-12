@@ -2,5 +2,11 @@
 "name": "AAMU",
 "frequency": 372,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fi": [
+{ 
+"males": 5,
+"females": 2316
+} 
+] 
 }]

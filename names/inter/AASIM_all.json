@@ -2,5 +2,17 @@
 "name": "AASIM",
 "frequency": 267,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 87,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 459,
+"females": 0
+} 
+] 
 }]

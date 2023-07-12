@@ -2,5 +2,17 @@
 "name": "ADILENE",
 "frequency": 4309,
 "males": "0.16245068461359943 %",
-"females": "99.8375493153864 %"
+"females": "99.8375493153864 %",
+"mx": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"us": [
+{ 
+"males": 7,
+"females": 6040
+} 
+] 
 }]

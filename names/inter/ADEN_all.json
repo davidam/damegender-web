@@ -2,5 +2,65 @@
 "name": "ADEN",
 "frequency": 17188,
 "males": "96.53828252269024 %",
-"females": "3.461717477309751 %"
+"females": "3.461717477309751 %",
+"au": [
+{ 
+"males": 129,
+"females": 2
+} 
+], 
+"be": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 204,
+"females": 10
+} 
+], 
+"ch": [
+{ 
+"males": 209,
+"females": 28
+} 
+], 
+"dk": [
+{ 
+"males": 27,
+"females": 5
+} 
+], 
+"fi": [
+{ 
+"males": 244,
+"females": 121
+} 
+], 
+"fr": [
+{ 
+"males": 864,
+"females": 14
+} 
+], 
+"gb": [
+{ 
+"males": 731,
+"females": 11
+} 
+], 
+"si": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 20755,
+"females": 612
+} 
+] 
 }]

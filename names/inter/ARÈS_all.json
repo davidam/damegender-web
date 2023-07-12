@@ -1,0 +1,60 @@
+[{
+"name": "ARÈS",
+"frequency": 60,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 46,
+"females": 5
+} 
+], 
+"ch": [
+{ 
+"males": 647,
+"females": 9
+} 
+], 
+"dk": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2025,
+"females": 1625
+} 
+], 
+"fi": [
+{ 
+"males": 62,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 56,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 15,
+"females": 1
+} 
+], 
+"us": [
+{ 
+"males": 4561,
+"females": 186
+} 
+] 
+}]

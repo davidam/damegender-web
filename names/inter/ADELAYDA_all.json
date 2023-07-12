@@ -2,5 +2,17 @@
 "name": "ADELAYDA",
 "frequency": 47,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 42
+} 
+] 
 }]

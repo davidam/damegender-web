@@ -1,0 +1,78 @@
+[{
+"name": "ARLÈNE",
+"frequency": 106,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 1,
+"females": 37
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 525
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 188
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 174
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 367
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1062
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"us": [
+{ 
+"males": 362,
+"females": 142531
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 11
+} 
+] 
+}]

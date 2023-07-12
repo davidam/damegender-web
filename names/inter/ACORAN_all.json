@@ -2,5 +2,11 @@
 "name": "ACORAN",
 "frequency": 291,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 308,
+"females": 0
+} 
+] 
 }]

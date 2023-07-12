@@ -2,5 +2,35 @@
 "name": "AARNA",
 "frequency": 619,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 35
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 55
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2142
+} 
+] 
 }]

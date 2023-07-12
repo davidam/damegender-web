@@ -2,5 +2,53 @@
 "name": "ADONAY",
 "frequency": 1277,
 "males": "97.80736100234925 %",
-"females": "2.192638997650744 %"
+"females": "2.192638997650744 %",
+"ca": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 380,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1137,
+"females": 20
+} 
+], 
+"fr": [
+{ 
+"males": 22,
+"females": 27
+} 
+], 
+"gb": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 458,
+"females": 0
+} 
+] 
 }]

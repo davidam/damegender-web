@@ -1,6 +1,18 @@
 [{
 "name": "ADELMINA",
-"frequency": 6,
+"frequency": 10,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 15
+} 
+] 
 }]

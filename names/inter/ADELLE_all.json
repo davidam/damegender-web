@@ -2,5 +2,47 @@
 "name": "ADELLE",
 "frequency": 5523,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 61
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 77
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 122
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 112
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 404
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 85
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 5349
+} 
+] 
 }]

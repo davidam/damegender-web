@@ -2,5 +2,23 @@
 "name": "ABDULSAMAD",
 "frequency": 30,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 35,
+"females": 0
+} 
+] 
 }]

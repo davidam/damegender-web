@@ -2,5 +2,11 @@
 "name": "AAPO",
 "frequency": 1031,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 13182,
+"females": 0
+} 
+] 
 }]

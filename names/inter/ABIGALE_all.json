@@ -2,5 +2,29 @@
 "name": "ABIGALE",
 "frequency": 5254,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 64
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 271
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 5768
+} 
+] 
 }]

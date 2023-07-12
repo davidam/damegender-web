@@ -2,5 +2,11 @@
 "name": "ABBIGAL",
 "frequency": 138,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 0,
+"females": 158
+} 
+] 
 }]

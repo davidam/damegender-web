@@ -1,0 +1,102 @@
+[{
+"name": "ALÉXIA",
+"frequency": 105,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 217
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 23669
+} 
+], 
+"ca": [
+{ 
+"males": 1,
+"females": 256
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 10576
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 129
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 9105
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 758
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 37331
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 2071
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 480
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 200
+} 
+], 
+"us": [
+{ 
+"males": 44,
+"females": 44936
+} 
+], 
+"uy": [
+{ 
+"males": 6,
+"females": 169
+} 
+] 
+}]

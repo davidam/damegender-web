@@ -2,5 +2,23 @@
 "name": "ABDULRAHIM",
 "frequency": 160,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 123,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 53,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 126,
+"females": 0
+} 
+] 
 }]

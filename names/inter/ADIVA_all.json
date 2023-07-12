@@ -2,5 +2,17 @@
 "name": "ADIVA",
 "frequency": 96,
 "males": "1.0416666666666665 %",
-"females": "98.95833333333334 %"
+"females": "98.95833333333334 %",
+"ch": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 116
+} 
+] 
 }]

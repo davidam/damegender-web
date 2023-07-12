@@ -2,5 +2,23 @@
 "name": "ABDIRAZAK",
 "frequency": 40,
 "males": "75.0 %",
-"females": "25.0 %"
+"females": "25.0 %",
+"ch": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 32,
+"females": 18
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ABDULA",
 "frequency": 384,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 751,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 145,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 39,
+"females": 0
+} 
+] 
 }]

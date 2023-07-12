@@ -2,5 +2,11 @@
 "name": "ABOLGHASEM",
 "frequency": 12,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 33,
+"females": 0
+} 
+] 
 }]

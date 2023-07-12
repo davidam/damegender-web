@@ -2,5 +2,47 @@
 "name": "AAHIL",
 "frequency": 460,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 145,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 771,
+"females": 0
+} 
+] 
 }]

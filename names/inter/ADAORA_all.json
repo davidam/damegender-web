@@ -2,5 +2,29 @@
 "name": "ADAORA",
 "frequency": 174,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 29
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 251
+} 
+] 
 }]

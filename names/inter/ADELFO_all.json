@@ -2,5 +2,17 @@
 "name": "ADELFO",
 "frequency": 131,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"mx": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 63,
+"females": 0
+} 
+] 
 }]

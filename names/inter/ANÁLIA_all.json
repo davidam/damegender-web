@@ -1,0 +1,54 @@
+[{
+"name": "ANÁLIA",
+"frequency": 9,
+"males": "0.0 %",
+"females": "100.0 %",
+"ar": [
+{ 
+"males": 0,
+"females": 79
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 244
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 786
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 232
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 5919
+} 
+], 
+"uy": [
+{ 
+"males": 5,
+"females": 2068
+} 
+] 
+}]

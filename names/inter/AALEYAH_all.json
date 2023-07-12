@@ -2,5 +2,29 @@
 "name": "AALEYAH",
 "frequency": 612,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 53
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1342
+} 
+] 
 }]

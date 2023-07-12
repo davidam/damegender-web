@@ -1,6 +1,24 @@
 [{
 "name": "ADMIRA",
-"frequency": 1293,
+"frequency": 1395,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 599
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 1267
+} 
+] 
 }]

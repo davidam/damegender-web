@@ -2,5 +2,17 @@
 "name": "ABRAN",
 "frequency": 1877,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2059,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADRIENNA",
 "frequency": 879,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 108
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 795
+} 
+] 
 }]

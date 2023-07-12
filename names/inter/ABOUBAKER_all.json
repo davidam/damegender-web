@@ -2,5 +2,29 @@
 "name": "ABOUBAKER",
 "frequency": 404,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 197,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 122,
+"females": 0
+} 
+] 
 }]

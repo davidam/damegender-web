@@ -2,5 +2,23 @@
 "name": "AARYN",
 "frequency": 1397,
 "males": "41.87544738725841 %",
-"females": "58.12455261274159 %"
+"females": "58.12455261274159 %",
+"ca": [
+{ 
+"males": 8,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 38,
+"females": 4
+} 
+], 
+"us": [
+{ 
+"males": 740,
+"females": 1317
+} 
+] 
 }]

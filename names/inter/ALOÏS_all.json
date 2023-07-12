@@ -1,0 +1,54 @@
+[{
+"name": "ALOÏS",
+"frequency": 6596,
+"males": "98.72650090964221 %",
+"females": "1.2734990903577925 %",
+"at": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 4828,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 31028,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 63,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 4024,
+"females": 255
+} 
+], 
+"si": [
+{ 
+"males": 146,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2471,
+"females": 186
+} 
+] 
+}]

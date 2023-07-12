@@ -2,5 +2,17 @@
 "name": "ADEMIDE",
 "frequency": 38,
 "males": "84.21052631578947 %",
-"females": "15.789473684210526 %"
+"females": "15.789473684210526 %",
+"gb": [
+{ 
+"males": 20,
+"females": 4
+} 
+], 
+"us": [
+{ 
+"males": 95,
+"females": 22
+} 
+] 
 }]

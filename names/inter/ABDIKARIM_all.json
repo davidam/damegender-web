@@ -2,5 +2,35 @@
 "name": "ABDIKARIM",
 "frequency": 175,
 "males": "83.42857142857143 %",
-"females": "16.57142857142857 %"
+"females": "16.57142857142857 %",
+"ch": [
+{ 
+"males": 105,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 124,
+"females": 62
+} 
+], 
+"gb": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 33,
+"females": 0
+} 
+] 
 }]

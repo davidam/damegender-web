@@ -2,5 +2,11 @@
 "name": "ADVAITA",
 "frequency": 16,
 "males": "6.25 %",
-"females": "93.75 %"
+"females": "93.75 %",
+"us": [
+{ 
+"males": 0,
+"females": 73
+} 
+] 
 }]

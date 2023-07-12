@@ -2,5 +2,23 @@
 "name": "ADELSON",
 "frequency": 188,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 81,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ADELIO",
 "frequency": 309,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 369,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 144,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 56,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,66 @@
+[{
+"name": "ALÂ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 84
+} 
+], 
+"ca": [
+{ 
+"males": 3,
+"females": 12
+} 
+], 
+"ch": [
+{ 
+"males": 117,
+"females": 373
+} 
+], 
+"dk": [
+{ 
+"males": 25,
+"females": 68
+} 
+], 
+"es": [
+{ 
+"males": 28,
+"females": 208
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"fr": [
+{ 
+"males": 57,
+"females": 100
+} 
+], 
+"gb": [
+{ 
+"males": 7,
+"females": 46
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 76
+} 
+], 
+"us": [
+{ 
+"males": 142,
+"females": 739
+} 
+] 
+}]

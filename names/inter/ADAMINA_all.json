@@ -2,5 +2,23 @@
 "name": "ADAMINA",
 "frequency": 144,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 114
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 27
+} 
+] 
 }]

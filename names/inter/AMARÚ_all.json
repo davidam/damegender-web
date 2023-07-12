@@ -1,0 +1,42 @@
+[{
+"name": "AMARÚ",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 341,
+"females": 15
+} 
+], 
+"es": [
+{ 
+"males": 62,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 38,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 38,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 762,
+"females": 13
+} 
+] 
+}]

@@ -1,0 +1,54 @@
+[{
+"name": "AURÈLIE",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 1822
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 458
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 119
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 215
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 493
+} 
+] 
+}]

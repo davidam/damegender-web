@@ -2,5 +2,29 @@
 "name": "ADALET",
 "frequency": 230,
 "males": "0.43478260869565216 %",
-"females": "99.56521739130434 %"
+"females": "99.56521739130434 %",
+"be": [
+{ 
+"males": 0,
+"females": 162
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 145
+} 
+], 
+"dk": [
+{ 
+"males": 1,
+"females": 24
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 20
+} 
+] 
 }]

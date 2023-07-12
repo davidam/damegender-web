@@ -2,5 +2,35 @@
 "name": "ADAMS",
 "frequency": 1382,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 81,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 123,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 240,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1097,
+"females": 0
+} 
+] 
 }]

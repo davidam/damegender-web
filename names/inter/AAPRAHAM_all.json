@@ -2,5 +2,11 @@
 "name": "AAPRAHAM",
 "frequency": 31,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 58,
+"females": 0
+} 
+] 
 }]

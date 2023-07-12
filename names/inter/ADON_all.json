@@ -2,5 +2,29 @@
 "name": "ADON",
 "frequency": 630,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 842,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "AASHNA",
 "frequency": 518,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 670
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABHIRAM",
 "frequency": 579,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1107,
+"females": 0
+} 
+] 
 }]

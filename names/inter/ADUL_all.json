@@ -2,5 +2,11 @@
 "name": "ADUL",
 "frequency": 1,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 13,
+"females": 0
+} 
+] 
 }]

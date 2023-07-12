@@ -2,5 +2,29 @@
 "name": "ADJOA",
 "frequency": 158,
 "males": "0.6329113924050633 %",
-"females": "99.36708860759494 %"
+"females": "99.36708860759494 %",
+"ch": [
+{ 
+"males": 0,
+"females": 82
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 98
+} 
+] 
 }]

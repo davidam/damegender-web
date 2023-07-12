@@ -2,5 +2,29 @@
 "name": "ABDOURAHMAN",
 "frequency": 146,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 102,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
 }]

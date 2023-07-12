@@ -2,5 +2,35 @@
 "name": "ABDALRAHMAN",
 "frequency": 170,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 67,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 200,
+"females": 0
+} 
+] 
 }]

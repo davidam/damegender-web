@@ -1,0 +1,36 @@
+[{
+"name": "AUBRÉE",
+"frequency": 5,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 369
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"us": [
+{ 
+"males": 55,
+"females": 45771
+} 
+] 
+}]

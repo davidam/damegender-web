@@ -2,5 +2,17 @@
 "name": "ADRIATIK",
 "frequency": 178,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 522,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 79,
+"females": 0
+} 
+] 
 }]

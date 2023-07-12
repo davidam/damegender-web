@@ -2,5 +2,53 @@
 "name": "ADIAN",
 "frequency": 1439,
 "males": "99.37456567060458 %",
-"females": "0.6254343293954135 %"
+"females": "0.6254343293954135 %",
+"at": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 14,
+"females": 2
+} 
+], 
+"ch": [
+{ 
+"males": 140,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 29,
+"females": 5
+} 
+], 
+"fi": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 14,
+"females": 2
+} 
+], 
+"si": [
+{ 
+"males": 466,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1137,
+"females": 0
+} 
+] 
 }]

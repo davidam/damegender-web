@@ -2,5 +2,59 @@
 "name": "ABDULKADIR",
 "frequency": 3098,
 "males": "95.83602324080051 %",
-"females": "4.163976759199484 %"
+"females": "4.163976759199484 %",
+"at": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 1019,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 767,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 112,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 496,
+"females": 276
+} 
+], 
+"fr": [
+{ 
+"males": 118,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 99,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 217,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 145,
+"females": 0
+} 
+] 
 }]

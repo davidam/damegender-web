@@ -2,5 +2,11 @@
 "name": "AADOLF",
 "frequency": 411,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 810,
+"females": 0
+} 
+] 
 }]

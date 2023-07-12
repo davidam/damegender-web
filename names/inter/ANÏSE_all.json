@@ -1,0 +1,30 @@
+[{
+"name": "ANÏSE",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 126
+} 
+], 
+"fr": [
+{ 
+"males": 15,
+"females": 283
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 59
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1220
+} 
+] 
+}]

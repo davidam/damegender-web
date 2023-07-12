@@ -2,5 +2,41 @@
 "name": "ADRIA",
 "frequency": 22456,
 "males": "72.83131457071606 %",
-"females": "27.168685429283933 %"
+"females": "27.168685429283933 %",
+"ca": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"ch": [
+{ 
+"males": 43,
+"females": 184
+} 
+], 
+"es": [
+{ 
+"males": 16880,
+"females": 97
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 213
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"us": [
+{ 
+"males": 7,
+"females": 6259
+} 
+] 
 }]

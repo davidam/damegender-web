@@ -2,5 +2,35 @@
 "name": "ADAH",
 "frequency": 2988,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3666
+} 
+] 
 }]

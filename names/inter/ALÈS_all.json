@@ -1,0 +1,36 @@
+[{
+"name": "ALÈS",
+"frequency": 28,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 496,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 121,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 46,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 171,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
+}]

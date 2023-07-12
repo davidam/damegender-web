@@ -1,0 +1,66 @@
+[{
+"name": "ANGÉLIQUE",
+"frequency": 4,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 1,
+"females": 139
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 9343
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 97
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 744
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 108
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 182
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 76340
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 154
+} 
+], 
+"us": [
+{ 
+"males": 6,
+"females": 29146
+} 
+] 
+}]

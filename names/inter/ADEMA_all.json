@@ -1,6 +1,18 @@
 [{
 "name": "ADEMA",
-"frequency": 134,
+"frequency": 141,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 106
+} 
+] 
 }]

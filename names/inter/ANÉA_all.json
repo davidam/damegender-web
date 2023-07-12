@@ -1,0 +1,36 @@
+[{
+"name": "ANÉA",
+"frequency": 32,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 370
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 488
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 84
+} 
+] 
+}]

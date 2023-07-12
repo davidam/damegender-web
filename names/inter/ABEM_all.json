@@ -2,5 +2,17 @@
 "name": "ABEM",
 "frequency": 34,
 "males": "97.05882352941177 %",
-"females": "2.941176470588235 %"
+"females": "2.941176470588235 %",
+"ch": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 93,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "AARADHYA",
 "frequency": 76,
 "males": "1.3157894736842104 %",
-"females": "98.68421052631578 %"
+"females": "98.68421052631578 %",
+"ca": [
+{ 
+"males": 1,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 759
+} 
+] 
 }]

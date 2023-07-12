@@ -2,5 +2,47 @@
 "name": "ABEER",
 "frequency": 830,
 "males": "3.493975903614458 %",
-"females": "96.50602409638554 %"
+"females": "96.50602409638554 %",
+"be": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"ca": [
+{ 
+"males": 6,
+"females": 32
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 255
+} 
+], 
+"dk": [
+{ 
+"males": 3,
+"females": 92
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 62
+} 
+], 
+"us": [
+{ 
+"males": 147,
+"females": 568
+} 
+] 
 }]

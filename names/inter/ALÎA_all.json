@@ -1,0 +1,84 @@
+[{
+"name": "ALÎA",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 1,
+"females": 27
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 46
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 3085
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 229
+} 
+], 
+"ch": [
+{ 
+"males": 3,
+"females": 2241
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 336
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1117
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 154
+} 
+], 
+"fr": [
+{ 
+"males": 6,
+"females": 4154
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 705
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 87
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 98
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 11918
+} 
+] 
+}]

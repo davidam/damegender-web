@@ -2,5 +2,17 @@
 "name": "ABDE",
 "frequency": 195,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 143,
+"females": 0
+} 
+] 
 }]

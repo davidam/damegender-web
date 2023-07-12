@@ -1,0 +1,54 @@
+[{
+"name": "ANDREÍNA",
+"frequency": 6,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1437
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 437
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 147
+} 
+], 
+"us": [
+{ 
+"males": 6,
+"females": 1238
+} 
+], 
+"uy": [
+{ 
+"males": 5,
+"females": 157
+} 
+] 
+}]

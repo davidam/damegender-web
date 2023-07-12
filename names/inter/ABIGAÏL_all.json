@@ -1,0 +1,114 @@
+[{
+"name": "ABIGAÏL",
+"frequency": 640,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 55
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 542
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 1165
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 3135
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 2257
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 149
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 3248
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 354
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1939
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 38648
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 3833
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 226
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 2200
+} 
+], 
+"mx": [
+{ 
+"males": 13,
+"females": 428
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 51
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 228
+} 
+], 
+"us": [
+{ 
+"males": 658,
+"females": 390455
+} 
+], 
+"uy": [
+{ 
+"males": 29,
+"females": 513
+} 
+] 
+}]

@@ -2,5 +2,17 @@
 "name": "ABASSE",
 "frequency": 153,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 64,
+"females": 0
+} 
+] 
 }]

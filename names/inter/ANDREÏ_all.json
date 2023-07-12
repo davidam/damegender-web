@@ -1,0 +1,96 @@
+[{
+"name": "ANDREÏ",
+"frequency": 89,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 4599,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 107,
+"females": 3
+} 
+], 
+"ch": [
+{ 
+"males": 2450,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 507,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 3260,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 1832,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 694,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 288,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 342,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 186,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2838,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 13,
+"females": 0
+} 
+] 
+}]

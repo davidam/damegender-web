@@ -2,5 +2,17 @@
 "name": "ABUBACARR",
 "frequency": 86,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 106,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 25,
+"females": 0
+} 
+] 
 }]

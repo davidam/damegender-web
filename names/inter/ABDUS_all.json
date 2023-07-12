@@ -2,5 +2,23 @@
 "name": "ABDUS",
 "frequency": 118,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 78,
+"females": 0
+} 
+] 
 }]

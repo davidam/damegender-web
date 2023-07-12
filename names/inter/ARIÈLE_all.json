@@ -1,0 +1,30 @@
+[{
+"name": "ARIÈLE",
+"frequency": 33,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 196,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 172
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 571
+} 
+] 
+}]

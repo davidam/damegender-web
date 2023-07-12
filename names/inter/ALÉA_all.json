@@ -1,0 +1,72 @@
+[{
+"name": "ALÉA",
+"frequency": 40,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 1010
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 5129
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 44
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 62
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 130
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 67
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 242
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 317
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3856
+} 
+] 
+}]

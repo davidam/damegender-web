@@ -1,6 +1,12 @@
 [{
 "name": "ABIDAH",
-"frequency": 5,
+"frequency": 69,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"gb": [
+{ 
+"males": 0,
+"females": 64
+} 
+] 
 }]

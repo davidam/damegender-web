@@ -2,5 +2,17 @@
 "name": "AARONN",
 "frequency": 117,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 108,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 22,
+"females": 0
+} 
+] 
 }]

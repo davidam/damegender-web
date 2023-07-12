@@ -2,5 +2,11 @@
 "name": "ABOUBACARY",
 "frequency": 39,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ADELEN",
 "frequency": 382,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"no": [
+{ 
+"males": 0,
+"females": 380
+} 
+] 
 }]

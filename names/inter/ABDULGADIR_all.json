@@ -2,5 +2,17 @@
 "name": "ABDULGADIR",
 "frequency": 31,
 "males": "74.19354838709677 %",
-"females": "25.806451612903224 %"
+"females": "25.806451612903224 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 38,
+"females": 18
+} 
+] 
 }]

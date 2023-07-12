@@ -2,5 +2,65 @@
 "name": "ABID",
 "frequency": 2601,
 "males": "99.65397923875432 %",
-"females": "0.34602076124567477 %"
+"females": "0.34602076124567477 %",
+"be": [
+{ 
+"males": 678,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 253,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 50,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 509,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 28,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 89,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 356,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 472,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 363,
+"females": 0
+} 
+] 
 }]

@@ -1,6 +1,42 @@
 [{
 "name": "ACELYA",
-"frequency": 552,
+"frequency": 625,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 125
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 193
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 383
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 42
+} 
+] 
 }]

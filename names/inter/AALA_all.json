@@ -2,5 +2,23 @@
 "name": "AALA",
 "frequency": 81,
 "males": "1.2345679012345678 %",
-"females": "98.76543209876543 %"
+"females": "98.76543209876543 %",
+"fi": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 128
+} 
+] 
 }]

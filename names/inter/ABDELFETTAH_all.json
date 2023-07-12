@@ -2,5 +2,23 @@
 "name": "ABDELFETTAH",
 "frequency": 367,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 105,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 261,
+"females": 0
+} 
+] 
 }]

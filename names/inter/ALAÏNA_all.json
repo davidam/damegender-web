@@ -1,0 +1,54 @@
+[{
+"name": "ALAÏNA",
+"frequency": 31,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 281
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 75
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 305
+} 
+], 
+"us": [
+{ 
+"males": 6,
+"females": 44935
+} 
+] 
+}]

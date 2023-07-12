@@ -2,5 +2,23 @@
 "name": "AASIYAH",
 "frequency": 497,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 175
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 551
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "ADELYN",
 "frequency": 6734,
 "males": "0.014850014850014848 %",
-"females": "99.98514998514999 %"
+"females": "99.98514998514999 %",
+"ca": [
+{ 
+"males": 1,
+"females": 230
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"us": [
+{ 
+"males": 6,
+"females": 19682
+} 
+] 
 }]

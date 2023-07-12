@@ -2,5 +2,23 @@
 "name": "ABRAAR",
 "frequency": 37,
 "males": "83.78378378378379 %",
-"females": "16.216216216216218 %"
+"females": "16.216216216216218 %",
+"fi": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"gb": [
+{ 
+"males": 25,
+"females": 3
+} 
+], 
+"us": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
 }]

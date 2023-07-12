@@ -1,6 +1,12 @@
 [{
 "name": "ADAMANTIA",
-"frequency": 4,
+"frequency": 11,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 47
+} 
+] 
 }]

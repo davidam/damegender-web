@@ -2,5 +2,35 @@
 "name": "ABE",
 "frequency": 8966,
 "males": "99.98884675440553 %",
-"females": "0.011153245594467991 %"
+"females": "0.011153245594467991 %",
+"au": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 49,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 87,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 9306,
+"females": 0
+} 
+] 
 }]

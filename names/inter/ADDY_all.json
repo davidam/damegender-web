@@ -2,5 +2,29 @@
 "name": "ADDY",
 "frequency": 1087,
 "males": "4.415823367065317 %",
-"females": "95.58417663293469 %"
+"females": "95.58417663293469 %",
+"ca": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"us": [
+{ 
+"males": 22,
+"females": 1345
+} 
+] 
 }]

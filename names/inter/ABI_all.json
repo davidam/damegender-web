@@ -2,5 +2,47 @@
 "name": "ABI",
 "frequency": 2736,
 "males": "1.7543859649122806 %",
-"females": "98.24561403508771 %"
+"females": "98.24561403508771 %",
+"ca": [
+{ 
+"males": 1,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 84,
+"females": 54
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"fr": [
+{ 
+"males": 6,
+"females": 75
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 2086
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"us": [
+{ 
+"males": 22,
+"females": 571
+} 
+] 
 }]

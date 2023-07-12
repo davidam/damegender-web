@@ -1,0 +1,54 @@
+[{
+"name": "AÏKO",
+"frequency": 92,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 200,
+"females": 794
+} 
+], 
+"ch": [
+{ 
+"males": 80,
+"females": 268
+} 
+], 
+"dk": [
+{ 
+"males": 8,
+"females": 12
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 57
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 46
+} 
+], 
+"fr": [
+{ 
+"males": 36,
+"females": 102
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 19
+} 
+], 
+"us": [
+{ 
+"males": 35,
+"females": 1509
+} 
+] 
+}]

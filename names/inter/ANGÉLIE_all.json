@@ -1,0 +1,42 @@
+[{
+"name": "ANGÉLIE",
+"frequency": 67,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 127
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 221
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2078
+} 
+] 
+}]

@@ -2,5 +2,17 @@
 "name": "ADLENE",
 "frequency": 332,
 "males": "46.3855421686747 %",
-"females": "53.6144578313253 %"
+"females": "53.6144578313253 %",
+"fr": [
+{ 
+"males": 132,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 177
+} 
+] 
 }]

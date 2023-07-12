@@ -2,5 +2,11 @@
 "name": "ABOUD",
 "frequency": 15,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 35,
+"females": 0
+} 
+] 
 }]

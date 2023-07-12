@@ -1,6 +1,24 @@
 [{
 "name": "ABIBA",
-"frequency": 207,
+"frequency": 217,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 51
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 141
+} 
+] 
 }]

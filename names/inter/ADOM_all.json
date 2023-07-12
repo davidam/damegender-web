@@ -2,5 +2,23 @@
 "name": "ADOM",
 "frequency": 147,
 "males": "97.27891156462584 %",
-"females": "2.7210884353741496 %"
+"females": "2.7210884353741496 %",
+"ch": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 231,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,36 @@
+[{
+"name": "ANGÉLINO",
+"frequency": 21,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 216,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 235,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 158,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 260,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 314,
+"females": 0
+} 
+] 
+}]

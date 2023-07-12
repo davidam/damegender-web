@@ -2,5 +2,29 @@
 "name": "ADRIJA",
 "frequency": 60,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 51
+} 
+] 
 }]

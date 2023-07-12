@@ -2,5 +2,11 @@
 "name": "ADAMOU",
 "frequency": 56,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 50,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "ABIMAEL",
 "frequency": 1127,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 127,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1303,
+"females": 0
+} 
+] 
 }]

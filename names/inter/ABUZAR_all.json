@@ -2,5 +2,17 @@
 "name": "ABUZAR",
 "frequency": 23,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
 }]

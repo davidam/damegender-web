@@ -2,5 +2,29 @@
 "name": "ABDESSLAM",
 "frequency": 806,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 386,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 302,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 57,
+"females": 0
+} 
+] 
 }]

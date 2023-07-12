@@ -2,5 +2,17 @@
 "name": "ABDELNOUR",
 "frequency": 252,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 231,
+"females": 0
+} 
+] 
 }]

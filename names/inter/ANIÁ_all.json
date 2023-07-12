@@ -1,0 +1,60 @@
+[{
+"name": "ANIÁ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 879
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 101
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1375
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 96
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1772
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 263
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3039
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 21
+} 
+] 
+}]

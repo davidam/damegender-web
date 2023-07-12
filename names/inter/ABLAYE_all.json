@@ -2,5 +2,17 @@
 "name": "ABLAYE",
 "frequency": 255,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 211,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 75,
+"females": 0
+} 
+] 
 }]

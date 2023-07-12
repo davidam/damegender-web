@@ -2,5 +2,17 @@
 "name": "ABDELKEBIR",
 "frequency": 233,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 206,
+"females": 0
+} 
+] 
 }]

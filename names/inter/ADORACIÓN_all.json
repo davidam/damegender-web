@@ -1,0 +1,42 @@
+[{
+"name": "ADORACIÓN",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 116
+} 
+], 
+"es": [
+{ 
+"males": 33,
+"females": 16603
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 54
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 11
+} 
+] 
+}]

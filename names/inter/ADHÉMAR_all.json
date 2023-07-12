@@ -1,0 +1,36 @@
+[{
+"name": "ADHÉMAR",
+"frequency": 96,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 237,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 128,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 205,
+"females": 4
+} 
+] 
+}]

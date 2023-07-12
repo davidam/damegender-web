@@ -1,0 +1,138 @@
+[{
+"name": "ANDRÉA",
+"frequency": 9,
+"males": "22.22222222222222 %",
+"females": "77.77777777777779 %",
+"ar": [
+{ 
+"males": 8,
+"females": 181
+} 
+], 
+"at": [
+{ 
+"males": 1,
+"females": 15394
+} 
+], 
+"au": [
+{ 
+"males": 103,
+"females": 1388
+} 
+], 
+"be": [
+{ 
+"males": 11085,
+"females": 42455
+} 
+], 
+"ca": [
+{ 
+"males": 6,
+"females": 2474
+} 
+], 
+"ch": [
+{ 
+"males": 45237,
+"females": 159219
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"dk": [
+{ 
+"males": 222,
+"females": 4950
+} 
+], 
+"es": [
+{ 
+"males": 2635,
+"females": 108594
+} 
+], 
+"fi": [
+{ 
+"males": 316,
+"females": 1470
+} 
+], 
+"fr": [
+{ 
+"males": 4781,
+"females": 1766
+} 
+], 
+"gb": [
+{ 
+"males": 134,
+"females": 3195
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 3131
+} 
+], 
+"is": [
+{ 
+"males": 0,
+"females": 726
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 7705
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 5003
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 693
+} 
+], 
+"pt": [
+{ 
+"males": 2,
+"females": 20
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 1248
+} 
+], 
+"si": [
+{ 
+"males": 851,
+"females": 3009
+} 
+], 
+"us": [
+{ 
+"males": 5957,
+"females": 438882
+} 
+], 
+"uy": [
+{ 
+"males": 58,
+"females": 12598
+} 
+] 
+}]

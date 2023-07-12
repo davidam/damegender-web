@@ -1,0 +1,36 @@
+[{
+"name": "AÉLA",
+"frequency": 84,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 457
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 572
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 85
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 470
+} 
+] 
+}]

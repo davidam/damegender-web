@@ -2,5 +2,11 @@
 "name": "ACISCLO",
 "frequency": 300,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 266,
+"females": 0
+} 
+] 
 }]

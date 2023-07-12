@@ -2,5 +2,35 @@
 "name": "ADHEMAR",
 "frequency": 581,
 "males": "99.82788296041308 %",
-"females": "0.17211703958691912 %"
+"females": "0.17211703958691912 %",
+"be": [
+{ 
+"males": 237,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 128,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 205,
+"females": 4
+} 
+] 
 }]

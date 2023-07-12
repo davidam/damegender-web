@@ -1,6 +1,18 @@
 [{
 "name": "ABINA",
-"frequency": 27,
+"frequency": 73,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 199
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

@@ -2,5 +2,83 @@
 "name": "ADINA",
 "frequency": 9230,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 832
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 93
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 2652
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 97
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 480
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 678
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 143
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 263
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 377
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 221
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 6692
+} 
+] 
 }]

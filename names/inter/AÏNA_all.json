@@ -1,0 +1,72 @@
+[{
+"name": "AÏNA",
+"frequency": 709,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"ch": [
+{ 
+"males": 28,
+"females": 1017
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 16093
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1726
+} 
+], 
+"fr": [
+{ 
+"males": 75,
+"females": 587
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 55
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 3931
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 169
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 126
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 610
+} 
+] 
+}]

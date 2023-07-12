@@ -2,5 +2,35 @@
 "name": "ADIBA",
 "frequency": 356,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 83
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 149
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 159
+} 
+] 
 }]

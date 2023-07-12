@@ -2,5 +2,35 @@
 "name": "ABDINASIR",
 "frequency": 299,
 "males": "94.64882943143813 %",
-"females": "5.351170568561873 %"
+"females": "5.351170568561873 %",
+"ch": [
+{ 
+"males": 145,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 154,
+"females": 46
+} 
+], 
+"gb": [
+{ 
+"males": 49,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 192,
+"females": 0
+} 
+] 
 }]

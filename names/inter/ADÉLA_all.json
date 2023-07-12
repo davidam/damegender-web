@@ -1,0 +1,96 @@
+[{
+"name": "ADÉLA",
+"frequency": 94,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"au": [
+{ 
+"males": 1,
+"females": 34
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 1073
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 2278
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 124
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 25162
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 378
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 624
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 145
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 787
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 138
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 5509
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 13205
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 438
+} 
+] 
+}]

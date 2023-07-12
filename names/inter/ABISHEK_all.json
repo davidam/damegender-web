@@ -2,5 +2,23 @@
 "name": "ABISHEK",
 "frequency": 139,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 160,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 50,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ADLEIGH",
 "frequency": 370,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 0,
+"females": 1192
+} 
+] 
 }]

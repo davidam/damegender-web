@@ -1,0 +1,30 @@
+[{
+"name": "ANAËL",
+"frequency": 4,
+"males": "75.0 %",
+"females": "25.0 %",
+"ch": [
+{ 
+"males": 87,
+"females": 135
+} 
+], 
+"es": [
+{ 
+"males": 73,
+"females": 65
+} 
+], 
+"fr": [
+{ 
+"males": 1700,
+"females": 1229
+} 
+], 
+"us": [
+{ 
+"males": 50,
+"females": 153
+} 
+] 
+}]

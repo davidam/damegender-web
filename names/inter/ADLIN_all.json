@@ -2,5 +2,17 @@
 "name": "ADLIN",
 "frequency": 47,
 "males": "2.127659574468085 %",
-"females": "97.87234042553192 %"
+"females": "97.87234042553192 %",
+"ch": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 67
+} 
+] 
 }]

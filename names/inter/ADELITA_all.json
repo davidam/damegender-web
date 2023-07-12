@@ -2,5 +2,41 @@
 "name": "ADELITA",
 "frequency": 1894,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 49
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 61
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 146
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1774
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 19
+} 
+] 
 }]

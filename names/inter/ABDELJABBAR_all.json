@@ -2,5 +2,23 @@
 "name": "ABDELJABBAR",
 "frequency": 169,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 51,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 123,
+"females": 0
+} 
+] 
 }]

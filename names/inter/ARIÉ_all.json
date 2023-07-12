@@ -1,0 +1,66 @@
+[{
+"name": "ARIÉ",
+"frequency": 165,
+"males": "100.0 %",
+"females": "0.0 %",
+"au": [
+{ 
+"males": 12,
+"females": 5
+} 
+], 
+"be": [
+{ 
+"males": 668,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 62,
+"females": 18
+} 
+], 
+"ch": [
+{ 
+"males": 401,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 23,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 270,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 15,
+"females": 1
+} 
+], 
+"us": [
+{ 
+"males": 2270,
+"females": 3706
+} 
+] 
+}]

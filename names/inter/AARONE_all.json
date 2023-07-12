@@ -2,5 +2,17 @@
 "name": "AARONE",
 "frequency": 161,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 167,
+"females": 0
+} 
+] 
 }]

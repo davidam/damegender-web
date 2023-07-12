@@ -2,5 +2,29 @@
 "name": "ABDULKAREEM",
 "frequency": 198,
 "males": "95.45454545454545 %",
-"females": "4.545454545454546 %"
+"females": "4.545454545454546 %",
+"ch": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 38,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 220,
+"females": 0
+} 
+] 
 }]

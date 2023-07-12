@@ -1,0 +1,36 @@
+[{
+"name": "AÏNARA",
+"frequency": 31,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 398
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 25879
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 183
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 647
+} 
+], 
+"uy": [
+{ 
+"males": 4,
+"females": 140
+} 
+] 
+}]

@@ -2,5 +2,17 @@
 "name": "ADELISE",
 "frequency": 124,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fr": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 219
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADONI",
 "frequency": 73,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 128,
+"females": 0
+} 
+] 
 }]

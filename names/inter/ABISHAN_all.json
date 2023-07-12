@@ -2,5 +2,23 @@
 "name": "ABISHAN",
 "frequency": 164,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 272,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 64,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 36,
+"females": 0
+} 
+] 
 }]

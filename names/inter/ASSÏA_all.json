@@ -1,0 +1,54 @@
+[{
+"name": "ASSÏA",
+"frequency": 91,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 13496
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1379
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1862
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 19204
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 84
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 70
+} 
+] 
+}]

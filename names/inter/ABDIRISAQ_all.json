@@ -2,5 +2,35 @@
 "name": "ABDIRISAQ",
 "frequency": 99,
 "males": "76.76767676767676 %",
-"females": "23.232323232323232 %"
+"females": "23.232323232323232 %",
+"ch": [
+{ 
+"males": 84,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 86,
+"females": 66
+} 
+], 
+"gb": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ACHIEL",
 "frequency": 10980,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 10130,
+"females": 0
+} 
+] 
 }]

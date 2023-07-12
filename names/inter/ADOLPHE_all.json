@@ -2,5 +2,29 @@
 "name": "ADOLPHE",
 "frequency": 18660,
 "males": "99.33547695605573 %",
-"females": "0.6645230439442658 %"
+"females": "0.6645230439442658 %",
+"be": [
+{ 
+"males": 1681,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 388,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 16408,
+"females": 83
+} 
+], 
+"us": [
+{ 
+"males": 295,
+"females": 0
+} 
+] 
 }]

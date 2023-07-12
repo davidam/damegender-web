@@ -2,5 +2,35 @@
 "name": "AANYA",
 "frequency": 1777,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 47
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 89
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 248
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3127
+} 
+] 
 }]

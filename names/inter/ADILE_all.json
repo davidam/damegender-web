@@ -1,6 +1,42 @@
 [{
 "name": "ADILE",
-"frequency": 845,
-"males": "34.79289940828402 %",
-"females": "65.20710059171597 %"
+"frequency": 996,
+"males": "29.518072289156628 %",
+"females": "70.48192771084338 %",
+"be": [
+{ 
+"males": 0,
+"females": 198
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 874
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 91
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 62
+} 
+], 
+"fr": [
+{ 
+"males": 277,
+"females": 16
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 161
+} 
+] 
 }]

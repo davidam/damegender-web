@@ -1,0 +1,36 @@
+[{
+"name": "ATÍLIO",
+"frequency": 2,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 88,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 87,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 69,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 62,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 481,
+"females": 4
+} 
+] 
+}]

@@ -2,5 +2,29 @@
 "name": "ADDIE",
 "frequency": 43708,
 "males": "1.6610231536560813 %",
-"females": "98.33897684634391 %"
+"females": "98.33897684634391 %",
+"ca": [
+{ 
+"males": 0,
+"females": 29
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 55
+} 
+], 
+"gb": [
+{ 
+"males": 8,
+"females": 15
+} 
+], 
+"us": [
+{ 
+"males": 697,
+"females": 43699
+} 
+] 
 }]

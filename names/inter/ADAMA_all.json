@@ -2,5 +2,53 @@
 "name": "ADAMA",
 "frequency": 7671,
 "males": "62.664580889062705 %",
-"females": "37.335419110937295 %"
+"females": "37.335419110937295 %",
+"be": [
+{ 
+"males": 705,
+"females": 852
+} 
+], 
+"ch": [
+{ 
+"males": 281,
+"females": 210
+} 
+], 
+"dk": [
+{ 
+"males": 12,
+"females": 14
+} 
+], 
+"es": [
+{ 
+"males": 1559,
+"females": 426
+} 
+], 
+"fi": [
+{ 
+"males": 16,
+"females": 36
+} 
+], 
+"fr": [
+{ 
+"males": 2573,
+"females": 1022
+} 
+], 
+"gb": [
+{ 
+"males": 13,
+"females": 82
+} 
+], 
+"us": [
+{ 
+"males": 382,
+"females": 577
+} 
+] 
 }]

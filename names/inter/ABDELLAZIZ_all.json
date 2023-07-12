@@ -2,5 +2,29 @@
 "name": "ABDELLAZIZ",
 "frequency": 903,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 530,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 100,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 155,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 112,
+"females": 0
+} 
+] 
 }]

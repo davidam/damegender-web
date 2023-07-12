@@ -1,6 +1,12 @@
 [{
 "name": "ABIRAMY",
-"frequency": 34,
+"frequency": 59,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 109
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABDELHAMED",
 "frequency": 214,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 96,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 59,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 24,
+"females": 0
+} 
+] 
 }]

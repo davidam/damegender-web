@@ -2,5 +2,11 @@
 "name": "ABSELAM",
 "frequency": 170,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 160,
+"females": 0
+} 
+] 
 }]

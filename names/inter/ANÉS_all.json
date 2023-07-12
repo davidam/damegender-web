@@ -1,0 +1,72 @@
+[{
+"name": "ANÉS",
+"frequency": 29,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 270,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1950,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 93,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 119,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1440,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 2028,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 120,
+"females": 0
+} 
+] 
+}]

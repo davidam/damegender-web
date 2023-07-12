@@ -2,5 +2,11 @@
 "name": "AATO",
 "frequency": 10,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 50,
+"females": 0
+} 
+] 
 }]

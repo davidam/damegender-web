@@ -2,5 +2,11 @@
 "name": "AAMOS",
 "frequency": 281,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 2172,
+"females": 5
+} 
+] 
 }]

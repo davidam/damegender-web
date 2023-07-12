@@ -2,5 +2,17 @@
 "name": "ADEDOYIN",
 "frequency": 36,
 "males": "13.88888888888889 %",
-"females": "86.11111111111111 %"
+"females": "86.11111111111111 %",
+"gb": [
+{ 
+"males": 4,
+"females": 13
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 17
+} 
+] 
 }]

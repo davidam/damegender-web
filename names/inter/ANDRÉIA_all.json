@@ -1,0 +1,54 @@
+[{
+"name": "ANDRÉIA",
+"frequency": 64,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 1024
+} 
+], 
+"ch": [
+{ 
+"males": 113,
+"females": 9205
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 469
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 710
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 82
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 132
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 638
+} 
+] 
+}]

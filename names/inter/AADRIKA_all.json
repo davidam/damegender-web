@@ -1,6 +1,12 @@
 [{
 "name": "AADRIKA",
-"frequency": 1,
+"frequency": 2,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 0,
+"females": 33
+} 
+] 
 }]

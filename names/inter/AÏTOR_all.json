@@ -1,0 +1,60 @@
+[{
+"name": "AÏTOR",
+"frequency": 27,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 81,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 496,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 52249,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 162,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
+}]

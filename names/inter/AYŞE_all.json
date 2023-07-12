@@ -1,0 +1,66 @@
+[{
+"name": "AYŞE",
+"frequency": 59,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 21739
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 8275
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 895
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 122
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 2296
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 408
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 317
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 511
+} 
+] 
+}]

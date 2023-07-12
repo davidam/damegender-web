@@ -2,5 +2,23 @@
 "name": "ABDRAHMAN",
 "frequency": 108,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 56,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
 }]

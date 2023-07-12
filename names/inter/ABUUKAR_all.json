@@ -2,5 +2,17 @@
 "name": "ABUUKAR",
 "frequency": 19,
 "males": "73.68421052631578 %",
-"females": "26.31578947368421 %"
+"females": "26.31578947368421 %",
+"ch": [
+{ 
+"males": 65,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 20,
+"females": 12
+} 
+] 
 }]

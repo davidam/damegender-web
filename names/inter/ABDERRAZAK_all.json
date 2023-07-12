@@ -2,5 +2,35 @@
 "name": "ABDERRAZAK",
 "frequency": 2856,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 1469,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 215,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1064,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 207,
+"females": 0
+} 
+] 
 }]

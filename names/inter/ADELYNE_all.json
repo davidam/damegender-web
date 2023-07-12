@@ -2,5 +2,23 @@
 "name": "ADELYNE",
 "frequency": 711,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 249
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 991
+} 
+] 
 }]

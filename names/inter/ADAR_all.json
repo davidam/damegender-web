@@ -2,5 +2,47 @@
 "name": "ADAR",
 "frequency": 424,
 "males": "87.02830188679245 %",
-"females": "12.971698113207546 %"
+"females": "12.971698113207546 %",
+"be": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 373,
+"females": 63
+} 
+], 
+"dk": [
+{ 
+"males": 22,
+"females": 11
+} 
+], 
+"fi": [
+{ 
+"males": 32,
+"females": 25
+} 
+], 
+"fr": [
+{ 
+"males": 167,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 36,
+"females": 6
+} 
+], 
+"us": [
+{ 
+"males": 78,
+"females": 46
+} 
+] 
 }]

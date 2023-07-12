@@ -2,5 +2,29 @@
 "name": "ADELLA",
 "frequency": 5202,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 210
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 5667
+} 
+] 
 }]

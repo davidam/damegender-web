@@ -1,0 +1,120 @@
+[{
+"name": "ARÓN",
+"frequency": 5,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 98,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 81,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 2532,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 152,
+"females": 5
+} 
+], 
+"ch": [
+{ 
+"males": 8219,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 350,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1798,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 1782,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 2213,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 1376,
+"females": 3
+} 
+], 
+"is": [
+{ 
+"males": 1388,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 2379,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 2333,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 831,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 19760,
+"females": 355
+} 
+], 
+"uy": [
+{ 
+"males": 138,
+"females": 0
+} 
+] 
+}]

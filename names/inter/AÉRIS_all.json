@@ -1,0 +1,36 @@
+[{
+"name": "AÉRIS",
+"frequency": 110,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 1,
+"females": 28
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 169
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 12
+} 
+], 
+"us": [
+{ 
+"males": 41,
+"females": 1594
+} 
+] 
+}]

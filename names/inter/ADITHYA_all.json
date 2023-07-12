@@ -2,5 +2,29 @@
 "name": "ADITHYA",
 "frequency": 517,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 48,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 604,
+"females": 0
+} 
+] 
 }]

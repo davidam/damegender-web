@@ -2,5 +2,41 @@
 "name": "ABEERA",
 "frequency": 122,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 47
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 90
+} 
+] 
 }]

@@ -2,5 +2,77 @@
 "name": "ADAN",
 "frequency": 29735,
 "males": "99.50899613250378 %",
-"females": "0.49100386749621655 %"
+"females": "0.49100386749621655 %",
+"au": [
+{ 
+"males": 11,
+"females": 1
+} 
+], 
+"ca": [
+{ 
+"males": 34,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 423,
+"females": 3
+} 
+], 
+"dk": [
+{ 
+"males": 40,
+"females": 2
+} 
+], 
+"es": [
+{ 
+"males": 5453,
+"females": 26
+} 
+], 
+"fi": [
+{ 
+"males": 140,
+"females": 90
+} 
+], 
+"fr": [
+{ 
+"males": 1228,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 155,
+"females": 19
+} 
+], 
+"mx": [
+{ 
+"males": 586,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 83,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 28862,
+"females": 117
+} 
+], 
+"uy": [
+{ 
+"males": 357,
+"females": 3
+} 
+] 
 }]

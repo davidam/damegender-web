@@ -2,5 +2,29 @@
 "name": "ABDELTIF",
 "frequency": 471,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 169,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 174,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 107,
+"females": 0
+} 
+] 
 }]

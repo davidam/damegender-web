@@ -2,5 +2,35 @@
 "name": "ADJA",
 "frequency": 770,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 75
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 117
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 541
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 197
+} 
+] 
 }]

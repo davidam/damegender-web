@@ -2,5 +2,23 @@
 "name": "ABIAN",
 "frequency": 616,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 624,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 20,
+"females": 0
+} 
+] 
 }]

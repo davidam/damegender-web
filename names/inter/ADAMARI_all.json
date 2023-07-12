@@ -2,5 +2,11 @@
 "name": "ADAMARI",
 "frequency": 1525,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 0,
+"females": 1930
+} 
+] 
 }]

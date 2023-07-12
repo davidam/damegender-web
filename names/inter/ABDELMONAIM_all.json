@@ -2,5 +2,17 @@
 "name": "ABDELMONAIM",
 "frequency": 303,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 143,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 192,
+"females": 0
+} 
+] 
 }]

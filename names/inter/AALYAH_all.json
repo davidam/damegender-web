@@ -2,5 +2,23 @@
 "name": "AALYAH",
 "frequency": 793,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 50
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 243
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 687
+} 
+] 
 }]

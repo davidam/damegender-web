@@ -2,5 +2,53 @@
 "name": "ADOLF",
 "frequency": 35701,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 5313,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 13157,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 83,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 188,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 1918,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 10911,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1383,
+"females": 0
+} 
+] 
 }]

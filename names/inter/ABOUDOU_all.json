@@ -2,5 +2,23 @@
 "name": "ABOUDOU",
 "frequency": 103,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 41,
+"females": 0
+} 
+] 
 }]

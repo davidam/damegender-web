@@ -2,5 +2,53 @@
 "name": "ABDULAH",
 "frequency": 1419,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 371,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1039,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 75,
+"females": 0
+} 
+] 
 }]

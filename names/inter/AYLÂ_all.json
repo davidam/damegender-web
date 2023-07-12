@@ -1,0 +1,108 @@
+[{
+"name": "AYLÂ",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 85
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 164
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 1991
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 759
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 3761
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 216
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1018
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 168
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1858
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1846
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 347
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 757
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 590
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 209
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 26280
+} 
+] 
+}]

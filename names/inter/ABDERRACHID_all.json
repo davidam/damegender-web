@@ -2,5 +2,17 @@
 "name": "ABDERRACHID",
 "frequency": 367,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 234,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 115,
+"females": 0
+} 
+] 
 }]
