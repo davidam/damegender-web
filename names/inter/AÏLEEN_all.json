@@ -1,0 +1,84 @@
+[{
+"name": "AÏLEEN",
+"frequency": 65,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 246
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 171
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 87
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 2369
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 58
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 287
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 310
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1144
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 247
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 36135
+} 
+], 
+"uy": [
+{ 
+"males": 4,
+"females": 51
+} 
+] 
+}]

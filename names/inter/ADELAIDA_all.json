@@ -2,5 +2,53 @@
 "name": "ADELAIDA",
 "frequency": 11493,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 236
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 8052
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 251
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 89
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2888
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 47
+} 
+] 
 }]

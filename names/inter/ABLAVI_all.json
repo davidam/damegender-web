@@ -1,6 +1,18 @@
 [{
 "name": "ABLAVI",
-"frequency": 61,
+"frequency": 76,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 92
+} 
+] 
 }]

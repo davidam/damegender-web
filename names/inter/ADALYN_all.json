@@ -2,5 +2,23 @@
 "name": "ADALYN",
 "frequency": 7097,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 217
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 39
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 25177
+} 
+] 
 }]

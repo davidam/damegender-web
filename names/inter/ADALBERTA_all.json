@@ -1,6 +1,30 @@
 [{
 "name": "ADALBERTA",
-"frequency": 174,
+"frequency": 178,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 129
+} 
+] 
 }]

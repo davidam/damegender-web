@@ -2,5 +2,11 @@
 "name": "ABDELAKRIM",
 "frequency": 32,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 28,
+"females": 0
+} 
+] 
 }]

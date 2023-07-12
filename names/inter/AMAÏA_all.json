@@ -1,0 +1,66 @@
+[{
+"name": "AMAÏA",
+"frequency": 296,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 427
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 14451
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 50
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1158
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 101
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3506
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 43
+} 
+] 
+}]

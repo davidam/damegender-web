@@ -2,5 +2,29 @@
 "name": "ADISON",
 "frequency": 3438,
 "males": "18.993600930773706 %",
-"females": "81.0063990692263 %"
+"females": "81.0063990692263 %",
+"ca": [
+{ 
+"males": 21,
+"females": 52
+} 
+], 
+"ch": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 17,
+"females": 4
+} 
+], 
+"us": [
+{ 
+"males": 647,
+"females": 3175
+} 
+] 
 }]

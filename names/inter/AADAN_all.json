@@ -2,5 +2,23 @@
 "name": "AADAN",
 "frequency": 130,
 "males": "86.92307692307692 %",
-"females": "13.076923076923078 %"
+"females": "13.076923076923078 %",
+"ch": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 36,
+"females": 38
+} 
+], 
+"us": [
+{ 
+"males": 130,
+"females": 0
+} 
+] 
 }]

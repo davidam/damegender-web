@@ -2,5 +2,17 @@
 "name": "ABDELKERIM",
 "frequency": 66,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 53,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+] 
 }]

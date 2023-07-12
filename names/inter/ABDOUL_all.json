@@ -2,5 +2,41 @@
 "name": "ABDOUL",
 "frequency": 4414,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 2091,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 434,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 161,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1596,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 505,
+"females": 0
+} 
+] 
 }]

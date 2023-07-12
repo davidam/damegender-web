@@ -2,5 +2,11 @@
 "name": "ADRYON",
 "frequency": 16,
 "males": "93.75 %",
-"females": "6.25 %"
+"females": "6.25 %",
+"us": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
 }]

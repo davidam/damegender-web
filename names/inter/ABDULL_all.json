@@ -2,5 +2,11 @@
 "name": "ABDULL",
 "frequency": 19,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 46,
+"females": 0
+} 
+] 
 }]

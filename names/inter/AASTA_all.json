@@ -1,6 +1,12 @@
 [{
 "name": "AASTA",
-"frequency": 9,
+"frequency": 257,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"no": [
+{ 
+"males": 0,
+"females": 248
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ADELIN",
 "frequency": 4988,
 "males": "94.44667201283079 %",
-"females": "5.553327987169206 %"
+"females": "5.553327987169206 %",
+"be": [
+{ 
+"males": 3543,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 68,
+"females": 49
+} 
+], 
+"es": [
+{ 
+"males": 65,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 62
+} 
+], 
+"fr": [
+{ 
+"males": 764,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 594
+} 
+] 
 }]

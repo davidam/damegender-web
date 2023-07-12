@@ -1,0 +1,60 @@
+[{
+"name": "ALEKSEÏ",
+"frequency": 29,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 377,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 392,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 1368,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 161,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 404,
+"females": 12
+} 
+] 
+}]

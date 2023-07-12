@@ -2,5 +2,17 @@
 "name": "AASHNI",
 "frequency": 49,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"gb": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 52
+} 
+] 
 }]

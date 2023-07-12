@@ -2,5 +2,53 @@
 "name": "ADDISON",
 "frequency": 98225,
 "males": "13.025197251208958 %",
-"females": "86.97480274879103 %"
+"females": "86.97480274879103 %",
+"au": [
+{ 
+"males": 38,
+"females": 207
+} 
+], 
+"ca": [
+{ 
+"males": 165,
+"females": 1356
+} 
+], 
+"ch": [
+{ 
+"males": 23,
+"females": 111
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"fr": [
+{ 
+"males": 17,
+"females": 104
+} 
+], 
+"gb": [
+{ 
+"males": 503,
+"females": 409
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 651
+} 
+], 
+"us": [
+{ 
+"males": 13085,
+"females": 134957
+} 
+] 
 }]

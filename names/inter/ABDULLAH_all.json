@@ -2,5 +2,95 @@
 "name": "ABDULLAH",
 "frequency": 32345,
 "males": "99.87014994589582 %",
-"females": "0.1298500541041892 %"
+"females": "0.1298500541041892 %",
+"at": [
+{ 
+"males": 207,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 8444,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 279,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 4185,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 789,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 684,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 632,
+"females": 106
+} 
+], 
+"fr": [
+{ 
+"males": 1594,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 3410,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 795,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 410,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 123,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 8067,
+"females": 0
+} 
+] 
 }]

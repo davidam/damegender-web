@@ -2,5 +2,17 @@
 "name": "ABAZ",
 "frequency": 497,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 591,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 391,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,30 @@
+[{
+"name": "AËDEN",
+"frequency": 34,
+"males": "100.0 %",
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 23,
+"females": 3
+} 
+], 
+"fr": [
+{ 
+"males": 209,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1087,
+"females": 7
+} 
+] 
+}]

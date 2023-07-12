@@ -1,0 +1,66 @@
+[{
+"name": "AÏLA",
+"frequency": 45,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 63
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 814
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 49
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 206
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 23364
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 54
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 574
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 44
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2859
+} 
+] 
+}]

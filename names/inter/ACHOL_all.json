@@ -2,5 +2,17 @@
 "name": "ACHOL",
 "frequency": 70,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 78
+} 
+] 
 }]

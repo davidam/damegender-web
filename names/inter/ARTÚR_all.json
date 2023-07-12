@@ -1,0 +1,96 @@
+[{
+"name": "ARTÚR",
+"frequency": 8,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 64,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 5712,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 7606,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 474,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2761,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 1960,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 935,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 263,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 1309,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 423,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 244,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1095,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 766,
+"females": 0
+} 
+] 
+}]

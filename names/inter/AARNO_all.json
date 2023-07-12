@@ -2,5 +2,17 @@
 "name": "AARNO",
 "frequency": 918,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 5274,
+"females": 0
+} 
+] 
 }]

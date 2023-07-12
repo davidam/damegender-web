@@ -1,6 +1,24 @@
 [{
 "name": "AASE",
-"frequency": 8388,
+"frequency": 11398,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 74
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 8388
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 2997
+} 
+] 
 }]

@@ -1,0 +1,36 @@
+[{
+"name": "ALEGRÍA",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 83
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1394
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 218
+} 
+] 
+}]

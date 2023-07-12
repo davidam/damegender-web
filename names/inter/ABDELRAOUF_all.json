@@ -2,5 +2,11 @@
 "name": "ABDELRAOUF",
 "frequency": 95,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 65,
+"females": 0
+} 
+] 
 }]

@@ -1,6 +1,24 @@
 [{
 "name": "AADA",
-"frequency": 2741,
+"frequency": 2752,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 57
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 19978
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 13
+} 
+] 
 }]

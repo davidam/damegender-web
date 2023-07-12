@@ -2,5 +2,17 @@
 "name": "ABHILASH",
 "frequency": 42,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 66,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 22,
+"females": 0
+} 
+] 
 }]

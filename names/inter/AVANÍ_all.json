@@ -1,0 +1,30 @@
+[{
+"name": "AVANÍ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 65
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 225
+} 
+], 
+"us": [
+{ 
+"males": 29,
+"females": 3101
+} 
+] 
+}]

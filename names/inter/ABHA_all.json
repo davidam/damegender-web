@@ -2,5 +2,17 @@
 "name": "ABHA",
 "frequency": 58,
 "males": "1.7241379310344827 %",
-"females": "98.27586206896551 %"
+"females": "98.27586206896551 %",
+"ch": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 57
+} 
+] 
 }]

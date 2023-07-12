@@ -2,5 +2,11 @@
 "name": "AATAMI",
 "frequency": 440,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 876,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABDIASIS",
 "frequency": 68,
 "males": "69.11764705882352 %",
-"females": "30.88235294117647 %"
+"females": "30.88235294117647 %",
+"ch": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 92,
+"females": 46
+} 
+] 
 }]

@@ -1,0 +1,78 @@
+[{
+"name": "AURÉLIO",
+"frequency": 205,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 437,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 5671,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 13322,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 74,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 571,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 574,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 81,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 7416,
+"females": 6
+} 
+], 
+"uy": [
+{ 
+"males": 117,
+"females": 0
+} 
+] 
+}]

@@ -2,5 +2,65 @@
 "name": "ADHAM",
 "frequency": 1386,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"at": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 50,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 240,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 71,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 123,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 353,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 156,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 823,
+"females": 0
+} 
+] 
 }]

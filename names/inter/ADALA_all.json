@@ -2,5 +2,11 @@
 "name": "ADALA",
 "frequency": 27,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 23
+} 
+] 
 }]

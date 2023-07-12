@@ -1,0 +1,66 @@
+[{
+"name": "ADÉLIA",
+"frequency": 401,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 168
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 741
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 802
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1550
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 892
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 118
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 5309
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 28
+} 
+] 
+}]

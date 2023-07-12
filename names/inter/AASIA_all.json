@@ -2,5 +2,23 @@
 "name": "AASIA",
 "frequency": 223,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fi": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 38
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 225
+} 
+] 
 }]

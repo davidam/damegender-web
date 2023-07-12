@@ -2,5 +2,23 @@
 "name": "ABDESSAMED",
 "frequency": 90,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 21,
+"females": 0
+} 
+] 
 }]

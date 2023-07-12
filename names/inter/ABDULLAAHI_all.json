@@ -2,5 +2,11 @@
 "name": "ABDULLAAHI",
 "frequency": 27,
 "males": "77.77777777777779 %",
-"females": "22.22222222222222 %"
+"females": "22.22222222222222 %",
+"fi": [
+{ 
+"males": 44,
+"females": 12
+} 
+] 
 }]

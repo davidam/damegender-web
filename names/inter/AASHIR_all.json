@@ -2,5 +2,17 @@
 "name": "AASHIR",
 "frequency": 121,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 165,
+"females": 0
+} 
+] 
 }]

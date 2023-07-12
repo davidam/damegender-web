@@ -1,0 +1,30 @@
+[{
+"name": "AÏSSAM",
+"frequency": 101,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 101,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 234,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 412,
+"females": 0
+} 
+] 
+}]

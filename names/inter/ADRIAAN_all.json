@@ -2,5 +2,47 @@
 "name": "ADRIAAN",
 "frequency": 10866,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 9789,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 375,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 98,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,30 @@
+[{
+"name": "AIŞE",
+"frequency": 6,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 50
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 22
+} 
+] 
+}]

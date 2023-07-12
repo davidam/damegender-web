@@ -2,5 +2,35 @@
 "name": "ADWOA",
 "frequency": 253,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 65
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 207
+} 
+] 
 }]

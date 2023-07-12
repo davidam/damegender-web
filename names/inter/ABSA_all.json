@@ -1,6 +1,24 @@
 [{
 "name": "ABSA",
-"frequency": 83,
+"frequency": 90,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 36
+} 
+] 
 }]

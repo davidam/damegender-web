@@ -2,5 +2,17 @@
 "name": "ADERYN",
 "frequency": 55,
 "males": "1.8181818181818181 %",
-"females": "98.18181818181819 %"
+"females": "98.18181818181819 %",
+"gb": [
+{ 
+"males": 1,
+"females": 20
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 34
+} 
+] 
 }]

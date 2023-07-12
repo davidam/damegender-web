@@ -2,5 +2,23 @@
 "name": "ABDAL",
 "frequency": 44,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
 }]

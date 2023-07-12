@@ -2,5 +2,95 @@
 "name": "ADELE",
 "frequency": 53237,
 "males": "0.024419107012040496 %",
-"females": "99.97558089298796 %"
+"females": "99.97558089298796 %",
+"at": [
+{ 
+"males": 0,
+"females": 73
+} 
+], 
+"au": [
+{ 
+"males": 2,
+"females": 480
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 514
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 201
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 4253
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 79
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 226
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 8312
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1661
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 2953
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 1090
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 737
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 178
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 40810
+} 
+] 
 }]

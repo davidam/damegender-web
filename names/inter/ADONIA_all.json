@@ -2,5 +2,29 @@
 "name": "ADONIA",
 "frequency": 405,
 "males": "2.2222222222222223 %",
-"females": "97.77777777777777 %"
+"females": "97.77777777777777 %",
+"ch": [
+{ 
+"males": 18,
+"females": 61
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 19
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 339
+} 
+] 
 }]

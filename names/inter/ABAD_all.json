@@ -2,5 +2,23 @@
 "name": "ABAD",
 "frequency": 168,
 "males": "95.23809523809523 %",
-"females": "4.761904761904762 %"
+"females": "4.761904761904762 %",
+"es": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 48,
+"females": 8
+} 
+], 
+"us": [
+{ 
+"males": 87,
+"females": 0
+} 
+] 
 }]

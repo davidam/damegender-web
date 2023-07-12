@@ -1,0 +1,54 @@
+[{
+"name": "AÏZA",
+"frequency": 32,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 136
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 67
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 192
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 63
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 474
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1474
+} 
+] 
+}]

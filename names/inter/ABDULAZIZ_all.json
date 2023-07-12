@@ -2,5 +2,59 @@
 "name": "ABDULAZIZ",
 "frequency": 1409,
 "males": "99.2902767920511 %",
-"females": "0.7097232079488999 %"
+"females": "0.7097232079488999 %",
+"be": [
+{ 
+"males": 93,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 417,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 80,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 58,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 217,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1520,
+"females": 0
+} 
+] 
 }]

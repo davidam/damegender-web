@@ -2,5 +2,29 @@
 "name": "AAYAT",
 "frequency": 87,
 "males": "1.1494252873563218 %",
-"females": "98.85057471264368 %"
+"females": "98.85057471264368 %",
+"ca": [
+{ 
+"males": 1,
+"females": 19
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 35
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 303
+} 
+] 
 }]

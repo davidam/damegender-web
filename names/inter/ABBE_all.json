@@ -2,5 +2,29 @@
 "name": "ABBE",
 "frequency": 2330,
 "males": "41.88841201716738 %",
-"females": "58.11158798283261 %"
+"females": "58.11158798283261 %",
+"fi": [
+{ 
+"males": 67,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"se": [
+{ 
+"males": 975,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1325
+} 
+] 
 }]

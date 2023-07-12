@@ -2,5 +2,23 @@
 "name": "AAMAR",
 "frequency": 50,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
 }]

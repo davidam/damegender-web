@@ -2,5 +2,17 @@
 "name": "ABDULHAKEEM",
 "frequency": 46,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 52,
+"females": 0
+} 
+] 
 }]

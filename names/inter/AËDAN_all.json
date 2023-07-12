@@ -1,0 +1,42 @@
+[{
+"name": "AËDAN",
+"frequency": 115,
+"males": "100.0 %",
+"females": "0.0 %",
+"au": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 53,
+"females": 3
+} 
+], 
+"ch": [
+{ 
+"males": 171,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 864,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 482,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 3688,
+"females": 43
+} 
+] 
+}]

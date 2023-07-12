@@ -2,5 +2,23 @@
 "name": "ABDELRHANI",
 "frequency": 131,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 62,
+"females": 0
+} 
+] 
 }]

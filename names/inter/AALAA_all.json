@@ -1,6 +1,18 @@
 [{
 "name": "AALAA",
-"frequency": 8,
+"frequency": 24,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 13
+} 
+] 
 }]

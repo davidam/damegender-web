@@ -1,0 +1,60 @@
+[{
+"name": "ÂNAKIN",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"au": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 299,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 81,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 448,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 3913,
+"females": 29
+} 
+] 
+}]

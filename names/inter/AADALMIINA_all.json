@@ -2,5 +2,11 @@
 "name": "AADALMIINA",
 "frequency": 8,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fi": [
+{ 
+"males": 0,
+"females": 20
+} 
+] 
 }]

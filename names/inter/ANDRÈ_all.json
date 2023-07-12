@@ -1,0 +1,102 @@
+[{
+"name": "ANDRÈ",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 306,
+"females": 4
+} 
+], 
+"be": [
+{ 
+"males": 8497,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 478,
+"females": 1
+} 
+], 
+"ch": [
+{ 
+"males": 4649,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 502,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 2185,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 514,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 191,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 1663,
+"females": 1
+} 
+], 
+"no": [
+{ 
+"males": 6506,
+"females": 0
+} 
+], 
+"nz": [
+{ 
+"males": 127,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 198,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 126519,
+"females": 2205
+} 
+], 
+"uy": [
+{ 
+"males": 88,
+"females": 3
+} 
+] 
+}]

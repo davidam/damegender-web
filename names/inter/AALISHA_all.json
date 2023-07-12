@@ -2,5 +2,23 @@
 "name": "AALISHA",
 "frequency": 41,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 35
+} 
+] 
 }]

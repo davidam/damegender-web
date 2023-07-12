@@ -2,5 +2,47 @@
 "name": "ABDULMALIK",
 "frequency": 423,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"at": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 64,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 87,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 504,
+"females": 0
+} 
+] 
 }]

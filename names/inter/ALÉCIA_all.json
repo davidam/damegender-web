@@ -1,0 +1,54 @@
+[{
+"name": "ALÉCIA",
+"frequency": 31,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 81
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 66
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 99
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 77
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 202
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 11974
+} 
+] 
+}]

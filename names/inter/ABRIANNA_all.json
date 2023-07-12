@@ -2,5 +2,17 @@
 "name": "ABRIANNA",
 "frequency": 3298,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 4170
+} 
+] 
 }]

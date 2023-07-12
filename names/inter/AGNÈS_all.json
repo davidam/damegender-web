@@ -1,0 +1,108 @@
+[{
+"name": "AGNÈS",
+"frequency": 185100,
+"males": "0.14910858995137763 %",
+"females": "99.85089141004863 %",
+"at": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"au": [
+{ 
+"males": 1,
+"females": 42
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 103100
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 78
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 35974
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 4921
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1852
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1700
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 158
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 750
+} 
+], 
+"is": [
+{ 
+"males": 0,
+"females": 557
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 3356
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 11816
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 915
+} 
+], 
+"us": [
+{ 
+"males": 465,
+"females": 157113
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 12
+} 
+] 
+}]

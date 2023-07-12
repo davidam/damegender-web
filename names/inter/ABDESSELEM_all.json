@@ -2,5 +2,17 @@
 "name": "ABDESSELEM",
 "frequency": 81,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 39,
+"females": 0
+} 
+] 
 }]

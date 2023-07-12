@@ -1,6 +1,12 @@
 [{
 "name": "ABDERAHMEN",
-"frequency": 78,
+"frequency": 81,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 54,
+"females": 0
+} 
+] 
 }]

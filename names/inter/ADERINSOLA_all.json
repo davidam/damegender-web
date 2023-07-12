@@ -2,5 +2,17 @@
 "name": "ADERINSOLA",
 "frequency": 38,
 "males": "2.631578947368421 %",
-"females": "97.36842105263158 %"
+"females": "97.36842105263158 %",
+"gb": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 54
+} 
+] 
 }]

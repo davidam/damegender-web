@@ -2,5 +2,11 @@
 "name": "AARJAV",
 "frequency": 19,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 33,
+"females": 0
+} 
+] 
 }]

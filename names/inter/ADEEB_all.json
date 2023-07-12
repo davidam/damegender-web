@@ -2,5 +2,29 @@
 "name": "ADEEB",
 "frequency": 364,
 "males": "99.45054945054946 %",
-"females": "0.5494505494505495 %"
+"females": "0.5494505494505495 %",
+"ca": [
+{ 
+"males": 13,
+"females": 2
+} 
+], 
+"ch": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 145,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 279,
+"females": 0
+} 
+] 
 }]

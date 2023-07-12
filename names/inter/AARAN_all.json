@@ -2,5 +2,23 @@
 "name": "AARAN",
 "frequency": 610,
 "males": "99.672131147541 %",
-"females": "0.32786885245901637 %"
+"females": "0.32786885245901637 %",
+"ch": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 440,
+"females": 2
+} 
+], 
+"us": [
+{ 
+"males": 230,
+"females": 0
+} 
+] 
 }]

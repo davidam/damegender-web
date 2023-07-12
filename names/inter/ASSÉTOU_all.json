@@ -1,0 +1,30 @@
+[{
+"name": "ASSÉTOU",
+"frequency": 33,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 468
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 21
+} 
+] 
+}]

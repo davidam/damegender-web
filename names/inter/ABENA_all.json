@@ -2,5 +2,35 @@
 "name": "ABENA",
 "frequency": 792,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 107
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 77
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 38
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 119
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 622
+} 
+] 
 }]

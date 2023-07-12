@@ -1,0 +1,60 @@
+[{
+"name": "ASMAÂ",
+"frequency": 161,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 3736
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 686
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 208
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1615
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 105
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1814
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 345
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 865
+} 
+] 
+}]

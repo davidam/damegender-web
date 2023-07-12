@@ -2,5 +2,29 @@
 "name": "ABBIGAIL",
 "frequency": 10861,
 "males": "0.04603627658594973 %",
-"females": "99.95396372341405 %"
+"females": "99.95396372341405 %",
+"au": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 169
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 554
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 11942
+} 
+] 
 }]

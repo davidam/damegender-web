@@ -2,5 +2,23 @@
 "name": "ADARSH",
 "frequency": 512,
 "males": "99.609375 %",
-"females": "0.390625 %"
+"females": "0.390625 %",
+"ch": [
+{ 
+"males": 52,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 581,
+"females": 0
+} 
+] 
 }]

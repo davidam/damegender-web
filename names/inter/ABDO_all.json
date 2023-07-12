@@ -2,5 +2,41 @@
 "name": "ABDO",
 "frequency": 242,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 114,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 88,
+"females": 0
+} 
+] 
 }]

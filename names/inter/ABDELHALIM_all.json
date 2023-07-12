@@ -2,5 +2,29 @@
 "name": "ABDELHALIM",
 "frequency": 1900,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 859,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 88,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 386,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 611,
+"females": 0
+} 
+] 
 }]

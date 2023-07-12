@@ -2,5 +2,11 @@
 "name": "AARNENPOIKA",
 "frequency": 17,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 36,
+"females": 0
+} 
+] 
 }]

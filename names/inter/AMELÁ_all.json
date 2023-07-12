@@ -1,0 +1,66 @@
+[{
+"name": "AMELÁ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 341
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 3634
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 158
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 125
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 5448
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 408
+} 
+] 
+}]

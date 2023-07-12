@@ -2,5 +2,41 @@
 "name": "ABBEY",
 "frequency": 20490,
 "males": "0.1903367496339678 %",
-"females": "99.80966325036603 %"
+"females": "99.80966325036603 %",
+"au": [
+{ 
+"males": 2,
+"females": 546
+} 
+], 
+"ca": [
+{ 
+"males": 1,
+"females": 240
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 3261
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"us": [
+{ 
+"males": 35,
+"females": 17406
+} 
+] 
 }]

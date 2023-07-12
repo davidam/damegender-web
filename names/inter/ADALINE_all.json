@@ -2,5 +2,35 @@
 "name": "ADALINE",
 "frequency": 3850,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 92
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 422
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 12840
+} 
+] 
 }]

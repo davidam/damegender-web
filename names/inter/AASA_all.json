@@ -2,5 +2,23 @@
 "name": "AASA",
 "frequency": 28,
 "males": "3.571428571428571 %",
-"females": "96.42857142857143 %"
+"females": "96.42857142857143 %",
+"ch": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 62
+} 
+] 
 }]

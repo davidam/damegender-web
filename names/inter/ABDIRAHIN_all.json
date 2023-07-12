@@ -2,5 +2,11 @@
 "name": "ABDIRAHIN",
 "frequency": 6,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 22,
+"females": 0
+} 
+] 
 }]

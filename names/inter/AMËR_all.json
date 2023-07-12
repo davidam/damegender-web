@@ -1,0 +1,78 @@
+[{
+"name": "AMËR",
+"frequency": 4,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 188,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 31,
+"females": 4
+} 
+], 
+"ch": [
+{ 
+"males": 1209,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 240,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 266,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 104,
+"females": 19
+} 
+], 
+"fr": [
+{ 
+"males": 83,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 132,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 208,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 972,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1343,
+"females": 12
+} 
+] 
+}]

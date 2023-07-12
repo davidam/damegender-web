@@ -2,5 +2,35 @@
 "name": "ABDELILAH",
 "frequency": 8856,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 5298,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 184,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2916,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 360,
+"females": 0
+} 
+] 
 }]

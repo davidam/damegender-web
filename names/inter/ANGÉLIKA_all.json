@@ -1,0 +1,90 @@
+[{
+"name": "ANGÉLIKA",
+"frequency": 39,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 2209
+} 
+], 
+"au": [
+{ 
+"males": 2,
+"females": 67
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 2579
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 47
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 18640
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 262
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 332
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 862
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 315
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 174
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 484
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 66
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 1218
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2799
+} 
+] 
+}]

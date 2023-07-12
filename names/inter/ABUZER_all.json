@@ -2,5 +2,11 @@
 "name": "ABUZER",
 "frequency": 56,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 289,
+"females": 0
+} 
+] 
 }]

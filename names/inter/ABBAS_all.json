@@ -2,5 +2,83 @@
 "name": "ABBAS",
 "frequency": 7666,
 "males": "99.46517088442474 %",
-"females": "0.5348291155752675 %"
+"females": "0.5348291155752675 %",
+"at": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 1504,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1439,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 341,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 315,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 396,
+"females": 98
+} 
+], 
+"fr": [
+{ 
+"males": 247,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 723,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 286,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 205,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1561,
+"females": 0
+} 
+] 
 }]

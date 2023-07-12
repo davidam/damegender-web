@@ -2,5 +2,11 @@
 "name": "ABOUDOULAYE",
 "frequency": 41,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 14,
+"females": 0
+} 
+] 
 }]

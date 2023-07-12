@@ -2,5 +2,23 @@
 "name": "ADVAY",
 "frequency": 224,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 467,
+"females": 0
+} 
+] 
 }]

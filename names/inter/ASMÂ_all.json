@@ -1,0 +1,78 @@
+[{
+"name": "ASMÂ",
+"frequency": 32,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 9940
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1658
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 291
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1531
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 234
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 8966
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 787
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 295
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 95
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2287
+} 
+] 
+}]

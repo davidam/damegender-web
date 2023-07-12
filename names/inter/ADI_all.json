@@ -2,5 +2,59 @@
 "name": "ADI",
 "frequency": 3090,
 "males": "73.49514563106796 %",
-"females": "26.50485436893204 %"
+"females": "26.50485436893204 %",
+"be": [
+{ 
+"males": 143,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 547,
+"females": 109
+} 
+], 
+"dk": [
+{ 
+"males": 46,
+"females": 50
+} 
+], 
+"es": [
+{ 
+"males": 96,
+"females": 33
+} 
+], 
+"fi": [
+{ 
+"males": 80,
+"females": 21
+} 
+], 
+"fr": [
+{ 
+"males": 71,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 90,
+"females": 49
+} 
+], 
+"si": [
+{ 
+"males": 1224,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 661,
+"females": 861
+} 
+] 
 }]

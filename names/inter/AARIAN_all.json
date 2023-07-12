@@ -2,5 +2,17 @@
 "name": "AARIAN",
 "frequency": 108,
 "males": "74.07407407407408 %",
-"females": "25.925925925925924 %"
+"females": "25.925925925925924 %",
+"gb": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 161,
+"females": 64
+} 
+] 
 }]

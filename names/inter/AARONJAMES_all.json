@@ -2,5 +2,11 @@
 "name": "AARONJAMES",
 "frequency": 96,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 100,
+"females": 0
+} 
+] 
 }]

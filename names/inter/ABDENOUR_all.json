@@ -2,5 +2,29 @@
 "name": "ABDENOUR",
 "frequency": 785,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 144,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 186,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 434,
+"females": 0
+} 
+] 
 }]

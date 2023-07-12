@@ -1,0 +1,36 @@
+[{
+"name": "ALIZÉ",
+"frequency": 651,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 339
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1543
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"us": [
+{ 
+"males": 327,
+"females": 5096
+} 
+] 
+}]

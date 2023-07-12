@@ -2,5 +2,11 @@
 "name": "ADONTE",
 "frequency": 172,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 172,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABDELOUAHID",
 "frequency": 3097,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 2113,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 789,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 22,
+"females": 0
+} 
+] 
 }]

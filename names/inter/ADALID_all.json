@@ -2,5 +2,23 @@
 "name": "ADALID",
 "frequency": 232,
 "males": "78.87931034482759 %",
-"females": "21.120689655172413 %"
+"females": "21.120689655172413 %",
+"es": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 35,
+"females": 38
+} 
+], 
+"us": [
+{ 
+"males": 126,
+"females": 11
+} 
+] 
 }]

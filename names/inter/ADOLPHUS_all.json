@@ -2,5 +2,17 @@
 "name": "ADOLPHUS",
 "frequency": 4088,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 4051,
+"females": 0
+} 
+] 
 }]

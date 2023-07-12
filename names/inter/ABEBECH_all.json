@@ -1,6 +1,12 @@
 [{
 "name": "ABEBECH",
-"frequency": 2,
+"frequency": 8,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 35
+} 
+] 
 }]

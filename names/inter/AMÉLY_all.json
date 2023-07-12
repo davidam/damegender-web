@@ -1,0 +1,36 @@
+[{
+"name": "AMÉLY",
+"frequency": 89,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 559
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 345
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 321
+} 
+] 
+}]

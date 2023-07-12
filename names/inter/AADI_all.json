@@ -2,5 +2,35 @@
 "name": "AADI",
 "frequency": 683,
 "males": "98.38945827232797 %",
-"females": "1.610541727672035 %"
+"females": "1.610541727672035 %",
+"ca": [
+{ 
+"males": 20,
+"females": 1
+} 
+], 
+"ch": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 89,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 988,
+"females": 16
+} 
+] 
 }]

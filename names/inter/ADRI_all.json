@@ -2,5 +2,23 @@
 "name": "ADRI",
 "frequency": 203,
 "males": "37.93103448275862 %",
-"females": "62.06896551724138 %"
+"females": "62.06896551724138 %",
+"be": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 27,
+"females": 227
+} 
+] 
 }]

@@ -2,5 +2,35 @@
 "name": "ABDISHAKUR",
 "frequency": 116,
 "males": "88.79310344827587 %",
-"females": "11.206896551724139 %"
+"females": "11.206896551724139 %",
+"ch": [
+{ 
+"males": 80,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 56,
+"females": 30
+} 
+], 
+"gb": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 69,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ADALBERT",
 "frequency": 3180,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 832,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 409,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 408,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 94,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "ADEYEMI",
 "frequency": 128,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 130,
+"females": 5
+} 
+] 
 }]

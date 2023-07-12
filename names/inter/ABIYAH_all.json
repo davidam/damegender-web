@@ -2,5 +2,11 @@
 "name": "ABIYAH",
 "frequency": 6,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 5,
+"females": 17
+} 
+] 
 }]

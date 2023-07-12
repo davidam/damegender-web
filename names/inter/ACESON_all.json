@@ -2,5 +2,11 @@
 "name": "ACESON",
 "frequency": 57,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 430,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ABADI",
 "frequency": 10,
 "males": "90.0 %",
-"females": "10.0 %"
+"females": "10.0 %",
+"ch": [
+{ 
+"males": 16,
+"females": 0
+} 
+] 
 }]

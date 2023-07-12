@@ -2,5 +2,11 @@
 "name": "ACHILLIES",
 "frequency": 61,
 "males": "98.36065573770492 %",
-"females": "1.639344262295082 %"
+"females": "1.639344262295082 %",
+"us": [
+{ 
+"males": 93,
+"females": 0
+} 
+] 
 }]

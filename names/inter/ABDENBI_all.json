@@ -2,5 +2,29 @@
 "name": "ABDENBI",
 "frequency": 1172,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 408,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 604,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 103,
+"females": 0
+} 
+] 
 }]

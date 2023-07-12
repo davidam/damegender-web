@@ -2,5 +2,53 @@
 "name": "ADELHEID",
 "frequency": 18523,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 2269
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 50927
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 47
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 50
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 96
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 165
+} 
+] 
 }]

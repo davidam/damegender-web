@@ -2,5 +2,17 @@
 "name": "ABDULSAMET",
 "frequency": 48,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 41,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
 }]

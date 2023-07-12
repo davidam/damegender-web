@@ -2,5 +2,47 @@
 "name": "ADYAN",
 "frequency": 406,
 "males": "99.01477832512316 %",
-"females": "0.9852216748768473 %"
+"females": "0.9852216748768473 %",
+"ca": [
+{ 
+"males": 16,
+"females": 1
+} 
+], 
+"ch": [
+{ 
+"males": 85,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 134,
+"females": 1
+} 
+], 
+"si": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 474,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADHRIT",
 "frequency": 94,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 363,
+"females": 0
+} 
+] 
 }]

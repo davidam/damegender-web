@@ -2,5 +2,11 @@
 "name": "AAGAM",
 "frequency": 12,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 42,
+"females": 0
+} 
+] 
 }]

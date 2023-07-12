@@ -1,0 +1,42 @@
+[{
+"name": "ANÉLA",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 1597
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 47
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 2524
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1577
+} 
+] 
+}]

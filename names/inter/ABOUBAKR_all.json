@@ -2,5 +2,29 @@
 "name": "ABOUBAKR",
 "frequency": 670,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 228,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 167,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 300,
+"females": 0
+} 
+] 
 }]

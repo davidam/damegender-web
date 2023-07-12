@@ -2,5 +2,17 @@
 "name": "ADIYAN",
 "frequency": 23,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 35,
+"females": 0
+} 
+] 
 }]

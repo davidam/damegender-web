@@ -2,5 +2,23 @@
 "name": "ABDELMOUNAIM",
 "frequency": 764,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 440,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 265,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
 }]

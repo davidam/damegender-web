@@ -1,0 +1,36 @@
+[{
+"name": "AÏMEN",
+"frequency": 88,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 170,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 100,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 807,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 24,
+"females": 71
+} 
+], 
+"us": [
+{ 
+"males": 45,
+"females": 41
+} 
+] 
+}]

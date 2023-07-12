@@ -2,5 +2,23 @@
 "name": "ABIB",
 "frequency": 157,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 96,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 63,
+"females": 0
+} 
+] 
 }]

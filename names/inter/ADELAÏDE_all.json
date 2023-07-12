@@ -1,0 +1,72 @@
+[{
+"name": "ADELAÏDE",
+"frequency": 1000,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 120
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 83
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 224
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1678
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 134
+} 
+], 
+"fr": [
+{ 
+"males": 243,
+"females": 9676
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 431
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 30322
+} 
+] 
+}]

@@ -2,5 +2,41 @@
 "name": "ABDULWAHAB",
 "frequency": 221,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 76,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 40,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 167,
+"females": 0
+} 
+] 
 }]

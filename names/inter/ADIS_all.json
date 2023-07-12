@@ -2,5 +2,65 @@
 "name": "ADIS",
 "frequency": 7986,
 "males": "99.69947407963937 %",
-"females": "0.30052592036063114 %"
+"females": "0.30052592036063114 %",
+"at": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 171,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 2325,
+"females": 40
+} 
+], 
+"dk": [
+{ 
+"males": 123,
+"females": 2
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"fi": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 5562,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 244,
+"females": 12
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

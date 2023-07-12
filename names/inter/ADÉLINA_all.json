@@ -1,0 +1,114 @@
+[{
+"name": "ADÉLINA",
+"frequency": 114,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"au": [
+{ 
+"males": 1,
+"females": 20
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 3461
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 58
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 7961
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 121
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 8635
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1604
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1765
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 104
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 218
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 395
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 178
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 1814
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 13259
+} 
+], 
+"uy": [
+{ 
+"males": 2,
+"females": 107
+} 
+] 
+}]

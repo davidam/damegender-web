@@ -2,5 +2,23 @@
 "name": "ADEDAYO",
 "frequency": 67,
 "males": "89.55223880597015 %",
-"females": "10.44776119402985 %"
+"females": "10.44776119402985 %",
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 19,
+"females": 7
+} 
+], 
+"us": [
+{ 
+"males": 59,
+"females": 0
+} 
+] 
 }]

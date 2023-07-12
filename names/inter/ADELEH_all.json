@@ -1,6 +1,12 @@
 [{
 "name": "ADELEH",
-"frequency": 4,
+"frequency": 9,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 31
+} 
+] 
 }]

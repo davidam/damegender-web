@@ -2,5 +2,47 @@
 "name": "ACHILLES",
 "frequency": 2848,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 1173,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 354,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 73,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 3171,
+"females": 0
+} 
+] 
 }]

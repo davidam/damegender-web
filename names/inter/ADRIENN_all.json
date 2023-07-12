@@ -2,5 +2,41 @@
 "name": "ADRIENN",
 "frequency": 1272,
 "males": "0.550314465408805 %",
-"females": "99.4496855345912 %"
+"females": "99.4496855345912 %",
+"be": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 610
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 54
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"us": [
+{ 
+"males": 7,
+"females": 27
+} 
+] 
 }]

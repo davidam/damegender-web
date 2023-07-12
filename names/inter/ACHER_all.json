@@ -2,5 +2,17 @@
 "name": "ACHER",
 "frequency": 261,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 254,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 25,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ABTIN",
 "frequency": 36,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 14,
+"females": 0
+} 
+] 
 }]

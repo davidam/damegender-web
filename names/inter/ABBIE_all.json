@@ -2,5 +2,59 @@
 "name": "ABBIE",
 "frequency": 41962,
 "males": "0.7792764882512749 %",
-"females": "99.22072351174872 %"
+"females": "99.22072351174872 %",
+"au": [
+{ 
+"males": 0,
+"females": 277
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 103
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 124
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 275
+} 
+], 
+"gb": [
+{ 
+"males": 2,
+"females": 19555
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 4261
+} 
+], 
+"us": [
+{ 
+"males": 330,
+"females": 21562
+} 
+] 
 }]

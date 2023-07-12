@@ -1,0 +1,36 @@
+[{
+"name": "AÏRON",
+"frequency": 39,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 199,
+"females": 5
+} 
+] 
+}]

@@ -2,5 +2,11 @@
 "name": "AARIC",
 "frequency": 358,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 549,
+"females": 0
+} 
+] 
 }]

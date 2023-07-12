@@ -2,5 +2,11 @@
 "name": "ABDULHUSSEIN",
 "frequency": 4,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 16,
+"females": 0
+} 
+] 
 }]

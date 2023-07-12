@@ -1,0 +1,48 @@
+[{
+"name": "AYYÛB",
+"frequency": 28,
+"males": "100.0 %",
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 65,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 151,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 322,
+"females": 0
+} 
+] 
+}]

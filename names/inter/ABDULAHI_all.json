@@ -2,5 +2,41 @@
 "name": "ABDULAHI",
 "frequency": 738,
 "males": "98.1029810298103 %",
-"females": "1.8970189701897018 %"
+"females": "1.8970189701897018 %",
+"ch": [
+{ 
+"males": 388,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 79,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 136,
+"females": 28
+} 
+], 
+"gb": [
+{ 
+"males": 214,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 472,
+"females": 0
+} 
+] 
 }]

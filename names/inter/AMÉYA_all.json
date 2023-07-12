@@ -1,0 +1,30 @@
+[{
+"name": "AMÉYA",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"ch": [
+{ 
+"males": 34,
+"females": 38
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 37
+} 
+], 
+"us": [
+{ 
+"males": 191,
+"females": 806
+} 
+] 
+}]

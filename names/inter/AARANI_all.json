@@ -1,6 +1,18 @@
 [{
 "name": "AARANI",
-"frequency": 2,
+"frequency": 23,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

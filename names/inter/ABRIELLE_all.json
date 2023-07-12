@@ -2,5 +2,17 @@
 "name": "ABRIELLE",
 "frequency": 2432,
 "males": "0.041118421052631575 %",
-"females": "99.95888157894737 %"
+"females": "99.95888157894737 %",
+"ca": [
+{ 
+"males": 1,
+"females": 60
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 4188
+} 
+] 
 }]

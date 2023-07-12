@@ -1,0 +1,102 @@
+[{
+"name": "AURÉLIA",
+"frequency": 6,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 602
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 37
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 1763
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 139
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 9124
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 10409
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 2442
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 13994
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 459
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 387
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 127
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 14906
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 75
+} 
+] 
+}]

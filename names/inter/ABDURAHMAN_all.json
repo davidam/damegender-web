@@ -2,5 +2,71 @@
 "name": "ABDURAHMAN",
 "frequency": 918,
 "males": "99.34640522875817 %",
-"females": "0.6535947712418301 %"
+"females": "0.6535947712418301 %",
+"at": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 57,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 356,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 62,
+"females": 14
+} 
+], 
+"fr": [
+{ 
+"males": 65,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 199,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 195,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 412,
+"females": 0
+} 
+] 
 }]

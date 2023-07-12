@@ -1,0 +1,102 @@
+[{
+"name": "ARÍA",
+"frequency": 11,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 6,
+"females": 33
+} 
+], 
+"au": [
+{ 
+"males": 7,
+"females": 128
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 101
+} 
+], 
+"ca": [
+{ 
+"males": 5,
+"females": 1107
+} 
+], 
+"ch": [
+{ 
+"males": 109,
+"females": 1211
+} 
+], 
+"dk": [
+{ 
+"males": 30,
+"females": 58
+} 
+], 
+"es": [
+{ 
+"males": 161,
+"females": 1092
+} 
+], 
+"fi": [
+{ 
+"males": 19,
+"females": 166
+} 
+], 
+"fr": [
+{ 
+"males": 8,
+"females": 3032
+} 
+], 
+"gb": [
+{ 
+"males": 78,
+"females": 1929
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 632
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 503
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 1327
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 91
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 426
+} 
+], 
+"us": [
+{ 
+"males": 611,
+"females": 71012
+} 
+] 
+}]

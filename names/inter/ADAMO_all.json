@@ -2,5 +2,35 @@
 "name": "ADAMO",
 "frequency": 289,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"au": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 649,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 41,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 16,
+"females": 0
+} 
+] 
 }]

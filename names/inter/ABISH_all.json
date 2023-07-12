@@ -2,5 +2,17 @@
 "name": "ABISH",
 "frequency": 27,
 "males": "25.925925925925924 %",
-"females": "74.07407407407408 %"
+"females": "74.07407407407408 %",
+"ch": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 24
+} 
+] 
 }]

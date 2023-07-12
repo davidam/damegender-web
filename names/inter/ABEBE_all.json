@@ -2,5 +2,11 @@
 "name": "ABEBE",
 "frequency": 19,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 75,
+"females": 0
+} 
+] 
 }]

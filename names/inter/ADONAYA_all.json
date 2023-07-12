@@ -2,5 +2,11 @@
 "name": "ADONAYA",
 "frequency": 33,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 33
+} 
+] 
 }]

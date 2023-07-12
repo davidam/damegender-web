@@ -1,0 +1,54 @@
+[{
+"name": "AVIGAÏL",
+"frequency": 54,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 72
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 137
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1911
+} 
+] 
+}]

@@ -1,0 +1,108 @@
+[{
+"name": "ALÍ",
+"frequency": 4,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 684,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 153,
+"females": 23
+} 
+], 
+"be": [
+{ 
+"males": 79133,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 1099,
+"females": 118
+} 
+], 
+"ch": [
+{ 
+"males": 37474,
+"females": 53
+} 
+], 
+"de": [
+{ 
+"males": 141,
+"females": 3
+} 
+], 
+"dk": [
+{ 
+"males": 4775,
+"females": 7
+} 
+], 
+"es": [
+{ 
+"males": 11853,
+"females": 24
+} 
+], 
+"fi": [
+{ 
+"males": 5840,
+"females": 1125
+} 
+], 
+"fr": [
+{ 
+"males": 28350,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 5942,
+"females": 59
+} 
+], 
+"no": [
+{ 
+"males": 3907,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 15,
+"females": 6
+} 
+], 
+"se": [
+{ 
+"males": 2978,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 2556,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 29987,
+"females": 10218
+} 
+], 
+"uy": [
+{ 
+"males": 18,
+"females": 9
+} 
+] 
+}]

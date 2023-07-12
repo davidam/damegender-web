@@ -2,5 +2,11 @@
 "name": "ADDONIS",
 "frequency": 5,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 28,
+"females": 0
+} 
+] 
 }]

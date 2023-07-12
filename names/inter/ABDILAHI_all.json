@@ -2,5 +2,23 @@
 "name": "ABDILAHI",
 "frequency": 60,
 "males": "86.66666666666667 %",
-"females": "13.333333333333334 %"
+"females": "13.333333333333334 %",
+"ch": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 26,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 16,
+"females": 0
+} 
+] 
 }]

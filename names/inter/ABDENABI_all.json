@@ -2,5 +2,17 @@
 "name": "ABDENABI",
 "frequency": 147,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 130,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 13,
+"females": 0
+} 
+] 
 }]

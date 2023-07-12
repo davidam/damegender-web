@@ -1,0 +1,84 @@
+[{
+"name": "ATHÈNA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"au": [
+{ 
+"males": 2,
+"females": 106
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 113
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 516
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 752
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 221
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 130
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 940
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 703
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 192
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 41715
+} 
+] 
+}]

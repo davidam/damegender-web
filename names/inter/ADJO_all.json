@@ -1,6 +1,18 @@
 [{
 "name": "ADJO",
-"frequency": 150,
+"frequency": 173,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 110
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 103
+} 
+] 
 }]

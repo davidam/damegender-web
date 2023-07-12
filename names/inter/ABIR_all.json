@@ -2,5 +2,59 @@
 "name": "ABIR",
 "frequency": 2013,
 "males": "15.648286140089418 %",
-"females": "84.35171385991057 %"
+"females": "84.35171385991057 %",
+"be": [
+{ 
+"males": 0,
+"females": 438
+} 
+], 
+"ca": [
+{ 
+"males": 13,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 38,
+"females": 478
+} 
+], 
+"dk": [
+{ 
+"males": 4,
+"females": 166
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 343
+} 
+], 
+"fi": [
+{ 
+"males": 7,
+"females": 20
+} 
+], 
+"fr": [
+{ 
+"males": 3,
+"females": 520
+} 
+], 
+"gb": [
+{ 
+"males": 91,
+"females": 29
+} 
+], 
+"us": [
+{ 
+"males": 533,
+"females": 97
+} 
+] 
 }]

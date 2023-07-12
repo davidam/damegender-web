@@ -2,5 +2,53 @@
 "name": "ABU",
 "frequency": 1626,
 "males": "99.87699876998771 %",
-"females": "0.12300123001230012 %"
+"females": "0.12300123001230012 %",
+"be": [
+{ 
+"males": 291,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 218,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 139,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 684,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 423,
+"females": 0
+} 
+] 
 }]

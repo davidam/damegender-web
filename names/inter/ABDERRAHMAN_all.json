@@ -2,5 +2,41 @@
 "name": "ABDERRAHMAN",
 "frequency": 10127,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 5972,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 197,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2859,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 801,
+"females": 0
+} 
+] 
 }]

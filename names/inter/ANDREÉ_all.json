@@ -1,0 +1,42 @@
+[{
+"name": "ANDREÉ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 2,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 102,
+"females": 238
+} 
+], 
+"es": [
+{ 
+"males": 26,
+"females": 30
+} 
+], 
+"fi": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1005,
+"females": 1939
+} 
+], 
+"uy": [
+{ 
+"males": 12,
+"females": 1
+} 
+] 
+}]

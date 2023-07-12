@@ -2,5 +2,23 @@
 "name": "ADRINE",
 "frequency": 89,
 "males": "5.617977528089887 %",
-"females": "94.3820224719101 %"
+"females": "94.3820224719101 %",
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 64
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 18
+} 
+] 
 }]

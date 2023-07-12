@@ -1,6 +1,24 @@
 [{
 "name": "ABELINE",
-"frequency": 183,
+"frequency": 186,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 98
+} 
+] 
 }]

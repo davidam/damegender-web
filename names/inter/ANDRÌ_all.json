@@ -1,0 +1,36 @@
+[{
+"name": "ANDRÌ",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 9147,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 49,
+"females": 2
+} 
+], 
+"fi": [
+{ 
+"males": 28,
+"females": 10
+} 
+], 
+"is": [
+{ 
+"males": 1166,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 132,
+"females": 5
+} 
+] 
+}]

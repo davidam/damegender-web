@@ -2,5 +2,17 @@
 "name": "ADONYS",
 "frequency": 184,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 197,
+"females": 0
+} 
+] 
 }]

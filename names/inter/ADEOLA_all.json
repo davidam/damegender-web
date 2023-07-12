@@ -2,5 +2,23 @@
 "name": "ADEOLA",
 "frequency": 441,
 "males": "8.843537414965986 %",
-"females": "91.15646258503402 %"
+"females": "91.15646258503402 %",
+"fi": [
+{ 
+"males": 24,
+"females": 24
+} 
+], 
+"gb": [
+{ 
+"males": 13,
+"females": 90
+} 
+], 
+"us": [
+{ 
+"males": 38,
+"females": 389
+} 
+] 
 }]

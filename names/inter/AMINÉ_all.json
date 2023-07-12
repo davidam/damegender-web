@@ -1,0 +1,60 @@
+[{
+"name": "AMINÉ",
+"frequency": 36,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 2,
+"females": 104
+} 
+], 
+"be": [
+{ 
+"males": 17085,
+"females": 440
+} 
+], 
+"ch": [
+{ 
+"males": 1866,
+"females": 466
+} 
+], 
+"dk": [
+{ 
+"males": 39,
+"females": 86
+} 
+], 
+"es": [
+{ 
+"males": 2726,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 84,
+"females": 46
+} 
+], 
+"fr": [
+{ 
+"males": 24570,
+"females": 212
+} 
+], 
+"gb": [
+{ 
+"males": 126,
+"females": 10
+} 
+], 
+"us": [
+{ 
+"males": 426,
+"females": 18
+} 
+] 
+}]

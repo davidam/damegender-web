@@ -1,0 +1,126 @@
+[{
+"name": "ANGÈLA",
+"frequency": 118,
+"males": "0.0 %",
+"females": "100.0 %",
+"ar": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"at": [
+{ 
+"males": 0,
+"females": 123
+} 
+], 
+"au": [
+{ 
+"males": 37,
+"females": 3044
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 51295
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 2330
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 75779
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 519
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 95816
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1080
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 8988
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 7810
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 546
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 9634
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 763
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 319
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 77489
+} 
+], 
+"us": [
+{ 
+"males": 2136,
+"females": 668714
+} 
+], 
+"uy": [
+{ 
+"males": 25,
+"females": 2784
+} 
+] 
+}]

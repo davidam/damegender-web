@@ -1,0 +1,30 @@
+[{
+"name": "AÏNOHA",
+"frequency": 35,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 101
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 1593
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 86
+} 
+] 
+}]

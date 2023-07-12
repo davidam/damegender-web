@@ -2,5 +2,47 @@
 "name": "ABDON",
 "frequency": 2184,
 "males": "95.37545787545788 %",
-"females": "4.624542124542125 %"
+"females": "4.624542124542125 %",
+"be": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 865,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 746,
+"females": 49
+} 
+], 
+"mx": [
+{ 
+"males": 37,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 359,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 24,
+"females": 0
+} 
+] 
 }]

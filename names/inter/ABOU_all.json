@@ -2,5 +2,35 @@
 "name": "ABOU",
 "frequency": 2242,
 "males": "98.88492417484389 %",
-"females": "1.1150758251561106 %"
+"females": "1.1150758251561106 %",
+"be": [
+{ 
+"males": 947,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 164,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 293,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 888,
+"females": 3
+} 
+], 
+"us": [
+{ 
+"males": 89,
+"females": 0
+} 
+] 
 }]

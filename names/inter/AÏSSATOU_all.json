@@ -1,0 +1,42 @@
+[{
+"name": "AÏSSATOU",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 1724
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 306
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 761
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1684
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 771
+} 
+] 
+}]

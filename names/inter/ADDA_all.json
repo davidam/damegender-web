@@ -2,5 +2,41 @@
 "name": "ADDA",
 "frequency": 1576,
 "males": "18.210659898477157 %",
-"females": "81.78934010152284 %"
+"females": "81.78934010152284 %",
+"ch": [
+{ 
+"males": 29,
+"females": 33
+} 
+], 
+"dk": [
+{ 
+"males": 1,
+"females": 115
+} 
+], 
+"es": [
+{ 
+"males": 114,
+"females": 35
+} 
+], 
+"fr": [
+{ 
+"males": 146,
+"females": 140
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 895
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 13
+} 
+] 
 }]

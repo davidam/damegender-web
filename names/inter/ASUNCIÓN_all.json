@@ -1,0 +1,42 @@
+[{
+"name": "ASUNCIÓN",
+"frequency": 6,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 388
+} 
+], 
+"es": [
+{ 
+"males": 35,
+"females": 30500
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 91
+} 
+], 
+"mx": [
+{ 
+"males": 84,
+"females": 182
+} 
+], 
+"us": [
+{ 
+"males": 76,
+"females": 122
+} 
+], 
+"uy": [
+{ 
+"males": 16,
+"females": 30
+} 
+] 
+}]

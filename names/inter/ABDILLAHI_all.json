@@ -2,5 +2,29 @@
 "name": "ABDILLAHI",
 "frequency": 111,
 "males": "79.27927927927928 %",
-"females": "20.72072072072072 %"
+"females": "20.72072072072072 %",
+"dk": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 54,
+"females": 50
+} 
+], 
+"fr": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 45,
+"females": 0
+} 
+] 
 }]

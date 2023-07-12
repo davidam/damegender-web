@@ -2,5 +2,17 @@
 "name": "ADULAI",
 "frequency": 51,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 65,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 36,
+"females": 0
+} 
+] 
 }]

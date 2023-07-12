@@ -2,5 +2,11 @@
 "name": "ADREW",
 "frequency": 32,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 31,
+"females": 0
+} 
+] 
 }]

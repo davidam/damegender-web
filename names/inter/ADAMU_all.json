@@ -2,5 +2,11 @@
 "name": "ADAMU",
 "frequency": 5,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+] 
 }]

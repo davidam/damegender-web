@@ -1,0 +1,42 @@
+[{
+"name": "AÏTANA",
+"frequency": 59,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 385
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 31580
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 155
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 4544
+} 
+], 
+"uy": [
+{ 
+"males": 3,
+"females": 151
+} 
+] 
+}]

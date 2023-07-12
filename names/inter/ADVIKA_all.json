@@ -2,5 +2,29 @@
 "name": "ADVIKA",
 "frequency": 232,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 652
+} 
+] 
 }]

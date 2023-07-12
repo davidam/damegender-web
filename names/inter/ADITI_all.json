@@ -2,5 +2,59 @@
 "name": "ADITI",
 "frequency": 2879,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 82
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 239
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 256
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3398
+} 
+] 
 }]

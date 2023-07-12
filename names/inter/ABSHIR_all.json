@@ -2,5 +2,35 @@
 "name": "ABSHIR",
 "frequency": 157,
 "males": "85.35031847133759 %",
-"females": "14.64968152866242 %"
+"females": "14.64968152866242 %",
+"ch": [
+{ 
+"males": 89,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 100,
+"females": 46
+} 
+], 
+"gb": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 88,
+"females": 0
+} 
+] 
 }]

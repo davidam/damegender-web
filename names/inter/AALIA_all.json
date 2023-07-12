@@ -2,5 +2,35 @@
 "name": "AALIA",
 "frequency": 531,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 86
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 189
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 615
+} 
+] 
 }]

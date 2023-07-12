@@ -2,5 +2,23 @@
 "name": "ABBIGAYLE",
 "frequency": 1219,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 29
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1319
+} 
+] 
 }]

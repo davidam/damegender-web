@@ -2,5 +2,35 @@
 "name": "ABLA",
 "frequency": 781,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 181
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 182
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 123
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 397
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

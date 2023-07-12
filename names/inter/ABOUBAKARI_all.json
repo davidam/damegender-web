@@ -2,5 +2,11 @@
 "name": "ABOUBAKARI",
 "frequency": 82,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 47,
+"females": 0
+} 
+] 
 }]

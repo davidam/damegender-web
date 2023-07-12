@@ -1,0 +1,102 @@
+[{
+"name": "ANDRÉAS",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 69503,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 221,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 46387,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 180,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 242467,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 67,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 19893,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1032,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 11084,
+"females": 5
+} 
+], 
+"fr": [
+{ 
+"males": 3098,
+"females": 28
+} 
+], 
+"gb": [
+{ 
+"males": 783,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 21185,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 3345,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1284,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 7933,
+"females": 49
+} 
+], 
+"uy": [
+{ 
+"males": 14,
+"females": 0
+} 
+] 
+}]

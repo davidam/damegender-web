@@ -1,6 +1,12 @@
 [{
 "name": "ADESA",
-"frequency": 2,
+"frequency": 12,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 59
+} 
+] 
 }]

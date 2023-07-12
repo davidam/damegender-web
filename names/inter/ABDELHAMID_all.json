@@ -2,5 +2,41 @@
 "name": "ABDELHAMID",
 "frequency": 10694,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 7117,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 508,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1785,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1113,
+"females": 0
+} 
+] 
 }]

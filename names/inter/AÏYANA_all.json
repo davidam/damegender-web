@@ -1,0 +1,42 @@
+[{
+"name": "AÏYANA",
+"frequency": 28,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 67
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 744
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 365
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 187
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 9023
+} 
+] 
+}]

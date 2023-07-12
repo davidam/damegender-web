@@ -2,5 +2,29 @@
 "name": "AAHANA",
 "frequency": 336,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 799
+} 
+] 
 }]

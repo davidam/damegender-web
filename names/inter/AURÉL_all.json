@@ -1,0 +1,66 @@
+[{
+"name": "AURÉL",
+"frequency": 10,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 62,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 1151,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 4711,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 40,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1200,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1002,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 11,
+"females": 1
+} 
+], 
+"us": [
+{ 
+"males": 184,
+"females": 33
+} 
+] 
+}]

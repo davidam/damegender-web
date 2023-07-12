@@ -1,0 +1,102 @@
+[{
+"name": "AÏSHA",
+"frequency": 2,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 86
+} 
+], 
+"au": [
+{ 
+"males": 1,
+"females": 137
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 1620
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 371
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 3479
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 824
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 2252
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 876
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 734
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 7200
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 969
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 28
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 1146
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 408
+} 
+], 
+"us": [
+{ 
+"males": 27,
+"females": 23614
+} 
+], 
+"uy": [
+{ 
+"males": 1,
+"females": 21
+} 
+] 
+}]

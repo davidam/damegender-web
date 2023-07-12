@@ -2,5 +2,11 @@
 "name": "AAPRO",
 "frequency": 21,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 72,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,65 @@
 "name": "ADOLFO",
 "frequency": 38513,
 "males": "99.9662451639706 %",
-"females": "0.03375483602939267 %"
+"females": "0.03375483602939267 %",
+"ar": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 219,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1619,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 20711,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 731,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 15823,
+"females": 10
+} 
+], 
+"uy": [
+{ 
+"males": 924,
+"females": 6
+} 
+] 
 }]

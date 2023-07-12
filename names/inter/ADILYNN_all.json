@@ -2,5 +2,17 @@
 "name": "ADILYNN",
 "frequency": 707,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2793
+} 
+] 
 }]

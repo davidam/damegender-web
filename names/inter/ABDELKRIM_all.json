@@ -2,5 +2,41 @@
 "name": "ABDELKRIM",
 "frequency": 8540,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 3762,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 452,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1966,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 2415,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "ABDELALI",
 "frequency": 5083,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 2402,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 184,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2226,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 465,
+"females": 0
+} 
+] 
 }]

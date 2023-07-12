@@ -2,5 +2,35 @@
 "name": "ABDELHADI",
 "frequency": 2869,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 899,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 208,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1555,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 357,
+"females": 0
+} 
+] 
 }]

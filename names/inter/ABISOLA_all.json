@@ -2,5 +2,23 @@
 "name": "ABISOLA",
 "frequency": 126,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fi": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 117
+} 
+] 
 }]

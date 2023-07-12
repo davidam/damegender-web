@@ -2,5 +2,59 @@
 "name": "ABRAR",
 "frequency": 1321,
 "males": "38.90991672975019 %",
-"females": "61.090083270249806 %"
+"females": "61.090083270249806 %",
+"be": [
+{ 
+"males": 0,
+"females": 35
+} 
+], 
+"ca": [
+{ 
+"males": 8,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 97,
+"females": 79
+} 
+], 
+"dk": [
+{ 
+"males": 13,
+"females": 22
+} 
+], 
+"es": [
+{ 
+"males": 101,
+"females": 396
+} 
+], 
+"fi": [
+{ 
+"males": 18,
+"females": 21
+} 
+], 
+"fr": [
+{ 
+"males": 14,
+"females": 104
+} 
+], 
+"gb": [
+{ 
+"males": 115,
+"females": 68
+} 
+], 
+"us": [
+{ 
+"males": 472,
+"females": 475
+} 
+] 
 }]

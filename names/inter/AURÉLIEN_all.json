@@ -1,0 +1,42 @@
+[{
+"name": "AURÉLIEN",
+"frequency": 110328,
+"males": "99.92658255383947 %",
+"females": "0.07341744616053948 %",
+"be": [
+{ 
+"males": 63,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 213,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 47,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 562,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 22,
+"females": 0
+} 
+] 
+}]

@@ -1,6 +1,18 @@
 [{
 "name": "ADLANE",
-"frequency": 226,
+"frequency": 235,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 210,
+"females": 0
+} 
+] 
 }]

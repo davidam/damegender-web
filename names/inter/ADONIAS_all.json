@@ -2,5 +2,17 @@
 "name": "ADONIAS",
 "frequency": 92,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 240,
+"females": 0
+} 
+] 
 }]

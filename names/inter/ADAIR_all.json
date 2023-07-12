@@ -2,5 +2,23 @@
 "name": "ADAIR",
 "frequency": 2447,
 "males": "53.61667347772783 %",
-"females": "46.38332652227217 %"
+"females": "46.38332652227217 %",
+"es": [
+{ 
+"males": 38,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 26,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1561,
+"females": 1334
+} 
+] 
 }]

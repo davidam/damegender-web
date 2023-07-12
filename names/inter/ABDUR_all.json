@@ -2,5 +2,41 @@
 "name": "ABDUR",
 "frequency": 694,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 73,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 62,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 368,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 296,
+"females": 0
+} 
+] 
 }]

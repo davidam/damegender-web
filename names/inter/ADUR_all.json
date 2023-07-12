@@ -2,5 +2,11 @@
 "name": "ADUR",
 "frequency": 591,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 735,
+"females": 0
+} 
+] 
 }]

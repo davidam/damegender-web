@@ -1,0 +1,78 @@
+[{
+"name": "ALÉXANDRE",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"au": [
+{ 
+"males": 14,
+"females": 1
+} 
+], 
+"be": [
+{ 
+"males": 140128,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 292,
+"females": 2
+} 
+], 
+"ch": [
+{ 
+"males": 58510,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 173,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 8923,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 664,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 303145,
+"females": 130
+} 
+], 
+"gb": [
+{ 
+"males": 579,
+"females": 2
+} 
+], 
+"pt": [
+{ 
+"males": 814,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 4995,
+"females": 145
+} 
+], 
+"uy": [
+{ 
+"males": 30,
+"females": 2
+} 
+] 
+}]

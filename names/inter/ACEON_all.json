@@ -2,5 +2,11 @@
 "name": "ACEON",
 "frequency": 13,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 76,
+"females": 0
+} 
+] 
 }]

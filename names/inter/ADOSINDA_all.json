@@ -1,6 +1,18 @@
 [{
 "name": "ADOSINDA",
-"frequency": 158,
+"frequency": 180,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 157
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 143
+} 
+] 
 }]

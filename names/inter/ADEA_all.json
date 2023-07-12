@@ -2,5 +2,59 @@
 "name": "ADEA",
 "frequency": 515,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 966
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 38
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 117
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 149
+} 
+] 
 }]

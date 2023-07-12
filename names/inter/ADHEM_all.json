@@ -2,5 +2,17 @@
 "name": "ADHEM",
 "frequency": 76,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ABASS",
 "frequency": 328,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 45,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 119,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 33,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 104,
+"females": 0
+} 
+] 
 }]

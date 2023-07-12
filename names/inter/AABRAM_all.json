@@ -2,5 +2,11 @@
 "name": "AABRAM",
 "frequency": 16,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 37,
+"females": 0
+} 
+] 
 }]

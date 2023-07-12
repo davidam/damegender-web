@@ -2,5 +2,11 @@
 "name": "ACOIDAN",
 "frequency": 321,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 322,
+"females": 0
+} 
+] 
 }]

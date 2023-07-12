@@ -2,5 +2,11 @@
 "name": "ADNREW",
 "frequency": 40,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 39,
+"females": 0
+} 
+] 
 }]

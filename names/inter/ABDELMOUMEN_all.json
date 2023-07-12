@@ -2,5 +2,29 @@
 "name": "ABDELMOUMEN",
 "frequency": 396,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 128,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 162,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 50,
+"females": 0
+} 
+] 
 }]

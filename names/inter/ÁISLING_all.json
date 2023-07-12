@@ -1,0 +1,54 @@
+[{
+"name": "ÁISLING",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 103
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1246
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 4677
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1379
+} 
+] 
+}]

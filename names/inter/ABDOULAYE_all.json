@@ -2,5 +2,53 @@
 "name": "ABDOULAYE",
 "frequency": 10075,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 3434,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 773,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2307,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 3837,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 799,
+"females": 0
+} 
+] 
 }]

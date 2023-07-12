@@ -2,5 +2,47 @@
 "name": "ABDU",
 "frequency": 183,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 289,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 14,
+"females": 12
+} 
+], 
+"gb": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 32,
+"females": 0
+} 
+] 
 }]

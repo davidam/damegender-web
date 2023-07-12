@@ -2,5 +2,71 @@
 "name": "ADIN",
 "frequency": 4895,
 "males": "98.32482124616956 %",
-"females": "1.6751787538304392 %"
+"females": "1.6751787538304392 %",
+"at": [
+{ 
+"males": 72,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 824,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 52,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 67,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1801,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 3005,
+"females": 86
+} 
+] 
 }]

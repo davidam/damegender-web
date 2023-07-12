@@ -2,5 +2,23 @@
 "name": "ADRIANN",
 "frequency": 1061,
 "males": "14.70311027332705 %",
-"females": "85.29688972667296 %"
+"females": "85.29688972667296 %",
+"ch": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 88,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 131,
+"females": 952
+} 
+] 
 }]

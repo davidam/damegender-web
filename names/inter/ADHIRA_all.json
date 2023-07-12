@@ -2,5 +2,23 @@
 "name": "ADHIRA",
 "frequency": 30,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 284
+} 
+] 
 }]

@@ -1,6 +1,18 @@
 [{
 "name": "ADJOUA",
-"frequency": 49,
+"frequency": 66,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 103
+} 
+] 
 }]

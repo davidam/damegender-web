@@ -1,6 +1,18 @@
 [{
 "name": "ABIBE",
-"frequency": 52,
+"frequency": 117,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 383
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 50
+} 
+] 
 }]

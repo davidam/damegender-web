@@ -2,5 +2,17 @@
 "name": "ADISSON",
 "frequency": 115,
 "males": "5.217391304347826 %",
-"females": "94.78260869565217 %"
+"females": "94.78260869565217 %",
+"fr": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 87
+} 
+] 
 }]

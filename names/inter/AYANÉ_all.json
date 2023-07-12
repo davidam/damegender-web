@@ -1,0 +1,36 @@
+[{
+"name": "AYANÉ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 71
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 35
+} 
+], 
+"fr": [
+{ 
+"males": 437,
+"females": 104
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 275
+} 
+] 
+}]

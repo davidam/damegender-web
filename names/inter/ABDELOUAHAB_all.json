@@ -2,5 +2,29 @@
 "name": "ABDELOUAHAB",
 "frequency": 1801,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 959,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 128,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 545,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 198,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,90 @@
+[{
+"name": "ARÍANNA",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 424
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 751
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 5807
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 71
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 2175
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 252
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 272
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 1164
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 76
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 300
+} 
+], 
+"us": [
+{ 
+"males": 73,
+"females": 97856
+} 
+], 
+"uy": [
+{ 
+"males": 3,
+"females": 79
+} 
+] 
+}]

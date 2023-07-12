@@ -2,5 +2,35 @@
 "name": "ABYGAIL",
 "frequency": 2326,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 174
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 78
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2769
+} 
+] 
 }]

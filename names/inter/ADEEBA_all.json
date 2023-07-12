@@ -2,5 +2,23 @@
 "name": "ADEEBA",
 "frequency": 189,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 165
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 32
+} 
+] 
 }]

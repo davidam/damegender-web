@@ -2,5 +2,11 @@
 "name": "ADELARD",
 "frequency": 488,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 488,
+"females": 0
+} 
+] 
 }]

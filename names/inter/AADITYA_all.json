@@ -2,5 +2,29 @@
 "name": "AADITYA",
 "frequency": 464,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 48,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 632,
+"females": 0
+} 
+] 
 }]

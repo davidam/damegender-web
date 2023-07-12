@@ -2,5 +2,23 @@
 "name": "ABDELADIM",
 "frequency": 238,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 76,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 134,
+"females": 0
+} 
+] 
 }]

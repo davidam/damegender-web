@@ -2,5 +2,113 @@
 "name": "ABEL",
 "frequency": 93835,
 "males": "99.69520967655991 %",
-"females": "0.304790323440081 %"
+"females": "0.304790323440081 %",
+"ar": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"at": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 63,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 2865,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 231,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 4514,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 189,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 24778,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 526,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 26829,
+"females": 141
+} 
+], 
+"gb": [
+{ 
+"males": 525,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 651,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 958,
+"females": 6
+} 
+], 
+"pt": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 72,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 234,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 59333,
+"females": 136
+} 
+], 
+"uy": [
+{ 
+"males": 336,
+"females": 1
+} 
+] 
 }]

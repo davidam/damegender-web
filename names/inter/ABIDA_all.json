@@ -2,5 +2,53 @@
 "name": "ABIDA",
 "frequency": 1904,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 857
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 148
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 61
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 262
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 387
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 129
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 44
+} 
+] 
 }]

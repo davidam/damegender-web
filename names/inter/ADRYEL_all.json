@@ -2,5 +2,23 @@
 "name": "ADRYEL",
 "frequency": 74,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 28,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 133,
+"females": 0
+} 
+] 
 }]

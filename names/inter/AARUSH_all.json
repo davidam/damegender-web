@@ -2,5 +2,53 @@
 "name": "AARUSH",
 "frequency": 1405,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"au": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 50,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 149,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 2661,
+"females": 0
+} 
+] 
 }]

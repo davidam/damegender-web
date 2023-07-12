@@ -2,5 +2,23 @@
 "name": "ADEENA",
 "frequency": 402,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 121
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 432
+} 
+] 
 }]

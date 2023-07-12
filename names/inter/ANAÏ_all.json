@@ -1,0 +1,48 @@
+[{
+"name": "ANAÏ",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"es": [
+{ 
+"males": 36,
+"females": 95
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"si": [
+{ 
+"males": 82,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 2205
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 16
+} 
+] 
+}]

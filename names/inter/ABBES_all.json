@@ -2,5 +2,29 @@
 "name": "ABBES",
 "frequency": 463,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 52,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 128,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 267,
+"females": 0
+} 
+] 
 }]

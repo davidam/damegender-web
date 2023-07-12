@@ -2,5 +2,23 @@
 "name": "ADVAIT",
 "frequency": 274,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 592,
+"females": 0
+} 
+] 
 }]

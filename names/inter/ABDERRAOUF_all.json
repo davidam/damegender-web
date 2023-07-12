@@ -2,5 +2,29 @@
 "name": "ABDERRAOUF",
 "frequency": 199,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 70,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 83,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 54,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 25,
+"females": 0
+} 
+] 
 }]

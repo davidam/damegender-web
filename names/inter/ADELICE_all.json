@@ -2,5 +2,11 @@
 "name": "ADELICE",
 "frequency": 49,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fr": [
+{ 
+"males": 0,
+"females": 22
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ABDELHAKIM",
 "frequency": 7459,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 4266,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 270,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1313,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 1525,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "AART",
 "frequency": 73,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 96,
+"females": 0
+} 
+] 
 }]

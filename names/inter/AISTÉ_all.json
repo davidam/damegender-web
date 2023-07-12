@@ -1,0 +1,30 @@
+[{
+"name": "AISTÉ",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 90
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 70
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 20
+} 
+] 
+}]

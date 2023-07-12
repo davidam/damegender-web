@@ -2,5 +2,11 @@
 "name": "ADAMANTIOS",
 "frequency": 16,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 38,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "AARIYA",
 "frequency": 65,
 "males": "1.5384615384615385 %",
-"females": "98.46153846153847 %"
+"females": "98.46153846153847 %",
+"gb": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 184
+} 
+] 
 }]

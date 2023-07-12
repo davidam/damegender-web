@@ -2,5 +2,17 @@
 "name": "ABDELAAZIZ",
 "frequency": 296,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 322,
+"females": 0
+} 
+] 
 }]

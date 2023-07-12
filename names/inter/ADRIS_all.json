@@ -2,5 +2,23 @@
 "name": "ADRIS",
 "frequency": 32,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 33,
+"females": 0
+} 
+] 
 }]

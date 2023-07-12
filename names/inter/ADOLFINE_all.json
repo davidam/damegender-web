@@ -1,6 +1,12 @@
 [{
 "name": "ADOLFINE",
-"frequency": 2156,
+"frequency": 2182,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 170
+} 
+] 
 }]

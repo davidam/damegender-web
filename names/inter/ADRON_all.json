@@ -2,5 +2,11 @@
 "name": "ADRON",
 "frequency": 1083,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 1104,
+"females": 0
+} 
+] 
 }]

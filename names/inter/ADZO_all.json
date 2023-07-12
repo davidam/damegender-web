@@ -1,6 +1,12 @@
 [{
 "name": "ADZO",
-"frequency": 21,
-"males": "95.23809523809523 %",
-"females": "4.761904761904762 %"
+"frequency": 25,
+"males": "80.0 %",
+"females": "20.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 26
+} 
+] 
 }]

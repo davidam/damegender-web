@@ -2,5 +2,29 @@
 "name": "ABEGAIL",
 "frequency": 484,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 515
+} 
+] 
 }]

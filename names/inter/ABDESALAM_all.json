@@ -2,5 +2,17 @@
 "name": "ABDESALAM",
 "frequency": 103,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 81,
+"females": 0
+} 
+] 
 }]

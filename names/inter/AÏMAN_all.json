@@ -1,0 +1,66 @@
+[{
+"name": "AÏMAN",
+"frequency": 61,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 295,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 14,
+"females": 6
+} 
+], 
+"ch": [
+{ 
+"males": 340,
+"females": 40
+} 
+], 
+"dk": [
+{ 
+"males": 47,
+"females": 15
+} 
+], 
+"es": [
+{ 
+"males": 976,
+"females": 59
+} 
+], 
+"fi": [
+{ 
+"males": 80,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 370,
+"females": 6
+} 
+], 
+"gb": [
+{ 
+"males": 116,
+"females": 120
+} 
+], 
+"si": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 334,
+"females": 159
+} 
+] 
+}]

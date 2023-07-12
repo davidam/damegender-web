@@ -2,5 +2,11 @@
 "name": "ADONIRAM",
 "frequency": 25,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 60,
+"females": 0
+} 
+] 
 }]

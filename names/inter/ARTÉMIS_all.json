@@ -1,0 +1,54 @@
+[{
+"name": "ARTÉMIS",
+"frequency": 123,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 7,
+"females": 22
+} 
+], 
+"ch": [
+{ 
+"males": 11,
+"females": 436
+} 
+], 
+"dk": [
+{ 
+"males": 2,
+"females": 22
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"fi": [
+{ 
+"males": 11,
+"females": 82
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 113
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 101
+} 
+], 
+"us": [
+{ 
+"males": 448,
+"females": 2184
+} 
+] 
+}]

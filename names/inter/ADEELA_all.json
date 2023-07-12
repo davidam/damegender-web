@@ -1,6 +1,30 @@
 [{
 "name": "ADEELA",
-"frequency": 38,
+"frequency": 108,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 67
+} 
+] 
 }]

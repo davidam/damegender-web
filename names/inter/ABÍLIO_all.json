@@ -1,0 +1,36 @@
+[{
+"name": "ABÍLIO",
+"frequency": 101,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 46,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1529,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1625,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 225,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 15,
+"females": 0
+} 
+] 
+}]

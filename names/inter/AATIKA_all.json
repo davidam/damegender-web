@@ -1,6 +1,18 @@
 [{
 "name": "AATIKA",
-"frequency": 29,
+"frequency": 48,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 19
+} 
+] 
 }]

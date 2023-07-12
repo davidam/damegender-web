@@ -1,0 +1,132 @@
+[{
+"name": "ALEXANDËR",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 100130,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 4125,
+"females": 3
+} 
+], 
+"be": [
+{ 
+"males": 88603,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 7238,
+"females": 3
+} 
+], 
+"ch": [
+{ 
+"males": 84297,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 535,
+"females": 1
+} 
+], 
+"dk": [
+{ 
+"males": 14255,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 15176,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 29586,
+"females": 100
+} 
+], 
+"fr": [
+{ 
+"males": 2461,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 68552,
+"females": 4
+} 
+], 
+"ie": [
+{ 
+"males": 4459,
+"females": 0
+} 
+], 
+"is": [
+{ 
+"males": 1219,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 11820,
+"females": 0
+} 
+], 
+"nz": [
+{ 
+"males": 8054,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 74,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 18430,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 2431,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 703706,
+"females": 4499
+} 
+], 
+"uy": [
+{ 
+"males": 1760,
+"females": 13
+} 
+] 
+}]

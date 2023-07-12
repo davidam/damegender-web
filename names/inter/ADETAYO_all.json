@@ -2,5 +2,11 @@
 "name": "ADETAYO",
 "frequency": 22,
 "males": "90.9090909090909 %",
-"females": "9.090909090909092 %"
+"females": "9.090909090909092 %",
+"us": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,54 @@
+[{
+"name": "AÏNHOA",
+"frequency": 338,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 125
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1116
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 50338
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1149
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1407
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 26
+} 
+] 
+}]

@@ -2,5 +2,29 @@
 "name": "ADOLPHINE",
 "frequency": 2769,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 508
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 2169
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 18
+} 
+] 
 }]

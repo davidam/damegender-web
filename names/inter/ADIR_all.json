@@ -2,5 +2,11 @@
 "name": "ADIR",
 "frequency": 119,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 270,
+"females": 0
+} 
+] 
 }]

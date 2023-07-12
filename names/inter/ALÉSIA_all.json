@@ -1,0 +1,78 @@
+[{
+"name": "ALÉSIA",
+"frequency": 105,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 64
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 426
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 26
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 132
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 58
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 265
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 92
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 104
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 7435
+} 
+] 
+}]

@@ -1,0 +1,48 @@
+[{
+"name": "ALIRÉZA",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 216,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 891,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 154,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 121,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 233,
+"females": 0
+} 
+] 
+}]

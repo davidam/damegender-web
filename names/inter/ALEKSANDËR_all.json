@@ -1,0 +1,90 @@
+[{
+"name": "ALEKSANDËR",
+"frequency": 5,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 92,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 51,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 1027,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 73,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1993,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 911,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 279,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 6490,
+"females": 5
+} 
+], 
+"fr": [
+{ 
+"males": 194,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 780,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 7365,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 267,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 71582,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 3670,
+"females": 0
+} 
+] 
+}]

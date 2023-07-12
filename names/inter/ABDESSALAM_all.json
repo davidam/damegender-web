@@ -2,5 +2,29 @@
 "name": "ABDESSALAM",
 "frequency": 956,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 493,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 63,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 365,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 74,
+"females": 0
+} 
+] 
 }]

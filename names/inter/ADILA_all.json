@@ -2,5 +2,59 @@
 "name": "ADILA",
 "frequency": 967,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 89
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 347
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 70
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 91
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 51
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 527
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 63
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ABINESH",
 "frequency": 44,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 67,
+"females": 0
+} 
+] 
 }]

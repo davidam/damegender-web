@@ -1,0 +1,36 @@
+[{
+"name": "AURÉLIAN",
+"frequency": 37,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 273,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 288,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 124,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 42,
+"females": 0
+} 
+] 
+}]

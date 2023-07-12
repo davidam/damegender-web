@@ -2,5 +2,11 @@
 "name": "AARIONA",
 "frequency": 209,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 0,
+"females": 248
+} 
+] 
 }]

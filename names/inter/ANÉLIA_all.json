@@ -1,0 +1,42 @@
+[{
+"name": "ANÉLIA",
+"frequency": 124,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 93
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 274
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 93
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 135
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 215
+} 
+] 
+}]

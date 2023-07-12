@@ -2,5 +2,23 @@
 "name": "ADLEN",
 "frequency": 176,
 "males": "92.61363636363636 %",
-"females": "7.386363636363637 %"
+"females": "7.386363636363637 %",
+"ch": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 135,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 23
+} 
+] 
 }]

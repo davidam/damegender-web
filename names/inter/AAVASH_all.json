@@ -2,5 +2,11 @@
 "name": "AAVASH",
 "frequency": 2,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 24,
+"females": 0
+} 
+] 
 }]

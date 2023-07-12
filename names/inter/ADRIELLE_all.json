@@ -2,5 +2,29 @@
 "name": "ADRIELLE",
 "frequency": 627,
 "males": "0.3189792663476874 %",
-"females": "99.68102073365232 %"
+"females": "99.68102073365232 %",
+"ca": [
+{ 
+"males": 2,
+"females": 33
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 53
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1050
+} 
+] 
 }]

@@ -1,6 +1,12 @@
 [{
 "name": "ABDOUKARIM",
-"frequency": 29,
+"frequency": 32,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,36 @@
+[{
+"name": "ANAÏD",
+"frequency": 4,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 475
+} 
+] 
+}]

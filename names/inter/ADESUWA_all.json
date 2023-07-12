@@ -2,5 +2,35 @@
 "name": "ADESUWA",
 "frequency": 161,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 24
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 14
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 136
+} 
+] 
 }]

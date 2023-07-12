@@ -2,5 +2,35 @@
 "name": "AARYAN",
 "frequency": 1337,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 69,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 74,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 454,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1809,
+"females": 6
+} 
+] 
 }]

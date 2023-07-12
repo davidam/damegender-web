@@ -1,0 +1,48 @@
+[{
+"name": "ADONAÏ",
+"frequency": 103,
+"males": "70.87378640776699 %",
+"females": "29.126213592233007 %",
+"ca": [
+{ 
+"males": 18,
+"females": 3
+} 
+], 
+"ch": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 419,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 60,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 13,
+"females": 4
+} 
+], 
+"pt": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 905,
+"females": 190
+} 
+] 
+}]

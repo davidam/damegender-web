@@ -2,5 +2,35 @@
 "name": "ADANNA",
 "frequency": 528,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 192
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 76
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 597
+} 
+] 
 }]

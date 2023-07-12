@@ -2,5 +2,17 @@
 "name": "AAYAAN",
 "frequency": 46,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"gb": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 62,
+"females": 0
+} 
+] 
 }]

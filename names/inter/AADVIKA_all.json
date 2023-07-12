@@ -1,6 +1,12 @@
 [{
 "name": "AADVIKA",
-"frequency": 1,
+"frequency": 3,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"us": [
+{ 
+"males": 0,
+"females": 102
+} 
+] 
 }]

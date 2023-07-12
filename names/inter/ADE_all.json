@@ -2,5 +2,23 @@
 "name": "ADE",
 "frequency": 282,
 "males": "91.48936170212765 %",
-"females": "8.51063829787234 %"
+"females": "8.51063829787234 %",
+"ch": [
+{ 
+"males": 34,
+"females": 20
+} 
+], 
+"fi": [
+{ 
+"males": 26,
+"females": 5
+} 
+], 
+"us": [
+{ 
+"males": 334,
+"females": 19
+} 
+] 
 }]

@@ -1,6 +1,18 @@
 [{
 "name": "ABRISH",
-"frequency": 8,
+"frequency": 17,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 27
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 95
+} 
+] 
 }]

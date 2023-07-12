@@ -2,5 +2,11 @@
 "name": "AAPI",
 "frequency": 13,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 132,
+"females": 0
+} 
+] 
 }]

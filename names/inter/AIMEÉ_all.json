@@ -1,0 +1,72 @@
+[{
+"name": "AIMEÉ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 445
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 462
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 570
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 77
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 152
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 66
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 65
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 19489
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 2834
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 2315
+} 
+], 
+"us": [
+{ 
+"males": 78,
+"females": 54055
+} 
+] 
+}]

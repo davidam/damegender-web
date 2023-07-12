@@ -2,5 +2,35 @@
 "name": "ADENA",
 "frequency": 1682,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 43
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1716
+} 
+] 
 }]

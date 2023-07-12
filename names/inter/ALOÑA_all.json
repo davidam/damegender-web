@@ -1,0 +1,66 @@
+[{
+"name": "ALOÑA",
+"frequency": 311,
+"males": "0.0 %",
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 366
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 299
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 68
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 89
+} 
+], 
+"gb": [
+{ 
+"males": 1,
+"females": 22
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 128
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3014
+} 
+] 
+}]

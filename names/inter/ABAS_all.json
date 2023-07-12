@@ -2,5 +2,47 @@
 "name": "ABAS",
 "frequency": 272,
 "males": "97.79411764705883 %",
-"females": "2.2058823529411766 %"
+"females": "2.2058823529411766 %",
+"be": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 312,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 38,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 44,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 100,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,11 @@
 "name": "ADULFA",
 "frequency": 11,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"mx": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

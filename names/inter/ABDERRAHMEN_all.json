@@ -2,5 +2,23 @@
 "name": "ABDERRAHMEN",
 "frequency": 152,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 67,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 49,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 91,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABAYOMI",
 "frequency": 252,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fi": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 221,
+"females": 0
+} 
+] 
 }]

@@ -1,6 +1,18 @@
 [{
 "name": "ADNANA",
-"frequency": 274,
+"frequency": 286,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 60
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 266
+} 
+] 
 }]

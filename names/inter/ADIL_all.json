@@ -2,5 +2,83 @@
 "name": "ADIL",
 "frequency": 29424,
 "males": "99.90483958673192 %",
-"females": "0.09516041326808049 %"
+"females": "0.09516041326808049 %",
+"at": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 13255,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 63,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 2281,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 176,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 3947,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 206,
+"females": 56
+} 
+], 
+"fr": [
+{ 
+"males": 5428,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 1630,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 222,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 1526,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1386,
+"females": 0
+} 
+] 
 }]

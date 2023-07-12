@@ -2,5 +2,23 @@
 "name": "ABDERRAZZAK",
 "frequency": 1068,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 358,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 60,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 767,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,48 @@
+[{
+"name": "ABDELÂZIZ",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 14017,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 890,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 65,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 5665,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 2263,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 111,
+"females": 0
+} 
+] 
+}]

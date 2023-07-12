@@ -2,5 +2,35 @@
 "name": "ABUBAKER",
 "frequency": 246,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 69,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 161,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 44,
+"females": 0
+} 
+] 
 }]

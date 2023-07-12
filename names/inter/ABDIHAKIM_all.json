@@ -2,5 +2,35 @@
 "name": "ABDIHAKIM",
 "frequency": 92,
 "males": "88.04347826086956 %",
-"females": "11.956521739130435 %"
+"females": "11.956521739130435 %",
+"ch": [
+{ 
+"males": 53,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 74,
+"females": 26
+} 
+], 
+"gb": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 65,
+"females": 0
+} 
+] 
 }]

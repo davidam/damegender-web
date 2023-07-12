@@ -2,5 +2,47 @@
 "name": "AAYA",
 "frequency": 269,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 96
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 15
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 30
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 58
+} 
+] 
 }]

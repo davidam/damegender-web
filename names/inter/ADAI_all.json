@@ -2,5 +2,17 @@
 "name": "ADAI",
 "frequency": 188,
 "males": "91.48936170212765 %",
-"females": "8.51063829787234 %"
+"females": "8.51063829787234 %",
+"es": [
+{ 
+"males": 230,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 31
+} 
+] 
 }]

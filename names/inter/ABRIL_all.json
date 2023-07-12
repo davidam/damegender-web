@@ -2,5 +2,53 @@
 "name": "ABRIL",
 "frequency": 17286,
 "males": "0.14462570866597246 %",
-"females": "99.85537429133403 %"
+"females": "99.85537429133403 %",
+"ch": [
+{ 
+"males": 0,
+"females": 154
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 13992
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 36
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 78
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 8458
+} 
+], 
+"uy": [
+{ 
+"males": 25,
+"females": 630
+} 
+] 
 }]

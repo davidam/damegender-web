@@ -1,0 +1,108 @@
+[{
+"name": "ARIËL",
+"frequency": 3,
+"males": "100.0 %",
+"females": "0.0 %",
+"ar": [
+{ 
+"males": 92,
+"females": 2
+} 
+], 
+"au": [
+{ 
+"males": 11,
+"females": 45
+} 
+], 
+"be": [
+{ 
+"males": 507,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 50,
+"females": 436
+} 
+], 
+"ch": [
+{ 
+"males": 1594,
+"females": 309
+} 
+], 
+"dk": [
+{ 
+"males": 39,
+"females": 17
+} 
+], 
+"es": [
+{ 
+"males": 2063,
+"females": 215
+} 
+], 
+"fi": [
+{ 
+"males": 454,
+"females": 516
+} 
+], 
+"fr": [
+{ 
+"males": 1861,
+"females": 375
+} 
+], 
+"gb": [
+{ 
+"males": 157,
+"females": 119
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 516
+} 
+], 
+"mx": [
+{ 
+"males": 242,
+"females": 0
+} 
+], 
+"pt": [
+{ 
+"males": 8,
+"females": 12
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"si": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 19741,
+"females": 74301
+} 
+], 
+"uy": [
+{ 
+"males": 1734,
+"females": 10
+} 
+] 
+}]

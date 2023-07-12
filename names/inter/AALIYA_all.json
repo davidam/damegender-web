@@ -2,5 +2,41 @@
 "name": "AALIYA",
 "frequency": 1488,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 25
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 106
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 232
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 363
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1381
+} 
+] 
 }]

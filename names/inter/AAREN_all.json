@@ -2,5 +2,29 @@
 "name": "AAREN",
 "frequency": 1015,
 "males": "71.5270935960591 %",
-"females": "28.472906403940883 %"
+"females": "28.472906403940883 %",
+"ca": [
+{ 
+"males": 14,
+"females": 5
+} 
+], 
+"ch": [
+{ 
+"males": 27,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 27,
+"females": 1
+} 
+], 
+"us": [
+{ 
+"males": 872,
+"females": 282
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADELAIS",
 "frequency": 32,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"fr": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 22
+} 
+] 
 }]

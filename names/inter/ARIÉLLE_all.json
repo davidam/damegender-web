@@ -1,0 +1,66 @@
+[{
+"name": "ARIÉLLE",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 826
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 240
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 1188
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 31
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 56
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 3688
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 178
+} 
+], 
+"us": [
+{ 
+"males": 46,
+"females": 28067
+} 
+] 
+}]

@@ -2,5 +2,29 @@
 "name": "AAMNA",
 "frequency": 542,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 340
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 244
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABDELGHAFOUR",
 "frequency": 565,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 216,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 357,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 17,
+"females": 0
+} 
+] 
 }]

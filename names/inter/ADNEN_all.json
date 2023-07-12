@@ -2,5 +2,23 @@
 "name": "ADNEN",
 "frequency": 234,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 41,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 149,
+"females": 0
+} 
+] 
 }]

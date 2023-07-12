@@ -1,6 +1,18 @@
 [{
 "name": "ABREHET",
-"frequency": 11,
+"frequency": 71,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 328
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

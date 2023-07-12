@@ -1,0 +1,96 @@
+[{
+"name": "ALEXÁ",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 1,
+"females": 37
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 92
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 487
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 1079
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 3937
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"dk": [
+{ 
+"males": 1,
+"females": 48
+} 
+], 
+"es": [
+{ 
+"males": 48,
+"females": 543
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 520
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 2087
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 2232
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 23
+} 
+], 
+"us": [
+{ 
+"males": 284,
+"females": 129850
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 156
+} 
+] 
+}]

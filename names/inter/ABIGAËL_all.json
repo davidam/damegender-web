@@ -1,0 +1,42 @@
+[{
+"name": "ABIGAËL",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 44
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 227
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 6,
+"females": 1536
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 227
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 1818
+} 
+] 
+}]

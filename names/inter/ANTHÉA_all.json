@@ -1,0 +1,60 @@
+[{
+"name": "ANTHÉA",
+"frequency": 405,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 3,
+"females": 346
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 579
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 62
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 34
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 1156
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 147
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 108
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 792
+} 
+] 
+}]

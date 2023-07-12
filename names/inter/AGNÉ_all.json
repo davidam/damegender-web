@@ -1,0 +1,42 @@
+[{
+"name": "AGNÉ",
+"frequency": 4,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 155
+} 
+], 
+"dk": [
+{ 
+"males": 3,
+"females": 97
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 84
+} 
+], 
+"fi": [
+{ 
+"males": 5,
+"females": 18
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 250
+} 
+] 
+}]

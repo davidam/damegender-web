@@ -1,0 +1,132 @@
+[{
+"name": "ALÍCIA",
+"frequency": 224,
+"males": "0.0 %",
+"females": "100.0 %",
+"ar": [
+{ 
+"males": 0,
+"females": 88
+} 
+], 
+"at": [
+{ 
+"males": 0,
+"females": 76
+} 
+], 
+"au": [
+{ 
+"males": 3,
+"females": 1315
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 42832
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 1377
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 19153
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 39
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 460
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 100606
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 1704
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 50986
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 11297
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 3076
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 412
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 683
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 3107
+} 
+], 
+"pt": [
+{ 
+"males": 0,
+"females": 41
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 9352
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 94
+} 
+], 
+"us": [
+{ 
+"males": 707,
+"females": 227884
+} 
+], 
+"uy": [
+{ 
+"males": 47,
+"females": 8375
+} 
+] 
+}]

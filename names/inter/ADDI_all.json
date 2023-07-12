@@ -2,5 +2,23 @@
 "name": "ADDI",
 "frequency": 385,
 "males": "19.74025974025974 %",
-"females": "80.25974025974027 %"
+"females": "80.25974025974027 %",
+"dk": [
+{ 
+"males": 1,
+"females": 36
+} 
+], 
+"es": [
+{ 
+"males": 67,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 434
+} 
+] 
 }]

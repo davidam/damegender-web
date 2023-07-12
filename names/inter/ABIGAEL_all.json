@@ -2,5 +2,41 @@
 "name": "ABIGAEL",
 "frequency": 3309,
 "males": "1.087941976427924 %",
-"females": "98.91205802357209 %"
+"females": "98.91205802357209 %",
+"ca": [
+{ 
+"males": 0,
+"females": 44
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 227
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"fr": [
+{ 
+"males": 6,
+"females": 1536
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 227
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 1818
+} 
+] 
 }]

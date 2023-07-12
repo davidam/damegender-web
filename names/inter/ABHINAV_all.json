@@ -2,5 +2,35 @@
 "name": "ABHINAV",
 "frequency": 1605,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 122,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 116,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1890,
+"females": 0
+} 
+] 
 }]

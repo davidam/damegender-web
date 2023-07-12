@@ -2,5 +2,59 @@
 "name": "ABDEL",
 "frequency": 11804,
 "males": "99.90681125042359 %",
-"females": "0.09318874957641478 %"
+"females": "0.09318874957641478 %",
+"be": [
+{ 
+"males": 4067,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1172,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 214,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 55,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 162,
+"females": 24
+} 
+], 
+"fr": [
+{ 
+"males": 4707,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 106,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 743,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,23 @@
 "name": "ABDELHAY",
 "frequency": 408,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 105,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 297,
+"females": 0
+} 
+] 
 }]

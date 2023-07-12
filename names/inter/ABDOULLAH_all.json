@@ -2,5 +2,29 @@
 "name": "ABDOULLAH",
 "frequency": 1642,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 726,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 41,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 823,
+"females": 0
+} 
+] 
 }]

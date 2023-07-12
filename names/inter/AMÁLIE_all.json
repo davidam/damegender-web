@@ -1,0 +1,60 @@
+[{
+"name": "AMÁLIE",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"au": [
+{ 
+"males": 0,
+"females": 48
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 495
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 9223
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 154
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 170
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 390
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 8094
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 1309
+} 
+] 
+}]

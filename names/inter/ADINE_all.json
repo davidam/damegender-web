@@ -2,5 +2,29 @@
 "name": "ADINE",
 "frequency": 495,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 54
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 64
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 113
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 275
+} 
+] 
 }]

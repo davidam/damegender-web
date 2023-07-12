@@ -2,5 +2,23 @@
 "name": "ABELINO",
 "frequency": 941,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 39,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 855,
+"females": 0
+} 
+] 
 }]

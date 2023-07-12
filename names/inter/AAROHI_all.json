@@ -2,5 +2,23 @@
 "name": "AAROHI",
 "frequency": 153,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 39
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 783
+} 
+] 
 }]

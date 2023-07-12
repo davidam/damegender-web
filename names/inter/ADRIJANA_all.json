@@ -2,5 +2,35 @@
 "name": "ADRIJANA",
 "frequency": 12090,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 32
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 879
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 16
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 11848
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 77
+} 
+] 
 }]

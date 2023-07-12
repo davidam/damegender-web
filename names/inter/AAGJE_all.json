@@ -2,5 +2,11 @@
 "name": "AAGJE",
 "frequency": 1024,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"be": [
+{ 
+"males": 0,
+"females": 921
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ABDRAMANE",
 "frequency": 200,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"es": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 168,
+"females": 0
+} 
+] 
 }]

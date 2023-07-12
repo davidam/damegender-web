@@ -1,0 +1,30 @@
+[{
+"name": "ARSÈNE",
+"frequency": 7639,
+"males": "100.0 %",
+"females": "0.0 %",
+"be": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 68,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 14037,
+"females": 1002
+} 
+], 
+"us": [
+{ 
+"males": 56,
+"females": 0
+} 
+] 
+}]

@@ -2,5 +2,35 @@
 "name": "ADEMIR",
 "frequency": 297,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 75,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 58,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 190,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 31,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 25,
+"females": 0
+} 
+] 
 }]

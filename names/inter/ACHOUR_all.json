@@ -2,5 +2,29 @@
 "name": "ACHOUR",
 "frequency": 810,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 202,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 61,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 237,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 311,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,17 @@
 "name": "ADEDAMOLA",
 "frequency": 137,
 "males": "99.27007299270073 %",
-"females": "0.7299270072992701 %"
+"females": "0.7299270072992701 %",
+"gb": [
+{ 
+"males": 53,
+"females": 1
+} 
+], 
+"us": [
+{ 
+"males": 149,
+"females": 0
+} 
+] 
 }]

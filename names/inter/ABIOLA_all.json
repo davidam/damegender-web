@@ -2,5 +2,29 @@
 "name": "ABIOLA",
 "frequency": 262,
 "males": "35.87786259541985 %",
-"females": "64.12213740458014 %"
+"females": "64.12213740458014 %",
+"ch": [
+{ 
+"males": 11,
+"females": 30
+} 
+], 
+"fi": [
+{ 
+"males": 6,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 27,
+"females": 25
+} 
+], 
+"us": [
+{ 
+"males": 44,
+"females": 177
+} 
+] 
 }]

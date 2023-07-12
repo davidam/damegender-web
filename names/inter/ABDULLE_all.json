@@ -2,5 +2,17 @@
 "name": "ABDULLE",
 "frequency": 60,
 "males": "55.00000000000001 %",
-"females": "45.0 %"
+"females": "45.0 %",
+"ch": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 51,
+"females": 58
+} 
+] 
 }]

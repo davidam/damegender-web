@@ -2,5 +2,59 @@
 "name": "ABDALLA",
 "frequency": 744,
 "males": "97.71505376344086 %",
-"females": "2.28494623655914 %"
+"females": "2.28494623655914 %",
+"be": [
+{ 
+"males": 59,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 350,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 89,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 106,
+"females": 36
+} 
+], 
+"fr": [
+{ 
+"males": 34,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 113,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 344,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,102 @@
+[{
+"name": "ALFRÉD",
+"frequency": 5,
+"males": "100.0 %",
+"females": "0.0 %",
+"at": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"au": [
+{ 
+"males": 219,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 34563,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 149,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 85387,
+"females": 0
+} 
+], 
+"de": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 5310,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 1060,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 5832,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 65839,
+"females": 9
+} 
+], 
+"gb": [
+{ 
+"males": 4713,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 2568,
+"females": 0
+} 
+], 
+"se": [
+{ 
+"males": 8550,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 2717,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 241258,
+"females": 1292
+} 
+], 
+"uy": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
+}]

@@ -2,5 +2,29 @@
 "name": "ABDISALAN",
 "frequency": 52,
 "males": "84.61538461538461 %",
-"females": "15.384615384615385 %"
+"females": "15.384615384615385 %",
+"ch": [
+{ 
+"males": 53,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 26,
+"females": 18
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+] 
 }]

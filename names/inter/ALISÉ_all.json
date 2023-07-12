@@ -1,0 +1,54 @@
+[{
+"name": "ALISÉ",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"ca": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 137
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 49
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 992
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 272
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 71
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 548
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 3506
+} 
+] 
+}]

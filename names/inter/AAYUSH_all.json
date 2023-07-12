@@ -2,5 +2,29 @@
 "name": "AAYUSH",
 "frequency": 1010,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 19,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 81,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 141,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1369,
+"females": 0
+} 
+] 
 }]

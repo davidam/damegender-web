@@ -1,0 +1,30 @@
+[{
+"name": "AYMÉE",
+"frequency": 24,
+"males": "0.0 %",
+"females": "100.0 %",
+"es": [
+{ 
+"males": 0,
+"females": 45
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 440
+} 
+] 
+}]

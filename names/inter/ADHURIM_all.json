@@ -2,5 +2,11 @@
 "name": "ADHURIM",
 "frequency": 104,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 552,
+"females": 0
+} 
+] 
 }]

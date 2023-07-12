@@ -1,0 +1,42 @@
+[{
+"name": "APOLLÓ",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 46,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 74,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 118,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 18,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 5949,
+"females": 11
+} 
+] 
+}]

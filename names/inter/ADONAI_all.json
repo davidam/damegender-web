@@ -2,5 +2,47 @@
 "name": "ADONAI",
 "frequency": 1044,
 "males": "85.0574712643678 %",
-"females": "14.942528735632186 %"
+"females": "14.942528735632186 %",
+"ca": [
+{ 
+"males": 18,
+"females": 3
+} 
+], 
+"ch": [
+{ 
+"males": 90,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 419,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 60,
+"females": 13
+} 
+], 
+"gb": [
+{ 
+"males": 13,
+"females": 4
+} 
+], 
+"pt": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 905,
+"females": 190
+} 
+] 
 }]

@@ -2,5 +2,29 @@
 "name": "AAKASH",
 "frequency": 970,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 85,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 94,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 1005,
+"females": 0
+} 
+] 
 }]

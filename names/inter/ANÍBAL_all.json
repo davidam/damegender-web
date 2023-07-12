@@ -1,0 +1,54 @@
+[{
+"name": "ANÍBAL",
+"frequency": 67,
+"males": "100.0 %",
+"females": "0.0 %",
+"ar": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"be": [
+{ 
+"males": 72,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1069,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 4060,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 74,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 122,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 3772,
+"females": 22
+} 
+], 
+"uy": [
+{ 
+"males": 1953,
+"females": 15
+} 
+] 
+}]

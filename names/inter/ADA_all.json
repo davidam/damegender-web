@@ -2,5 +2,119 @@
 "name": "ADA",
 "frequency": 110394,
 "males": "0.35237422323677015 %",
-"females": "99.64762577676322 %"
+"females": "99.64762577676322 %",
+"at": [
+{ 
+"males": 3,
+"females": 73
+} 
+], 
+"au": [
+{ 
+"males": 0,
+"females": 97
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 2276
+} 
+], 
+"ca": [
+{ 
+"males": 1,
+"females": 242
+} 
+], 
+"ch": [
+{ 
+"males": 89,
+"females": 4599
+} 
+], 
+"de": [
+{ 
+"males": 1,
+"females": 31
+} 
+], 
+"dk": [
+{ 
+"males": 5,
+"females": 326
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 3938
+} 
+], 
+"fi": [
+{ 
+"males": 6,
+"females": 8768
+} 
+], 
+"fr": [
+{ 
+"males": 41,
+"females": 1125
+} 
+], 
+"gb": [
+{ 
+"males": 17,
+"females": 781
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 319
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 3251
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 42
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 38
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 505
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 4513
+} 
+], 
+"us": [
+{ 
+"males": 277,
+"females": 98564
+} 
+], 
+"uy": [
+{ 
+"males": 2,
+"females": 258
+} 
+] 
 }]

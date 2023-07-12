@@ -2,5 +2,23 @@
 "name": "ADOMAS",
 "frequency": 76,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 28,
+"females": 0
+} 
+] 
 }]

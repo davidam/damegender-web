@@ -2,5 +2,35 @@
 "name": "ABELARDO",
 "frequency": 7665,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 103,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 2962,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 340,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 4624,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 99,
+"females": 0
+} 
+] 
 }]

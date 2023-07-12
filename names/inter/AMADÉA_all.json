@@ -1,0 +1,42 @@
+[{
+"name": "AMADÉA",
+"frequency": 3,
+"males": "0.0 %",
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 291
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 33
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 70
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 12
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 625
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 113
+} 
+] 
+}]

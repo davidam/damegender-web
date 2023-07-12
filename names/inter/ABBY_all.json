@@ -2,5 +2,83 @@
 "name": "ABBY",
 "frequency": 66008,
 "males": "0.2742091867652406 %",
-"females": "99.72579081323477 %"
+"females": "99.72579081323477 %",
+"au": [
+{ 
+"males": 0,
+"females": 612
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 17
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 678
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 425
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 57
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 137
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 2304
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 6135
+} 
+], 
+"ie": [
+{ 
+"males": 0,
+"females": 3128
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 503
+} 
+], 
+"us": [
+{ 
+"males": 181,
+"females": 59966
+} 
+], 
+"uy": [
+{ 
+"males": 0,
+"females": 12
+} 
+] 
 }]

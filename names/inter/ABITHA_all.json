@@ -1,6 +1,12 @@
 [{
 "name": "ABITHA",
-"frequency": 1,
+"frequency": 17,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 54
+} 
+] 
 }]

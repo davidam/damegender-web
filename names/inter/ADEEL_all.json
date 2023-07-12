@@ -2,5 +2,53 @@
 "name": "ADEEL",
 "frequency": 1158,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 59,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 17,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 105,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 54,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 269,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 509,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 363,
+"females": 0
+} 
+] 
 }]

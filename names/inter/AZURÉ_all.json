@@ -1,0 +1,24 @@
+[{
+"name": "AZURÉ",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 2,
+"females": 16
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"us": [
+{ 
+"males": 325,
+"females": 1591
+} 
+] 
+}]

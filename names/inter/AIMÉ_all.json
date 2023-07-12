@@ -1,0 +1,54 @@
+[{
+"name": "AIMÉ",
+"frequency": 11466,
+"males": "99.93894993894995 %",
+"females": "0.06105006105006105 %",
+"ca": [
+{ 
+"males": 3,
+"females": 12
+} 
+], 
+"ch": [
+{ 
+"males": 71,
+"females": 33
+} 
+], 
+"es": [
+{ 
+"males": 34,
+"females": 48
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 40
+} 
+], 
+"fr": [
+{ 
+"males": 38684,
+"females": 109
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 119
+} 
+], 
+"mx": [
+{ 
+"males": 0,
+"females": 18
+} 
+], 
+"us": [
+{ 
+"males": 474,
+"females": 1779
+} 
+] 
+}]

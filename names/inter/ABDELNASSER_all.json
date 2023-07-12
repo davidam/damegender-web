@@ -2,5 +2,11 @@
 "name": "ABDELNASSER",
 "frequency": 157,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"fr": [
+{ 
+"males": 113,
+"females": 0
+} 
+] 
 }]

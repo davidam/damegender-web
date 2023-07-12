@@ -2,5 +2,29 @@
 "name": "ABDISAMAD",
 "frequency": 44,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 35,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 28,
+"females": 0
+} 
+] 
 }]

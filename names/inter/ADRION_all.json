@@ -2,5 +2,17 @@
 "name": "ADRION",
 "frequency": 634,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 751,
+"females": 0
+} 
+] 
 }]

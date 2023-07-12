@@ -2,5 +2,17 @@
 "name": "ABIER",
 "frequency": 16,
 "males": "6.25 %",
-"females": "93.75 %"
+"females": "93.75 %",
+"ch": [
+{ 
+"males": 0,
+"females": 20
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 11
+} 
+] 
 }]

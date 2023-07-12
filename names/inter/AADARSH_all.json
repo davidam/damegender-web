@@ -2,5 +2,11 @@
 "name": "AADARSH",
 "frequency": 138,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 233,
+"females": 0
+} 
+] 
 }]

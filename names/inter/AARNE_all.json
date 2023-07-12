@@ -2,5 +2,17 @@
 "name": "AARNE",
 "frequency": 4795,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 23,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 17612,
+"females": 0
+} 
+] 
 }]

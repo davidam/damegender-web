@@ -2,5 +2,29 @@
 "name": "ADEMAR",
 "frequency": 280,
 "males": "99.64285714285714 %",
-"females": "0.35714285714285715 %"
+"females": "0.35714285714285715 %",
+"ch": [
+{ 
+"males": 142,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 54,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 248,
+"females": 3
+} 
+] 
 }]

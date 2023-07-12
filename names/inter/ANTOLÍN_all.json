@@ -1,0 +1,36 @@
+[{
+"name": "ANTOLÍN",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 43,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 1965,
+"females": 0
+} 
+], 
+"mx": [
+{ 
+"males": 59,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 129,
+"females": 0
+} 
+], 
+"uy": [
+{ 
+"males": 12,
+"females": 0
+} 
+] 
+}]

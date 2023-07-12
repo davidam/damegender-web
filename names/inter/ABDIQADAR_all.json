@@ -2,5 +2,11 @@
 "name": "ABDIQADAR",
 "frequency": 6,
 "males": "16.666666666666664 %",
-"females": "83.33333333333334 %"
+"females": "83.33333333333334 %",
+"fi": [
+{ 
+"males": 12,
+"females": 10
+} 
+] 
 }]

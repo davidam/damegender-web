@@ -2,5 +2,17 @@
 "name": "ADDISYN",
 "frequency": 5422,
 "males": "0.018443378827001106 %",
-"females": "99.981556621173 %"
+"females": "99.981556621173 %",
+"ca": [
+{ 
+"males": 0,
+"females": 101
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 9383
+} 
+] 
 }]

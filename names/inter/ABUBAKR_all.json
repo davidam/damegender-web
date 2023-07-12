@@ -2,5 +2,41 @@
 "name": "ABUBAKR",
 "frequency": 462,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ca": [
+{ 
+"males": 11,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 49,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 32,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 207,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 536,
+"females": 0
+} 
+] 
 }]

@@ -1,0 +1,102 @@
+[{
+"name": "ÁNGEL",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"ar": [
+{ 
+"males": 24,
+"females": 0
+} 
+], 
+"at": [
+{ 
+"males": 11,
+"females": 15
+} 
+], 
+"au": [
+{ 
+"males": 13,
+"females": 169
+} 
+], 
+"be": [
+{ 
+"males": 4642,
+"females": 1066
+} 
+], 
+"ca": [
+{ 
+"males": 55,
+"females": 605
+} 
+], 
+"ch": [
+{ 
+"males": 5364,
+"females": 517
+} 
+], 
+"dk": [
+{ 
+"males": 93,
+"females": 64
+} 
+], 
+"es": [
+{ 
+"males": 213042,
+"females": 49
+} 
+], 
+"fi": [
+{ 
+"males": 172,
+"females": 196
+} 
+], 
+"fr": [
+{ 
+"males": 8297,
+"females": 917
+} 
+], 
+"gb": [
+{ 
+"males": 159,
+"females": 5806
+} 
+], 
+"nz": [
+{ 
+"males": 0,
+"females": 695
+} 
+], 
+"mx": [
+{ 
+"males": 1643,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 2078,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 245960,
+"females": 97855
+} 
+], 
+"uy": [
+{ 
+"males": 4710,
+"females": 47
+} 
+] 
+}]

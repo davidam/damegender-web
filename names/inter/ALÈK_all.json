@@ -1,0 +1,66 @@
+[{
+"name": "ALÈK",
+"frequency": 1,
+"males": "100.0 %",
+"females": "0.0 %",
+"au": [
+{ 
+"males": 17,
+"females": 10
+} 
+], 
+"ca": [
+{ 
+"males": 27,
+"females": 11
+} 
+], 
+"ch": [
+{ 
+"males": 281,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 16,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 52,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 162,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 336,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 30,
+"females": 0
+} 
+], 
+"si": [
+{ 
+"males": 413,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 4235,
+"females": 81
+} 
+] 
+}]

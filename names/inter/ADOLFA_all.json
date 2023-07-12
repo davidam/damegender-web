@@ -2,5 +2,23 @@
 "name": "ADOLFA",
 "frequency": 250,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 11
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 126
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 101
+} 
+] 
 }]

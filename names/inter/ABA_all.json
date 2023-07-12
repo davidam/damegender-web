@@ -2,5 +2,29 @@
 "name": "ABA",
 "frequency": 96,
 "males": "52.083333333333336 %",
-"females": "47.91666666666667 %"
+"females": "47.91666666666667 %",
+"ch": [
+{ 
+"males": 30,
+"females": 35
+} 
+], 
+"es": [
+{ 
+"males": 29,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 22
+} 
+], 
+"us": [
+{ 
+"males": 5,
+"females": 27
+} 
+] 
 }]

@@ -1,0 +1,96 @@
+[{
+"name": "ALIŞA",
+"frequency": 1,
+"males": "0.0 %",
+"females": "100.0 %",
+"at": [
+{ 
+"males": 0,
+"females": 145
+} 
+], 
+"au": [
+{ 
+"males": 1,
+"females": 78
+} 
+], 
+"be": [
+{ 
+"males": 0,
+"females": 982
+} 
+], 
+"ca": [
+{ 
+"males": 0,
+"females": 181
+} 
+], 
+"ch": [
+{ 
+"males": 0,
+"females": 6029
+} 
+], 
+"de": [
+{ 
+"males": 0,
+"females": 19
+} 
+], 
+"dk": [
+{ 
+"males": 0,
+"females": 206
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 608
+} 
+], 
+"fi": [
+{ 
+"males": 0,
+"females": 16710
+} 
+], 
+"fr": [
+{ 
+"males": 0,
+"females": 381
+} 
+], 
+"gb": [
+{ 
+"males": 0,
+"females": 513
+} 
+], 
+"no": [
+{ 
+"males": 0,
+"females": 321
+} 
+], 
+"se": [
+{ 
+"males": 0,
+"females": 347
+} 
+], 
+"si": [
+{ 
+"males": 0,
+"females": 3334
+} 
+], 
+"us": [
+{ 
+"males": 22,
+"females": 34089
+} 
+] 
+}]

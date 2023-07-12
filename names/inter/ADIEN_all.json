@@ -2,5 +2,11 @@
 "name": "ADIEN",
 "frequency": 286,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 459,
+"females": 0
+} 
+] 
 }]

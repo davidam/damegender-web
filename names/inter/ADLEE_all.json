@@ -2,5 +2,17 @@
 "name": "ADLEE",
 "frequency": 290,
 "males": "0.3448275862068966 %",
-"females": "99.6551724137931 %"
+"females": "99.6551724137931 %",
+"ca": [
+{ 
+"males": 1,
+"females": 17
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 969
+} 
+] 
 }]

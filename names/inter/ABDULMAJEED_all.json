@@ -2,5 +2,23 @@
 "name": "ABDULMAJEED",
 "frequency": 31,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 20,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 12,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 48,
+"females": 0
+} 
+] 
 }]

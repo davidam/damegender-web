@@ -2,5 +2,17 @@
 "name": "ABHIJIT",
 "frequency": 70,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 77,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 42,
+"females": 0
+} 
+] 
 }]

@@ -2,5 +2,41 @@
 "name": "ABRAHIM",
 "frequency": 607,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 15,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 13,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 41,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 634,
+"females": 0
+} 
+] 
 }]

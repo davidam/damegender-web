@@ -2,5 +2,23 @@
 "name": "ABHIJEET",
 "frequency": 80,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"ch": [
+{ 
+"males": 25,
+"females": 0
+} 
+], 
+"gb": [
+{ 
+"males": 14,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 45,
+"females": 0
+} 
+] 
 }]

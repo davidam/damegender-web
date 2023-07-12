@@ -2,5 +2,23 @@
 "name": "ADRA",
 "frequency": 609,
 "males": "0.0 %",
-"females": "100.0 %"
+"females": "100.0 %",
+"ch": [
+{ 
+"males": 0,
+"females": 35
+} 
+], 
+"es": [
+{ 
+"males": 0,
+"females": 21
+} 
+], 
+"us": [
+{ 
+"males": 0,
+"females": 592
+} 
+] 
 }]

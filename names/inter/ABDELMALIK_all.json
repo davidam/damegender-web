@@ -2,5 +2,29 @@
 "name": "ABDELMALIK",
 "frequency": 2283,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"be": [
+{ 
+"males": 765,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 46,
+"females": 0
+} 
+], 
+"es": [
+{ 
+"males": 516,
+"females": 0
+} 
+], 
+"fr": [
+{ 
+"males": 929,
+"females": 0
+} 
+] 
 }]

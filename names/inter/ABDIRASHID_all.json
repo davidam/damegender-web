@@ -2,5 +2,35 @@
 "name": "ABDIRASHID",
 "frequency": 244,
 "males": "74.59016393442623 %",
-"females": "25.40983606557377 %"
+"females": "25.40983606557377 %",
+"ch": [
+{ 
+"males": 157,
+"females": 0
+} 
+], 
+"dk": [
+{ 
+"males": 42,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 174,
+"females": 124
+} 
+], 
+"gb": [
+{ 
+"males": 22,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 40,
+"females": 0
+} 
+] 
 }]

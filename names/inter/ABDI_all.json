@@ -2,5 +2,59 @@
 "name": "ABDI",
 "frequency": 2865,
 "males": "85.20069808027924 %",
-"females": "14.799301919720767 %"
+"females": "14.799301919720767 %",
+"be": [
+{ 
+"males": 260,
+"females": 0
+} 
+], 
+"ca": [
+{ 
+"males": 21,
+"females": 0
+} 
+], 
+"ch": [
+{ 
+"males": 1287,
+"females": 3
+} 
+], 
+"dk": [
+{ 
+"males": 342,
+"females": 1
+} 
+], 
+"es": [
+{ 
+"males": 36,
+"females": 0
+} 
+], 
+"fi": [
+{ 
+"males": 1272,
+"females": 854
+} 
+], 
+"gb": [
+{ 
+"males": 249,
+"females": 0
+} 
+], 
+"no": [
+{ 
+"males": 577,
+"females": 0
+} 
+], 
+"us": [
+{ 
+"males": 308,
+"females": 10
+} 
+] 
 }]

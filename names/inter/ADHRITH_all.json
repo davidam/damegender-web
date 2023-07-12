@@ -2,5 +2,11 @@
 "name": "ADHRITH",
 "frequency": 7,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 71,
+"females": 0
+} 
+] 
 }]

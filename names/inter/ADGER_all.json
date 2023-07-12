@@ -2,5 +2,11 @@
 "name": "ADGER",
 "frequency": 92,
 "males": "100.0 %",
-"females": "0.0 %"
+"females": "0.0 %",
+"us": [
+{ 
+"males": 92,
+"females": 0
+} 
+] 
 }]
