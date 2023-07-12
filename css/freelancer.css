@@ -69,7 +69,6 @@ body {
   background-color: #fff;
 }
 
-
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
@@ -9791,14 +9790,6 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
-.knowledge {
-  display: none;
-}
-
-.knowledge-content {
-  display: none;
-}
-
 .gender-equity {
   margin: 25px;
 }
@@ -9933,3 +9924,14 @@ form .row:first-child .floating-label-form-group {
   position: absolute;
 }
 
+.knowledge {
+  display: none;
+}
+
+.knowledge-content {
+  display: none;
+}
+
+.programming-languages-content {
+  display: none;
+}
