@@ -134,6 +134,7 @@ $('.btn-free-software').click(function() {
     $('.programming').hide();
     $('.most-used-names').hide();
     $('.programming-languages-content').hide();
+    $('.knowledge-content').hide();
     allBtn('hide');
     $('.btn-debian').show();
     $('.btn-gnu').show();
@@ -257,13 +258,19 @@ $('.btn-knowledge').click(function() {
 });
 
 $('.btn-gutenberg').click(function() {
+    allKnowledgeHide();
+    $('.knowledge-content').show();
     $('.gutenberg').show();
 });
 
 $('.btn-amazon').click(function() {
+    allKnowledgeHide();
+    $('.knowledge-content').show();    
     $('.amazon').show();
 });
 
 $('.btn-imdb').click(function() {
+    allKnowledgeHide();
+    $('.knowledge-content').show();    
     $('.imdb').show();
 });
