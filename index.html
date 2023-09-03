@@ -945,6 +945,7 @@
 	           $("#names").append('<p>Males: ' + result[0].au[0].males + '</p>');
 	           $("#names").append('<p>Females: ' + result[0].au[0].females + '</p>');
               }
+              
               if ((result[0].be[0].males > 0) || (result[0].be[0].females > 0)) {
                    $("#names").append('<h3>Belgium dataset</h3>');
 	           $("#names").append('<p>Males: ' + result[0].be[0].males + '</p>');
@@ -994,6 +995,16 @@
                    $("#names").append('<h3>Great Britain dataset</h3>');
 	           $("#names").append('<p>Males: ' + result[0].gb[0].males + '</p>');
 	           $("#names").append('<p>Females: ' + result[0].gb[0].females + '</p>');
+              }
+              if ((result[0].ie[0].males > 0) || (result[0].ie[0].females > 0)) {
+                   $("#names").append('<h3>Ireland dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].ie[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].ie[0].females + '</p>');
+              }
+              if ((result[0].no[0].males > 0) || (result[0].no[0].females > 0)) {
+                   $("#names").append('<h3>Norway dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].no[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].no[0].females + '</p>');
               }
 
             }
