@@ -919,11 +919,28 @@
 	var str = $("input").val().toUpperCase();
 	str = str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 	$.getJSON("https://damegender.davidam.com/names/inter/"+ str +"_all.json", function(result){
-	    $("#names").append('<p>' + result[0].name + '</p>');
+	    $("#names").append('<h1>' + result[0].name + '</h1>');
+	    $("#names").append('<h2>International dataset</h2>');
 	    $("#names").append('<p>frequency: ' + result[0].frequency + '</p>');
 	    $("#names").append('<p>males: ' + result[0].males + '</p>');
 	    $("#names").append('<p>females: ' + result[0].females + '</p>');
-	    $("#names").append('<p>international dataset</p>');        	    
+            if (Object.keys(result[0]).length > 20) {
+	      $("#names").append('<h2>National datasets</h2>');
+              if ("ar" in Object.keys(result[0])) {
+                if ((result[0].ar[0].males > 0) || (result[0].ar[0].females > 0)) {
+                   $("#names").append('<h3>Argentina dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].ar[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].ar[0].females + '</p>');
+                }
+              }
+              if ("at" in Object.keys(result[0])) {
+                if ((result[0].at[0].males > 0) || (result[0].at[0].females > 0)) {
+                   $("#names").append('<h3>Austria dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].at[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].at[0].females + '</p>');
+                }
+              }
+            }
 	});
 	$("#names").css("background-color", "#EDEDF0").slideDown(2000);
 	$("#names").css("padding", "5em").slideDown(2000);	
