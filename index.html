@@ -940,6 +940,27 @@
 	           $("#names").append('<p>Females: ' + result[0].at[0].females + '</p>');
                 }
               }
+              if ((result[0].au[0].males > 0) || (result[0].au[0].females > 0)) {
+                   $("#names").append('<h3>Australia dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].au[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].au[0].females + '</p>');
+              }
+              if ((result[0].be[0].males > 0) || (result[0].be[0].females > 0)) {
+                   $("#names").append('<h3>Belgium dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].be[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].be[0].females + '</p>');
+              }
+              if ((result[0].ca[0].males > 0) || (result[0].ca[0].females > 0)) {
+                   $("#names").append('<h3>Canada dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].ca[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].ca[0].females + '</p>');
+              }
+              if ((result[0].ch[0].males > 0) || (result[0].ch[0].females > 0)) {
+                   $("#names").append('<h3>Suiza dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].ch[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].ch[0].females + '</p>');
+              }
+
             }
 	});
 	$("#names").css("background-color", "#EDEDF0").slideDown(2000);
