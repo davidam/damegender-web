@@ -1008,7 +1008,7 @@
               }
 
             }
-	});
+	}).fail(function() { $("#names").append('<h3>Name not found</h3>'); });
 	$("#names").css("background-color", "#EDEDF0").slideDown(2000);
 	$("#names").css("padding", "5em").slideDown(2000);	
 	event.preventDefault();
