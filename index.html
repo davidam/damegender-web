@@ -914,6 +914,8 @@
   <script src="js/freelancer.min.js"></script>
 
   <script>
+    var f = '<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="#732ff9" class="bi bi-gender-female" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1a4 4 0 1 0 0 8 4 4 0 0 0 0-8zM3 5a5 5 0 1 1 5.5 4.975V12h2a.5.5 0 0 1 0 1h-2v2.5a.5.5 0 0 1-1 0V13h-2a.5.5 0 0 1 0-1h2V9.975A5 5 0 0 1 3 5z"/></svg>';
+    var m = '<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="blue" class="bi bi-gender-male" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M9.5 2a.5.5 0 0 1 0-1h5a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-1 0V2.707L9.871 6.836a5 5 0 1 1-.707-.707L13.293 2H9.5zM6 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"/></svg>';
     $("form").submit(function( event ) {
 	$("#names").html("");
 	var str = $("input").val().toUpperCase();
@@ -921,6 +923,11 @@
 	$.getJSON("https://damegender.davidam.com/names/inter/"+ str +"_all.json", function(result){
 	    $("#names").append('<h1>' + result[0].name + '</h1>');
 	    $("#names").append('<h2>International dataset</h2>');
+            if (result[0].females > result[0].males) {
+                $("#names").append('<p>' + f + '</p>');
+            } else if (result[0].females < result[0].males) {
+                $("#names").append('<p>'+ m +'</p>');
+            }
 	    $("#names").append('<p>frequency: ' + result[0].frequency + '</p>');
 	    $("#names").append('<p>males: ' + result[0].males + '</p>');
 	    $("#names").append('<p>females: ' + result[0].females + '</p>');
@@ -1005,6 +1012,11 @@
                    $("#names").append('<h3>Norway dataset</h3>');
 	           $("#names").append('<p>Males: ' + result[0].no[0].males + '</p>');
 	           $("#names").append('<p>Females: ' + result[0].no[0].females + '</p>');
+              }
+              if ((result[0].nz[0].males > 0) || (result[0].nz[0].females > 0)) {
+                   $("#names").append('<h3>New Zealand dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].nz[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].nz[0].females + '</p>');
               }
 
             }
