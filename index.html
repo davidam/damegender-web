@@ -1018,7 +1018,41 @@
 	           $("#names").append('<p>Males: ' + result[0].nz[0].males + '</p>');
 	           $("#names").append('<p>Females: ' + result[0].nz[0].females + '</p>');
               }
-
+              if ((result[0].mx[0].males > 0) || (result[0].mx[0].females > 0)) {
+                   $("#names").append('<h3>Mexico dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].mx[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].mx[0].females + '</p>');
+              }
+              if ((result[0].pt[0].males > 0) || (result[0].pt[0].females > 0)) {
+                   $("#names").append('<h3>Portugal dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].pt[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].pt[0].females + '</p>');
+              }
+              if ((result[0].ru[0].males > 0) || (result[0].ru[0].females > 0)) {
+                   $("#names").append('<h3>Rusia dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].ru[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].ru[0].females + '</p>');
+              }
+              if ((result[0].se[0].males > 0) || (result[0].se[0].females > 0)) {
+                   $("#names").append('<h3>Sweden dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].se[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].se[0].females + '</p>');
+              }
+              if ((result[0].si[0].males > 0) || (result[0].si[0].females > 0)) {
+                   $("#names").append('<h3>Slovenia dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].si[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].si[0].females + '</p>');
+              }
+              if ((result[0].us[0].males > 0) || (result[0].us[0].females > 0)) {
+                   $("#names").append('<h3>United States of America dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].us[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].us[0].females + '</p>');
+              }
+              if ((result[0].uy[0].males > 0) || (result[0].uy[0].females > 0)) {
+                   $("#names").append('<h3>Uruguay dataset</h3>');
+	           $("#names").append('<p>Males: ' + result[0].uy[0].males + '</p>');
+	           $("#names").append('<p>Females: ' + result[0].uy[0].females + '</p>');
+              }
             }
 	}).fail(function() { $("#names").append('<h3>Name not found</h3>'); });
 	$("#names").css("background-color", "#EDEDF0").slideDown(2000);
