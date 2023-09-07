@@ -1,6 +1,102 @@
 [{
 "name": "BASTIAN",
 "frequency": 11129,
-"males": "99.99101446670859 %",
-"females": "0.008985533291400845 %"
+"males": 99.99101446670859 %,
+"females": 0.008985533291400845 %,
+"at": [
+{ 
+"males": 163 ,
+"females": 0 
+} 
+], 
+"au": [
+{ 
+"males": 12 ,
+"females": 0 
+} 
+], 
+"be": [
+{ 
+"males": 246 ,
+"females": 0 
+} 
+], 
+"ca": [
+{ 
+"males": 33 ,
+"females": 0 
+} 
+], 
+"ch": [
+{ 
+"males": 5556 ,
+"females": 0 
+} 
+], 
+"de": [
+{ 
+"males": 26 ,
+"females": 0 
+} 
+], 
+"dk": [
+{ 
+"males": 2562 ,
+"females": 0 
+} 
+], 
+"es": [
+{ 
+"males": 374 ,
+"females": 0 
+} 
+], 
+"fi": [
+{ 
+"males": 121 ,
+"females": 0 
+} 
+], 
+"fr": [
+{ 
+"males": 2551 ,
+"females": 0 
+} 
+], 
+"gb": [
+{ 
+"males": 16 ,
+"females": 1 
+} 
+], 
+"no": [
+{ 
+"males": 730 ,
+"females": 0 
+} 
+], 
+"se": [
+{ 
+"males": 672 ,
+"females": 0 
+} 
+], 
+"si": [
+{ 
+"males": 512 ,
+"females": 0 
+} 
+], 
+"us": [
+{ 
+"males": 1785 ,
+"females": 0 
+} 
+], 
+"uy": [
+{ 
+"males": 67 ,
+"females": 0 
+} 
+] 
 }]
