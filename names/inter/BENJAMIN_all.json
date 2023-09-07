@@ -1,6 +1,126 @@
 [{
 "name": "BENJAMIN",
 "frequency": 1198181,
-"males": "99.79343688474445 %",
-"females": "0.20656311525554155 %"
+"males": 99.79343688474445 %,
+"females": 0.20656311525554155 %,
+"at": [
+{ 
+"males": 40608,
+"females": 0 
+} 
+], 
+"au": [
+{ 
+"males": 7927,
+"females": 3 
+} 
+], 
+"be": [
+{ 
+"males": 139017,
+"females": 0 
+} 
+], 
+"ca": [
+{ 
+"males": 6924,
+"females": 1 
+} 
+], 
+"ch": [
+{ 
+"males": 79681,
+"females": 0 
+} 
+], 
+"de": [
+{ 
+"males": 142,
+"females": 0 
+} 
+], 
+"dk": [
+{ 
+"males": 11541,
+"females": 0 
+} 
+], 
+"es": [
+{ 
+"males": 15282,
+"females": 0 
+} 
+], 
+"fi": [
+{ 
+"males": 11768,
+"females": 17 
+} 
+], 
+"fr": [
+{ 
+"males": 151345,
+"females": 85 
+} 
+], 
+"gb": [
+{ 
+"males": 70538,
+"females": 0 
+} 
+], 
+"ie": [
+{ 
+"males": 3950,
+"females": 0 
+} 
+], 
+"no": [
+{ 
+"males": 8259,
+"females": 0 
+} 
+], 
+"nz": [
+{ 
+"males": 15768,
+"females": 0 
+} 
+], 
+"mx": [
+{ 
+"males": 811,
+"females": 0 
+} 
+], 
+"pt": [
+{ 
+"males": 42,
+"females": 0 
+} 
+], 
+"se": [
+{ 
+"males": 8214,
+"females": 0 
+} 
+], 
+"si": [
+{ 
+"males": 31153,
+"females": 0 
+} 
+], 
+"us": [
+{ 
+"males": 784339,
+"females": 2448 
+} 
+], 
+"uy": [
+{ 
+"males": 1596,
+"females": 10 
+} 
+] 
 }]
