@@ -920,6 +920,7 @@
 	$("#names").html("");
 	var str = $("input").val().toUpperCase();
 	str = str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+	str = str.replace(/( )*$/g, "");
 	$.getJSON("https://damegender.davidam.com/names/inter/"+ str +"_all.json", function(result){
 	    $("#names").append('<h1>' + result[0].name + '</h1>');
 	    $("#names").append('<h2>International dataset</h2>');
