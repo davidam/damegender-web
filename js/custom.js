@@ -95,6 +95,8 @@ function buttonsProgrammingShow() {
 }
 
 var logos = [
+    "img/logos/Kissing_the_War_Goodbye.jpg",
+    "img/logos/der-kuss.jpg",
     "img/logos/davidam.png",
     "img/logos/1024px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
     "img/logos/The_Kiss_Klimt_Google_Cultural_Institute.jpg",
