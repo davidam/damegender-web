@@ -95,6 +95,7 @@ function buttonsProgrammingShow() {
 }
 
 var logos = [
+    "img/logos/Eva_marie_saint_marlon_brando.jpg",
     "img/logos/Kissing_the_War_Goodbye.jpg",
     "img/logos/der-kuss.jpg",
     "img/logos/davidam.png",
