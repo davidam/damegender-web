@@ -609,6 +609,52 @@ are welcome!</p>
       <pubDate>2023-05-23</pubDate>
     </item>
 
+    <item>
+      <description>
+	<p>News in commands: </p>
+	<ul>
+	  <li>downloadcsv.py: added genderize and genderapi</li>
+	  <li>mergeinterfiles.py: adding --nosum argument</li>
+	  <li>checkcsv.py: to enable counting long string</li>
+	  <li>get-wikidata-surnames.py: to avoid to download url as surnames</li>
+	</ul>
+      </description>
+      <guid>https://pypi.org/project/damegender/0.5.4.post2/</guid>
+      <link>https://pypi.org/project/damegender/0.5.4.post2/</link>
+      <pubDate>2023-08-20</pubDate>
+    </item>
+    
+    <item>
+      <description>
+	<p>The standards has been implemented:
+	<ul>
+	  <li>RFC6350</li>
+	  <li>ISOIEC5218</li>
+	  <li>DameGender (a standard de facto)</li>
+	</ul>
+	<p>More about the standards</p>
+	<ul>
+	  <li>https://www.iso.org/standard/81682.html</li>
+	  <li>https://en.wikipedia.org/wiki/ISO/IEC_5218</li>
+	  <li>https://datatracker.ietf.org/doc/html/rfc6350#section-6.2.7</li>
+	</ul>
+      </description>
+      <guid>https://pypi.org/project/damegender/0.5.5.post3/</guid>
+      <link>https://pypi.org/project/damegender/0.5.5.post3/</link>      
+      <pubDate>2023-08-27</pubDate>
+    </item>
+    
+    <item>
+      <description>
+	<p>A new paper (spanish) has been published: "Un Dataset Internacional Acerca de Nombres, Género y Frecuencias en Damegender"</p>
+
+	<p>La igualdad de género es el quinto objetivo de desarrollo sostenible (ODS) para Naciones Unidas. Esta igualdad puede ser lograda midiendo, analizando datos y, creando buenas políticas con los resultados. Muchos estudios de género cuentan hombres y mujeres para explicar la posible desigualdad, por ejemplo, artículos de investigación, puestos de trabajo, calles, etc. El método tradicional de investigación es usar APIs comerciales con datos propietarios sin idea acerca de cómo los datos fueron recogidos. Los datos pueden también ser recogidos desde Wikipedia, estudios lingüísticos, sitios científicos, u oficinas estadísticas. Este enfoque está basado en recoger Datasets Abiertos (Open Datasets) que incluyen nombre, género y frecuencia desde muchas instituciones estadísticas. Así́, las tareas abordadas están basadas en unificar formatos, procesar datos y, crear pruebas para medir la precisión de los nuevos datasets. El dataset usado cubre más de 20 países en el mundo occidental trayendo miles de nombres con una precisión de acierto mayor del 90%. Esto permitirá medir brecha de género a estudiantes y académicos interesados en el fenómeno sin costes y de una manera reproducible y más personas estarán contribuyendo a eliminar la brecha de género. El Software Libre y los datos provistos por instituciones estadísticas hacen posible producir investigación reproducible por pares.</p>
+      </description>
+      <guid>https://cgscholar.com/bookstore/works/un-dataset-internacional-acerca-de-nombres-genero-y-frecuencias-en-damegender</guid>
+      <link>https://cgscholar.com/bookstore/works/un-dataset-internacional-acerca-de-nombres-genero-y-frecuencias-en-damegender</link>      
+      <pubDate>2023-09-08</pubDate>
+    </item>
+    
     
   </channel>
 </rss>
