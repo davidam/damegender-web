@@ -88,7 +88,7 @@ function buttonsProgrammingShow() {
     $('.btn-bash').show();
     $('.btn-r').show();
     $('.btn-ruby').show();
-    $('.btn-tcltk').show();
+    $('.btn-tcl').show();
     $('.btn-perl').show();
     $('.btn-perl').show();
     $('.btn-emacs').show();
@@ -148,6 +148,7 @@ $('.btn-free-software').click(function() {
 
 $('.btn-programming').click(function() {
     $('.free-software').hide();
+    $('.free-software-content').hide();    
     $('.programming').show();
     $('.most-used-names').hide();
     $('.gnu').hide();
