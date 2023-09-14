@@ -9935,3 +9935,8 @@ form .row:first-child .floating-label-form-group {
 .programming-languages-content {
   display: none;
 }
+
+.navbar-toggler {
+    display: none;
+}
+
