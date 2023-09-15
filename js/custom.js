@@ -82,6 +82,14 @@ function allKnowledgeHide() {
     $('.imdb').hide();
 }
 
+function allDebianGNULinuxHide() {
+    $('.free-software').hide();
+    $('.free-software-content').hide();    
+    $('.gnu').hide();
+    $('.kernel').hide();
+    $('.debian').hide();
+}
+
 function buttonsProgrammingShow() {
     $('.btn-gcc').show();
     $('.btn-python').show();
@@ -99,6 +107,7 @@ var logos = [
     "img/logos/Kissing_the_War_Goodbye.jpg",
     "img/logos/der-kuss.jpg",
     "img/logos/davidam.png",
+    "img/logos/inter_kiss.jpg",    
     "img/logos/1024px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
     "img/logos/The_Kiss_Klimt_Google_Cultural_Institute.jpg",
     "img/logos/800px-Bartolomé_Esteban_Perez_Murillo_014.jpg",
@@ -123,7 +132,13 @@ var logos = [
     "img/logos/Marie_Curie.jpg",
     "img/logos/Irene_Montero_2020.jpg",
     "img/logos/korocastellano.jpg",
-    "img/logos/Catherine_DIgnazio.jpg",    
+    "img/logos/Catherine_DIgnazio.jpg",
+    "img/logos/Madres_Plaza_Mayo.jpg",
+    "img/logos/Familiares_de_Detenidos_Desaparecidos_de_Chile.jpg",
+    "img/logos/Eva_marie_saint_marlon_brando.jpg",
+    "img/logos/Kissing_the_War_Goodbye.jpg",
+    "img/logos/der-kuss.jpg",
+    "img/logos/Lauren_Klein.jpg"
 ];
 
 var size = logos.length;
@@ -135,9 +150,10 @@ $('.btn-free-software').click(function() {
     $('.free-software').show();
     $('.free-software-content').show();
     $('.programming').hide();
-    $('.most-used-names').hide();
-    $('.programming-languages-content').hide();
+    $('.programming-languages-content').hide();    
+    $('.knowledge').hide();
     $('.knowledge-content').hide();
+    $('.most-used-names').hide();
     allBtn('hide');
     $('.btn-debian').show();
     $('.btn-gnu').show();
@@ -147,9 +163,13 @@ $('.btn-free-software').click(function() {
 
 
 $('.btn-programming').click(function() {
+    $('.knowledge').hide();
+    $('.knowledge-content').hide();
     $('.free-software').hide();
     $('.free-software-content').hide();    
     $('.programming').show();
+    $('.programming-languages-content').show();
+    $('.gcc').show();
     $('.most-used-names').hide();
     $('.gnu').hide();
     $('.kernel').hide();
@@ -160,52 +180,62 @@ $('.btn-programming').click(function() {
 
 $('.btn-gcc').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.gcc').show();
 });
 
 $('.btn-r').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.r').show();
 });
 
 $('.btn-bash').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.bash').show();    
 });
 
 
 $('.btn-python').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.python').show();
 });
 
 $('.btn-ruby').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.ruby').show();
 });
 
 $('.btn-bash').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.bash').show();
 });
 
 $('.btn-perl').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();
     $('.perl').show();
 });
 
 $('.btn-emacs').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.emacs').show();
 });
 
 $('.btn-tcl').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.tcl').show();
 });
 
 $('.btn-js').click(function() {
     allLanguagesHide();
+    $('.programming-languages').show();    
     $('.js').show();
 });
 
@@ -234,9 +264,10 @@ $('.btn-kernel').click(function() {
     $('.gnu').hide();
     $('.kernel').show();
     allBtn('hide');
-    $('.btn-kernel').show();
     $('.btn-debian').show();
     $('.btn-gnu').show();
+    $('.btn-kernel').show();
+    $('.kernel').show();    
 });
 
 $('.btn-most-used-names').click(function() {
@@ -258,7 +289,9 @@ $('.btn-knowledge').click(function() {
     $('.btn-gutenberg').show();
     $('.btn-amazon').show();
     $('.btn-imdb').show();    
-//    $('.btn-scientists-wikipedia').show();    
+    $('.gutenberg').show();
+    $('.amazon').hide();
+    $('.imdb').hide();    
 });
 
 $('.btn-gutenberg').click(function() {
