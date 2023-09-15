@@ -25,14 +25,23 @@
 function allLanguagesHide() {
     $('.programming-languages-content').show();
     $('.gcc').hide();
+    $('.btn-gcc').css('background-color', 'rgb(23, 162, 184)');
     $('.python').hide();
+    $('.btn-python').css('background-color', 'rgb(23, 162, 184)');
     $('.ruby').hide();
+    $('.btn-ruby').css('background-color', 'rgb(23, 162, 184)');
     $('.r').hide();
+    $('.btn-r').css('background-color', 'rgb(23, 162, 184)');
     $('.bash').hide();
+    $('.btn-bash').css('background-color', 'rgb(23, 162, 184)');
     $('.perl').hide();
+    $('.btn-perl').css('background-color', 'rgb(23, 162, 184)');
     $('.emacs').hide();
+    $('.btn-emacs').css('background-color', 'rgb(23, 162, 184)');
     $('.tcl').hide();
-    $('.js').hide();    
+    $('.btn-tcl').css('background-color', 'rgb(23, 162, 184)');
+    $('.js').hide();
+    $('.btn-js').css('background-color', 'rgb(23, 162, 184)');    
 }
 
 function allBtn(toggle) {
@@ -57,21 +66,37 @@ function allBtn(toggle) {
 
     if (toggle == 'hide') {
 	$('.btn-debian').hide();
+	$('.btn-debian').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-gnu').hide();
+	$('.btn-gnu').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-kernel').hide();
+	$('.btn-kernel').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-gcc').hide();
+	$('.btn-gcc').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-python').hide();
-	$('.btn-bash').hide(); 
+	$('.btn-python').css('background-color', 'rgb(23, 162, 184)');
+	$('.btn-bash').hide();
+	$('.btn-bash').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-r').hide();
+	$('.btn-r').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-ruby').hide();
+	$('.btn-ruby').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-perl').hide();
+	$('.btn-perl').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-tcl').hide();
+	$('.btn-tcl').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-js').hide();
+	$('.btn-js').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-emacs').hide();
+	$('.btn-emacs').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-gutenberg').hide();
+	$('.btn-gutenberg').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-amazon').hide();
-	$('.btn-imdb').hide();	
+	$('.btn-amazon').css('background-color', 'rgb(23, 162, 184)');
+	$('.btn-imdb').hide();
+	$('.btn-imdb').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-scientists-wikipedia').hide();
+	$('.btn-scientists-wikipedia').css('background-color', 'rgb(23, 162, 184)');	
     }
 }
     
@@ -80,6 +105,9 @@ function allKnowledgeHide() {
     $('.gutenberg').hide();
     $('.amazon').hide();
     $('.imdb').hide();
+    $('.btn-gutenberg').css('background-color', 'rgb(23, 162, 184)');
+    $('.btn-amazon').css('background-color', 'rgb(23, 162, 184)');
+    $('.btn-imdb').css('background-color', 'rgb(23, 162, 184)');    
 }
 
 function allDebianGNULinuxHide() {
@@ -149,51 +177,82 @@ document.getElementById('logo').src=logos[x];
 $('.btn-free-software').click(function() {
     $('.free-software').show();
     $('.free-software-content').show();
+    $('.btn-free-software').css('background-color', 'purple');
     $('.programming').hide();
-    $('.programming-languages-content').hide();    
+    $('.programming-languages-content').hide();
+    $('.btn-programming').css('background-color', 'rgb(23, 162, 184)');    
     $('.knowledge').hide();
     $('.knowledge-content').hide();
+    $('.btn-knowledge').css('background-color', 'rgb(23, 162, 184)');
     $('.most-used-names').hide();
     allBtn('hide');
+    $('.debian').show();    
     $('.btn-debian').show();
+    $('.btn-debian').css('background-color', 'purple');
     $('.btn-gnu').show();
     $('.btn-kernel').show(); 
 
 });
 
-
 $('.btn-programming').click(function() {
+    allBtn('hide');    
     $('.knowledge').hide();
     $('.knowledge-content').hide();
+    $('.btn-knowledge').css('background-color', 'rgb(23, 162, 184)');    
     $('.free-software').hide();
-    $('.free-software-content').hide();    
+    $('.free-software-content').hide();
+    $('.btn-free-software').css('background-color', 'rgb(23, 162, 184)');
     $('.programming').show();
     $('.programming-languages-content').show();
+    $('.btn-programming').css('background-color', 'purple'); 
     $('.gcc').show();
+    $('.btn-gcc').css('background-color', 'purple');     
     $('.most-used-names').hide();
     $('.gnu').hide();
     $('.kernel').hide();
     $('.debian').hide();
-    allBtn('hide');
     buttonsProgrammingShow();
 });
 
+$('.btn-knowledge').click(function() {
+    $('.knowledge').show();
+    $('.knowledge-content').show();
+    $('.btn-knowledge').css('background-color', 'purple');
+    $('.free-software').hide();
+    $('.free-software-content').hide();
+    $('.btn-free-software').css('background-color', 'rgb(23, 162, 184)');
+    $('.programming-languages').hide();    
+    $('.programming-languages-content').hide();
+    $('.btn-programming').css('background-color', 'rgb(23, 162, 184)');
+    allBtn('hide');
+    $('.btn-gutenberg').show();
+    $('.btn-amazon').show();
+    $('.btn-imdb').show();    
+    $('.gutenberg').show();
+    $('.amazon').hide();
+    $('.imdb').hide();    
+});
+
+
 $('.btn-gcc').click(function() {
     allLanguagesHide();
-    $('.programming-languages').show();    
+    $('.programming-languages').show();
     $('.gcc').show();
+    $('.btn-gcc').css('background-color', 'purple');
 });
 
 $('.btn-r').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.r').show();
+    $('.btn-r').css('background-color', 'purple');
 });
 
 $('.btn-bash').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
-    $('.bash').show();    
+    $('.bash').show();
+    $('.btn-bash').css('background-color', 'purple');
 });
 
 
@@ -201,69 +260,79 @@ $('.btn-python').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.python').show();
+    $('.btn-python').css('background-color', 'purple');
 });
 
 $('.btn-ruby').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.ruby').show();
+    $('.btn-ruby').css('background-color', 'purple');
 });
 
 $('.btn-bash').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.bash').show();
+    $('.btn-bash').css('background-color', 'purple');
 });
 
 $('.btn-perl').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();
     $('.perl').show();
+    $('.btn-perl').css('background-color', 'purple');
 });
 
 $('.btn-emacs').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.emacs').show();
+    $('.btn-emacs').css('background-color', 'purple');
 });
 
 $('.btn-tcl').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.tcl').show();
+    $('.btn-tcl').css('background-color', 'purple');
 });
 
 $('.btn-js').click(function() {
     allLanguagesHide();
     $('.programming-languages').show();    
     $('.js').show();
+    $('.btn-js').css('background-color', 'purple');
 });
 
 $('.btn-debian').click(function() {
+    allBtn('hide');
     $('.debian').show();
+    $('.btn-debian').css('background-color', 'purple');    
     $('.gnu').hide();
     $('.kernel').hide();
-    allBtn('hide');    
     $('.btn-kernel').show();
     $('.btn-debian').show();
     $('.btn-gnu').show();
 });
 
 $('.btn-gnu').click(function() {
+    allBtn('hide');
     $('.debian').hide();
     $('.gnu').show();
+    $('.btn-gnu').css('background-color', 'purple');
     $('.kernel').hide();
-    allBtn('hide');
     $('.btn-kernel').show();
     $('.btn-debian').show();
     $('.btn-gnu').show();
 });
 
 $('.btn-kernel').click(function() {
+    allBtn('hide');    
     $('.debian').hide();
     $('.gnu').hide();
     $('.kernel').show();
-    allBtn('hide');
+    $('.btn-kernel').css('background-color', 'purple');
     $('.btn-debian').show();
     $('.btn-gnu').show();
     $('.btn-kernel').show();
@@ -278,36 +347,23 @@ $('.btn-most-used-names').click(function() {
     $('.knowledge-content').hide();
 });
 
-$('.btn-knowledge').click(function() {
-    $('.knowledge').show();
-    $('.knowledge-content').show();    
-    $('.free-software').hide();
-    $('.free-software-content').hide();
-    $('.programming-languages').hide();    
-    $('.programming-languages-content').hide();
-    allBtn('hide');
-    $('.btn-gutenberg').show();
-    $('.btn-amazon').show();
-    $('.btn-imdb').show();    
-    $('.gutenberg').show();
-    $('.amazon').hide();
-    $('.imdb').hide();    
-});
-
 $('.btn-gutenberg').click(function() {
     allKnowledgeHide();
     $('.knowledge-content').show();
     $('.gutenberg').show();
+    $('.btn-gutenberg').css('background-color', 'purple');
 });
 
 $('.btn-amazon').click(function() {
     allKnowledgeHide();
     $('.knowledge-content').show();    
     $('.amazon').show();
+    $('.btn-amazon').css('background-color', 'purple');
 });
 
 $('.btn-imdb').click(function() {
     allKnowledgeHide();
-    $('.knowledge-content').show();    
+    $('.knowledge-content').show();
     $('.imdb').show();
+    $('.btn-imdb').css('background-color', 'purple');    
 });
