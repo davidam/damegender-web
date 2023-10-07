@@ -88,6 +88,9 @@
             <a class="nav-link py-3 px-0 px-lg-1 rounded js-scroll-trigger" href="#is"><img src="img/flags/is.svg" alt="Iceland" height="15px"/></a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
+            <a class="nav-link py-3 px-0 px-lg-1 rounded js-scroll-trigger" href="#it"><img src="img/flags/it.svg" alt="Iceland" height="15px"/></a>
+          </li>
+          <li class="nav-item mx-0 mx-lg-1">
             <a class="nav-link py-3 px-0 px-lg-1 rounded js-scroll-trigger" href="#no"><img src="img/flags/no.svg" alt="Norway" height="15px"/></a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
@@ -465,6 +468,27 @@
       </div>
     </div>
   </section>
+  
+  <!-- Most Common Names Section -->
+  <section class="page-section" id="it">
+    <div class="container">
+
+      <!-- Most Common Names Section Heading -->
+      <h2 class="page-section-heading text-center text-uppercase text-black">Most Used Names in Italy (<a href="https://raw.githubusercontent.com/davidam/damegender/master/src/damegender/files/names/names_it/itall.csv">CSV</a>)</h2>
+      <!-- Icon Divider -->
+      <div class="divider-custom divider-light">
+        <div class="divider-custom-line"></div>
+        <div class="divider-custom-icon">
+          <i class="fas fa-star"></i>
+        </div>
+        <div class="divider-custom-line"></div>
+      </div>
+
+      <div class="container">
+	<div id="topcontent-it"></div>
+      </div>
+    </div>
+  </section>
 
   <!-- Most Common Names Section -->
   <section class="page-section" id="no">
@@ -732,7 +756,7 @@
   <script src="js/freelancer.min.js"></script>
 
   <script>
-    let iterable = ["ar", "au", "be", "br", "ca", "ch", "cl", "de", "dk", "es", "fi", "fr", "gb", "ie", "inter", "is", "no", "nz", "mx", "ru", "se", "si", "us", "uy"];
+    let iterable = ["ar", "au", "be", "br", "ca", "ch", "cl", "de", "dk", "es", "fi", "fr", "gb", "ie", "inter", "is", "it", "no", "nz", "mx", "ru", "se", "si", "us", "uy"];
 
     for (let value of iterable) {
 	var url = "https://damegender.davidam.com/names/top/"+ value +"all.json";
