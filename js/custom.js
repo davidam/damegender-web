@@ -135,7 +135,6 @@ var logos = [
     "img/logos/Kissing_the_War_Goodbye.jpg",
     "img/logos/der-kuss.jpg",
     "img/logos/davidam.png",
-    "img/logos/inter_kiss.jpg",    
     "img/logos/1024px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
     "img/logos/The_Kiss_Klimt_Google_Cultural_Institute.jpg",
     "img/logos/800px-Bartolomé_Esteban_Perez_Murillo_014.jpg",
@@ -166,6 +165,7 @@ var logos = [
     "img/logos/Eva_marie_saint_marlon_brando.jpg",
     "img/logos/Kissing_the_War_Goodbye.jpg",
     "img/logos/der-kuss.jpg",
+    "img/logos/memorialcenter11s.jpg",
     "img/logos/Lauren_Klein.jpg"
 ];
 
