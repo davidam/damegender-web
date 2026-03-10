@@ -60,7 +60,8 @@ function allBtn(toggle) {
 	$('.btn-emacs').show();
 	$('.btn-gutenberg').show();
 	$('.btn-amazon').show();
-	$('.btn-imdb').show();	
+	$('.btn-imdb').show();
+	$('.btn-netflix').show();		
 	$('.btn-scientists-wikipedia').show();
     }
 
@@ -95,6 +96,8 @@ function allBtn(toggle) {
 	$('.btn-amazon').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-imdb').hide();
 	$('.btn-imdb').css('background-color', 'rgb(23, 162, 184)');
+	$('.btn-netflix').hide();
+	$('.btn-netflix').css('background-color', 'rgb(23, 162, 184)');
 	$('.btn-scientists-wikipedia').hide();
 	$('.btn-scientists-wikipedia').css('background-color', 'rgb(23, 162, 184)');	
     }
@@ -105,9 +108,11 @@ function allKnowledgeHide() {
     $('.gutenberg').hide();
     $('.amazon').hide();
     $('.imdb').hide();
+    $('.netflix').hide();    
     $('.btn-gutenberg').css('background-color', 'rgb(23, 162, 184)');
     $('.btn-amazon').css('background-color', 'rgb(23, 162, 184)');
-    $('.btn-imdb').css('background-color', 'rgb(23, 162, 184)');    
+    $('.btn-imdb').css('background-color', 'rgb(23, 162, 184)');
+    $('.btn-netflix').css('background-color', 'rgb(23, 162, 184)');    
 }
 
 function allDebianGNULinuxHide() {
@@ -230,10 +235,12 @@ $('.btn-knowledge').click(function() {
     allBtn('hide');
     $('.btn-gutenberg').show();
     $('.btn-amazon').show();
-    $('.btn-imdb').show();    
+    $('.btn-imdb').show();
+    $('.btn-netflix').show();    
     $('.gutenberg').show();
-    $('.amazon').hide();
-    $('.imdb').hide();    
+    $('.amazon').show();
+    $('.imdb').show();
+    $('.netflix').show();    
 });
 
 
