@@ -174,6 +174,7 @@ var logos = [
     "img/logos/Kissing_the_War_Goodbye.jpg",
     "img/logos/der-kuss.jpg",
     "img/logos/memorialcenter11s.jpg",
+    "img/logos/Valentina_Tereshkova.jpg",    
     "img/logos/Lauren_Klein.jpg"
 ];
 
