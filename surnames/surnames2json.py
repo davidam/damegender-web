@@ -8,7 +8,7 @@ with open(filepath) as fp:
         if re.match(r"(\w+),(\w+)", str(line)):
             m4 = re.match(r"(\w+),(\w+)", str(line))
             json_content = '[{\n'
-            json_content += '  "name": ' + m4.group(1) + ',\n'
+            json_content += '  "name": "' + m4.group(1) + '",\n'
             json_content += '  "frequency": ' + m4.group(2) + '\n'
             json_content += '}]\n'
             print(json_content)
